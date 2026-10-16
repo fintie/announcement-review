@@ -50,12 +50,16 @@ def collect(source, via, url):
     return result
 
 def main():
-    items, errors = [], []
+    items, errors, source_counts = [], [], []
     for source, via, url in SOURCES:
         try:
-            items.extend(collect(source, via, url))
+            fetched = collect(source, via, url)
+            items.extend(fetched)
+            source_counts.append({"source": source, "via": via, "count": len(fetched)})
+            print("SOURCE", source, via, "returned", len(fetched), "items", flush=True)
         except Exception as exc:
             errors.append(source + ": " + type(exc).__name__ + ": " + str(exc)[:160])
+            print("SOURCE ERROR", errors[-1], flush=True)
     seen, unique = set(), []
     cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=24)
     for item in sorted(items, key=lambda x: x["published"], reverse=True):
@@ -77,10 +81,12 @@ def main():
         except (ValueError, OSError): pass
     if not unique and previous.get("items"):
         print("No recent results; publishing empty 24-hour window rather than stale news")
-    payload = {"updated_at": dt.datetime.now(dt.timezone.utc).isoformat(), "window_hours": 24, "items": unique[:200], "source_errors": errors, "sources_attempted": len(SOURCES), "sources_failed": len(errors), "note": "Public RSS/index links only; not an official licensed ASX/AFR feed. Titles are not verified facts."}
+    payload = {"updated_at": dt.datetime.now(dt.timezone.utc).isoformat(), "window_hours": 24, "items": unique[:200], "source_errors": errors, "sources_attempted": len(SOURCES), "sources_failed": len(errors), "source_counts": source_counts, "note": "Public RSS/index links only; not an official licensed ASX/AFR feed. Titles are not verified facts."}
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
         f.write("\n")
-    print("Indexed", len(payload["items"]), "items; source errors:", errors)
+    print("Indexed", len(payload["items"]), "items; source errors:", errors, flush=True)
+    if not payload["items"]:
+        raise SystemExit("No news in last 24 hours; inspect SOURCE ERROR / SOURCE lines above")
 
 if __name__ == "__main__": main()

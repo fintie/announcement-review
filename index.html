@@ -78,6 +78,7 @@ async function loadMarketFeed(){const status=$('#marketFeedUpdated');status.text
 $('#marketFilters').addEventListener('click',e=>{const b=e.target.closest('button[data-source]');if(b){marketSource=b.dataset.source;drawMarketFeed();}});
 $('#refreshMarketFeed').onclick=loadMarketFeed;
 loadMarketFeed();
-\nrender();if(bridge)testBridge();
+
+render();if(bridge)testBridge();
 </script>
 </body></html>

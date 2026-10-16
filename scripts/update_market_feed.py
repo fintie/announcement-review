@@ -15,6 +15,8 @@ SOURCES = [
     ("ASX", "Google News index", "https://news.google.com/rss/search?q=" + urllib.parse.quote('ASX company announcement Australia when:2d') + "&hl=en-AU&gl=AU&ceid=AU:en"),
     ("Reddit", "Reddit public RSS", "https://www.reddit.com/r/ASX_Bets/new/.rss?limit=20"),
     ("Reddit", "Reddit public RSS", "https://www.reddit.com/r/AusFinance/new/.rss?limit=20"),
+    ("Reddit", "Reddit public RSS", "https://www.reddit.com/r/ausstocks/new/.rss?limit=20"),
+    ("Reddit", "Reddit public RSS", "https://www.reddit.com/r/AusProperty/new/.rss?limit=20"),
     ("News", "Google News index", "https://news.google.com/rss/search?q=" + urllib.parse.quote("ASX Australian shares companies when:2d") + "&hl=en-AU&gl=AU&ceid=AU:en"),
 ]
 NS = {"atom": "http://www.w3.org/2005/Atom"}
@@ -63,6 +65,8 @@ def main():
     seen, unique = set(), []
     cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=24)
     for item in sorted(items, key=lambda x: x["published"], reverse=True):
+        if len(item["title"].strip()) < 18 or item["title"].lower().endswith((".xlsm - afr", ".xlsx - afr")) or item["title"].strip().lower() in {"asx release: - afr", "asx release - afr"}:
+            continue
         try:
             published = dt.datetime.fromisoformat(item["published"].replace("Z", "+00:00")).astimezone(dt.timezone.utc)
         except (ValueError, TypeError):

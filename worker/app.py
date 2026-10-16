@@ -1,11 +1,10 @@
 """Local-only IMD announcement review worker. No public inbound access required."""
 import os
-import re
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 import httpx
 
-app = FastAPI(title="Announcement Review Local Worker")
+app = FastAPI(title="Announcement Review Local Worker", docs_url=None, redoc_url=None)
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://127.0.0.1:11434").rstrip("/")
 MODEL = os.getenv("OLLAMA_MODEL", "qwen2.5:7b")
 

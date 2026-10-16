@@ -11,10 +11,11 @@ import xml.etree.ElementTree as ET
 
 OUT = "data/market-feed.json"
 SOURCES = [
-    ("AFR", "Google News index", "https://news.google.com/rss/search?q=" + urllib.parse.quote('site:afr.com/companies OR site:afr.com/markets when:7d') + "&hl=en-AU&gl=AU&ceid=AU:en"),
-    ("ASX", "Google News index", "https://news.google.com/rss/search?q=" + urllib.parse.quote('site:asx.com.au/markets/company when:7d') + "&hl=en-AU&gl=AU&ceid=AU:en"),
+    ("AFR", "Google News index", "https://news.google.com/rss/search?q=" + urllib.parse.quote('site:afr.com (ASX OR shares OR company) when:2d') + "&hl=en-AU&gl=AU&ceid=AU:en"),
+    ("ASX", "Google News index", "https://news.google.com/rss/search?q=" + urllib.parse.quote('ASX company announcement Australia when:2d') + "&hl=en-AU&gl=AU&ceid=AU:en"),
     ("Reddit", "Reddit public RSS", "https://www.reddit.com/r/ASX_Bets/new/.rss?limit=20"),
     ("Reddit", "Reddit public RSS", "https://www.reddit.com/r/AusFinance/new/.rss?limit=20"),
+    ("News", "Google News index", "https://news.google.com/rss/search?q=" + urllib.parse.quote("ASX Australian shares companies when:2d") + "&hl=en-AU&gl=AU&ceid=AU:en"),
 ]
 NS = {"atom": "http://www.w3.org/2005/Atom"}
 def parse_date(value):
@@ -54,7 +55,7 @@ def main():
         try:
             items.extend(collect(source, via, url))
         except Exception as exc:
-            errors.append(source + ": " + type(exc).__name__)
+            errors.append(source + ": " + type(exc).__name__ + ": " + str(exc)[:160])
     seen, unique = set(), []
     cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=24)
     for item in sorted(items, key=lambda x: x["published"], reverse=True):
@@ -76,7 +77,7 @@ def main():
         except (ValueError, OSError): pass
     if not unique and previous.get("items"):
         print("No recent results; publishing empty 24-hour window rather than stale news")
-    payload = {"updated_at": dt.datetime.now(dt.timezone.utc).isoformat(), "window_hours": 24, "items": unique[:200], "source_errors": errors, "note": "Public RSS/index links only; not an official licensed ASX/AFR feed. Titles are not verified facts."}
+    payload = {"updated_at": dt.datetime.now(dt.timezone.utc).isoformat(), "window_hours": 24, "items": unique[:200], "source_errors": errors, "sources_attempted": len(SOURCES), "sources_failed": len(errors), "note": "Public RSS/index links only; not an official licensed ASX/AFR feed. Titles are not verified facts."}
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
         f.write("\n")

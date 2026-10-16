@@ -56,7 +56,14 @@ def main():
         except Exception as exc:
             errors.append(source + ": " + type(exc).__name__)
     seen, unique = set(), []
+    cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=24)
     for item in sorted(items, key=lambda x: x["published"], reverse=True):
+        try:
+            published = dt.datetime.fromisoformat(item["published"].replace("Z", "+00:00")).astimezone(dt.timezone.utc)
+        except (ValueError, TypeError):
+            continue
+        if published < cutoff or published > dt.datetime.now(dt.timezone.utc) + dt.timedelta(minutes=10):
+            continue
         key = item["url"].split("?")[0]
         if key not in seen:
             unique.append(item)
@@ -68,9 +75,8 @@ def main():
             with open(OUT, encoding="utf-8") as f: previous = json.load(f)
         except (ValueError, OSError): pass
     if not unique and previous.get("items"):
-        print("All sources failed; preserving previous feed")
-        return
-    payload = {"updated_at": dt.datetime.now(dt.timezone.utc).isoformat(), "items": unique[:80], "source_errors": errors, "note": "Public RSS/index links only; not an official licensed ASX/AFR feed. Titles are not verified facts."}
+        print("No recent results; publishing empty 24-hour window rather than stale news")
+    payload = {"updated_at": dt.datetime.now(dt.timezone.utc).isoformat(), "window_hours": 24, "items": unique[:200], "source_errors": errors, "note": "Public RSS/index links only; not an official licensed ASX/AFR feed. Titles are not verified facts."}
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
         f.write("\n")

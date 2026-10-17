@@ -48,12 +48,12 @@ function renderComments(comments,localOnly){
  const real=comments.filter(c=>c.role!=='agent_seed');
  const agents=real.some(c=>c.role==='agent')?[]:seededAgents(state.item);
  // Generated starter content never counts as user activity.
- $('#count').textContent=String(real.filter(c=>c.role==='community').length);
- $('#commentMode').textContent=localOnly?'Your comments are saved on this browser · AI Agent commentary is illustrative.':'Shared community discussion · AI Agent comments are automated.';
  const ordered=[...real,...agents];
+ $('#count').textContent=String(ordered.length);
+ $('#commentMode').textContent=localOnly?'Your comments are saved on this browser · automated accounts may also contribute.':'Shared community discussion · automated accounts may also contribute.';
  $('#comments').innerHTML=ordered.length?ordered.map(c=>{
  const agent=c.role==='agent_seed',bot=c.role==='bot';
- const badge=agent||c.role==='agent'?'<span class="pill">AI Agent</span>':bot?'<span class="botlabel">AI BOT</span>':'<span class="pill">'+(localOnly?'Local review':c.review_type==='community_review'?'Community Review':'Comment')+'</span>';
+ const badge=agent||c.role==='agent'?'<span class="tiny muted" title="Automated account">· automated</span>':bot?'<span class="botlabel">AI BOT</span>':'<span class="pill">'+(localOnly?'Local review':c.review_type==='community_review'?'Community Review':'Comment')+'</span>';
  const date=c.created_at?'<div class="tiny muted">'+esc(new Date(c.created_at).toLocaleString('en-AU'))+'</div>':'';
  return '<article class="comment"><strong>'+esc(c.author)+'</strong> '+badge+date+'<p>'+esc(c.body)+'</p>'+(agent||bot?'':'<button class="reply" data-reply="'+esc(c.id)+'" data-author="'+esc(c.author)+'">Reply</button>')+'</article>';
  }).join(''):'No comments yet. Be the first to contribute.';

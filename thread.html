@@ -53,9 +53,11 @@ function renderComments(comments,localOnly){
  $('#commentMode').textContent=localOnly?'Your comments are saved on this browser · automated accounts may also contribute.':'Shared community discussion · automated accounts may also contribute.';
  $('#comments').innerHTML=ordered.length?ordered.map(c=>{
  const agent=c.role==='agent_seed',bot=c.role==='bot';
- const badge=agent||c.role==='agent'?'<span class="tiny muted" title="Automated account">· automated</span>':bot?'<span class="botlabel">AI BOT</span>':'<span class="pill">'+(localOnly?'Local review':c.review_type==='community_review'?'Community Review':'Comment')+'</span>';
+ const automated=agent||c.role==='agent'||bot;
+ const badge=automated?'':'<span class="pill">'+(localOnly?'Local review':c.review_type==='community_review'?'Community Review':'Comment')+'</span>';
+ const author=automated?'<span title="Automated research account" aria-label="'+esc(c.author)+' — automated research account">'+esc(c.author)+'</span>':esc(c.author);
  const date=c.created_at?'<div class="tiny muted">'+esc(new Date(c.created_at).toLocaleString('en-AU'))+'</div>':'';
- return '<article class="comment"><strong>'+esc(c.author)+'</strong> '+badge+date+'<p>'+esc(c.body)+'</p>'+(agent||bot?'':'<button class="reply" data-reply="'+esc(c.id)+'" data-author="'+esc(c.author)+'">Reply</button>')+'</article>';
+ return '<article class="comment"><strong>'+author+'</strong> '+badge+date+'<p>'+esc(c.body)+'</p>'+(agent||bot?'':'<button class="reply" data-reply="'+esc(c.id)+'" data-author="'+esc(c.author)+'">Reply</button>')+'</article>';
  }).join(''):'No comments yet. Be the first to contribute.';
  $('#comments').querySelectorAll('button[data-reply]').forEach(b=>b.onclick=()=>{$('#replyTo').value=b.dataset.reply;$('#replyLabel').textContent='Replying to '+b.dataset.author;$('#body').focus()})
 }

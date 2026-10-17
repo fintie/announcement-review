@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-10-17T16:07:32.985170+00:00",
+  "updated_at": "2026-10-17T18:25:19.987888+00:00",
   "window_hours": 24,
   "items": [
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "Australian Securities Exchange stock sat 0.70 percent below 52-week high on October 16, 2026 - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc0MxRVNFRnBBSGZGNnExeVBMYXFuUGpaLUczWGZCS191X0VEV1NXTDR6VjR3b3czTTk4ZlNDbFdHNHRpZHJOQWJyVTd5SDJRUktmSHcxdEFjNGpwSlM0SGtpTWhYMVNZZGxyN2FuMTlJVUdJX3VRLUxhbE5DQjNpdS12eC1wNmpldUk5OHc3cHhaM0dQRU10V29RRGNFWHRoa3VRZXBWUjQtTEdsVlU0UVlfc1VGakE2aW54dm9neGs5RWFmLVM3d3dBcw?oc=5",
+      "published": "2026-10-17T17:35:44+00:00"
+    },
     {
       "source": "News",
       "via": "Google News index",
@@ -50,6 +57,13 @@
       "title": "Insurance Australia Group Limited (IAG.AX) stock price, news, quote and history - Yahoo Finance Australia",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5bFR4X01HZUlSWU90VHk0eWxhWDBrRHBFaU01SlRDc0FQNmpiQThOT3hkd3plUFFxaHZvYmVHc29MeDZFalhEbW5BLUdfVDNyZERKWQ?oc=5",
       "published": "2026-10-17T01:07:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Company earnings calendar - Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXFHTjY5M0J2U3psUk5SUy04NTVZSnVlcDdiU01pM1BiRndLRXlUQXk3VFhTbmV2X0N2RDg1aDk0NVljajR0VlZCak1uVktxN1dxd0pqd2dIeFU0ZVNVWUNsSTRlWU5kV3RqaGN5ZlRQNXFaSWZWWDQwdTlwek9YS2twRDhCTGh4MG9hQ29aS3VCWEZYYnc?oc=5",
+      "published": "2026-10-17T00:11:47+00:00"
     },
     {
       "source": "News",
@@ -136,6 +150,20 @@
       "published": "2026-10-16T21:43:28+00:00"
     },
     {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Murray Cod Australia Ltd - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQktHZmNHSm9TOXNKZ2M0dFNsaVVQWXA5ZU1pUUoyMUE4ZlkxVTdCOG4zeXlPa2RlaWZPcmhTTjZ4VkhOT1dpQlBhczd0ZUo4eEtVVlZwQ05FcmQyRnhxWDVfWmE5N05XdUQ0em1hODVKNjBPOWt0aklyTjhMazBtYU9kNkpNVC1hWkprT1RJTQ?oc=5",
+      "published": "2026-10-16T21:17:08+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Appendix 3H - Notification of cessation of securities - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjJqRzc4RmRZTEVMSkhkUFZTMnlDYjlONFZmRDBYN184UURGemZaOEJGWFdhcmQ4bkJFRjFTU0tFaFlHa1gzOUZXYi1SZHMxSUxCNzNMS2xZeTNKbmJsYkR2QktkekNVbVFvQ1pjNHRLZnFNSWM2Qk85SXdPQmpTcUhSV2dSbng5UjRIM1FsRQ?oc=5",
+      "published": "2026-10-16T20:54:53+00:00"
+    },
+    {
       "source": "News",
       "via": "Google News index",
       "title": "Insiders Buying Australian Agricultural Projects Might Wish They Invested More, Stock Gains 11% - Simply Wall Street",
@@ -148,13 +176,6 @@
       "title": "Appendix 2A - Application for quotation of securities - AFR",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNenhfVHZES0ZFV3JZc0NFWkN1NF92Tll3XzZnVHlWeUlaeThzX09uQUZjRDZDN1NONjBWVXpQc2R4QzdnTE5oSWl4N0RnQm1uMHBWZU90UTNuUW5iN2lpQXlUcldON0E3cmlZeU9mbnUwdk5CTHFzVi0wS0VJQmxUbTZJRTYxalB2eTRfTElQYw?oc=5",
       "published": "2026-10-16T20:38:52+00:00"
-    },
-    {
-      "source": "News",
-      "via": "Google News index",
-      "title": "Australian United Investment (ASX:AUI) Moves To Quarterly Dividends, Is The Stock Still Cheap? - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZHRFQVVrVm02OWRVbkduZC1KZnB0eHgwR3hFYjR3NGNHRDd5N2Q5NDZlQ1pzaWhkN0VaYzhzXzZnSWQtTFhyYzhVTHpub1RiZ1cxLXVTZ05NeDBfWFUxZ1NNUnFmckxwazhzQUxON1Bvbmx2NU5EWHNLeUM3NkJxWU90RGg3ZUVHZ05sNi1ZSjlQb2hmUjdiYkx1d3NkdldwanFNTjd6cXl2MkRJakh5eGswSFpTYnNGWXBZU1RCSEM0RzJjd3JsRkNFVGZEUnlaa3U0OGhURHRTck5HN0lVUzBRamJhS3piWmVueWw1SEdfVi1iVDBN0gH8AUFVX3lxTE50QXNpbmhJVnVITHZBOXNNWExwVjVGaHBpcFpJNXFoYU9mdU1VRDRpUnJvN1lfQmdsYVpEczdMZmRHMGxWbjgwVHpHc2lMVVY3WTJhcloxWUJmZEpDOXVHNlk3RHJMSHhUaUxBajJuS25mcHo4NURuR1pQUUluSU5ucjM2SE4tekw5TFpzUExtNkV3UzUyVzRvdHVPdjQ4czhlRGVfRWRNMVdZUmdzQTJINzI1Z1lvOWYwdmJqYnYtOTFkMVEtN2VsT1hONW8xN0pRTVktTzl2cGxranZ2TVF5VDd2b0d6OEpRNldwUndfZGpmRVZRbzhVTWxWMg?oc=5",
-      "published": "2026-10-16T17:16:14+00:00"
     }
   ],
   "source_errors": [
@@ -186,7 +207,7 @@
     {
       "source": "News",
       "via": "Google News index",
-      "count": 44
+      "count": 45
     }
   ],
   "note": "Public RSS/index links only; not an official licensed ASX/AFR feed. Titles are not verified facts."

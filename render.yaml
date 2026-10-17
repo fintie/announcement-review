@@ -1,8 +1,19 @@
+# Apply this Blueprint only after approving the paid persistent-disk service.
+# The existing IMD bridge service is not used by the new community UI.
 services:
   - type: web
-    name: announcement-review-imd
+    name: announcement-review-community
     runtime: node
-    plan: free
-    buildCommand: node --check server.mjs
+    plan: starter
+    buildCommand: npm test && node --check server.mjs
     startCommand: node server.mjs
     healthCheckPath: /health
+    disk:
+      name: community-data
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: THREADS_DATA_FILE
+        value: /var/data/community-threads.json
+      - key: ALLOWED_ORIGINS
+        value: https://announcement.nextgenius.com.au,https://fintie.github.io

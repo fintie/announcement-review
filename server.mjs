@@ -17,6 +17,45 @@ const send=(res,code,data)=>{res.writeHead(code,{'Content-Type':'application/jso
 function sanitize(v,max){return String(v??'').trim().slice(0,max)}
 function validateUrl(v){const u=new URL(v);if(u.protocol!=='https:'||u.href.length>2200)throw Error('Valid HTTPS source URL required');return u.href}
 function ensureThread(db,url,title,company,source){const id=key(url);if(!db.threads[id])db.threads[id]={id,url,title,company,source,created_at:now(),comments:[],last_bot_at:null};return db.threads[id]}
+const agentNames=['MarketLens','ValueScout','DisclosureWatch'];
+function seedThread(thread){
+ if(thread.seed_version)return;
+ const title=(thread.title||'').toLowerCase();
+ const hash=Number.parseInt(thread.id.slice(0,8),16);
+ const finance=/capital rais|placement|funding|rights issue|offering|equity/.test(title);
+ const results=/earnings|profit|revenue|quarterly|dividend|results|guidance/.test(title);
+ const market=/etf|fund|stock|shares|market|price|rally|surge|selloff/.test(title);
+ const messages=finance?[
+ 'A capital raise is not automatically negative. The dilution needs to be weighed against the intended use of funds.',
+ 'Cash runway is worth comparing with the latest quarterly report.',
+ 'The issue price and conditions would help put this announcement into context.',
+ 'Funding can reduce near-term risk without resolving the longer-term business case.',
+ 'The placement terms matter more than the headline amount alone.']:
+ results?[
+ 'Revenue growth and cash generation can point in different directions.',
+ 'The comparison period and any one-off items deserve a closer look.',
+ 'Changes to guidance may matter more than the historical headline result.',
+ 'Margins can tell a different story from the top-line growth figure.',
+ 'The primary financial report is the right place to check these claims.']:
+ market?[
+ 'Price action is not necessarily evidence of changing fundamentals.',
+ 'Fund flows and underlying portfolio performance measure different things.',
+ 'The timing of the announcement matters when interpreting a market move.',
+ 'Short-term sentiment can diverge from the investment thesis.',
+ 'It is worth distinguishing a formal disclosure from market commentary.']:
+ [
+ 'The original issuer disclosure may provide important context missing from the headline.',
+ 'Changes relative to previous announcements could be more meaningful than the headline.',
+ 'The business implications and the immediate market reaction are separate questions.',
+ 'Conditions and timing could materially affect how this news is interpreted.',
+ 'An announced plan is not the same as a completed outcome.'];
+ const count=hash%7===0?0:1+hash%5;
+ for(let i=0;i<count;i++){
+  const body=messages[(Math.floor(hash/7)+i*2)%messages.length];
+  thread.comments.push({id:randomUUID(),author:agentNames[(hash+i)%3],role:'agent',body,created_at:now(),reply_to:null,review_type:'agent_comment',source_basis:'headline_only'});
+ }
+ thread.seed_version=1;
+}
 const botPrompts=[
   'AI research prompt: What is the primary-source announcement or document supporting this headline? Please share a dated source link.',
   'AI research prompt: Which statements are confirmed facts, and which are forecasts, opinions, or interpretations?',
@@ -52,6 +91,7 @@ http.createServer(async(req,res)=>{
    if(/https?:\/\/|www\./i.test(body)&&body.length>1200)return send(res,400,{error:'Comment too long'});
    const result=await mutate(db=>{
     const thread=ensureThread(db,url,title,company,source);
+    seedThread(thread);
     if(thread.comments.length>=200)throw Error('Thread reached comment limit');
     if(replyTo&&!thread.comments.some(c=>c.id===replyTo))throw Error('Reply target not found');
     const comment={id:randomUUID(),author,role:'community',body,created_at:now(),reply_to:replyTo||null,review_type:input.review_type==='community_review'?'community_review':'comment'};

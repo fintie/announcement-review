@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-10-17T18:25:19.987888+00:00",
+  "updated_at": "2026-10-17T20:45:41.429797+00:00",
   "window_hours": 24,
   "items": [
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Bank of Queensland stock has a dividend ex-date on October 27, 2026 - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORDRPbHlUdmMtMHc1UWFYaUIzQXAxUWJtZXBwdlZZSk9oSFFyeHc1clZyNGU1czhSYmZxYXNidkctYnZwRlpxSktTY0haR2E4c0loZklUaGNtTUNRTDh3c1g4S2pNYTRFNEtod3p0MHo5UEVZR2RRMm1nbHEyZTdZWnBmV2htbFQzVlVobVFuZ09jRHUzb3ZabDVaNFFxUzBQdmg5bDVzeUk5ZkJ3Rk9hUlFaUTNvSTltR0Y3UVVOQWFnb3M?oc=5",
+      "published": "2026-10-17T20:10:00+00:00"
+    },
     {
       "source": "News",
       "via": "Google News index",
@@ -22,6 +29,13 @@
       "title": "Pumped then placed: 39 ASX raises in 6 months came right after a 30%+ run. Here's the news that started 7 of them [OC]",
       "url": "https://www.reddit.com/r/ASX_Bets/comments/1x84wo6/pumped_then_placed_39_asx_raises_in_6_months_came/",
       "published": "2026-10-17T08:21:28+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Corporate Update - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDhnLTB0Zm4zbjk5bVhIWnRQWDdqbkUwaGN3emdqODhHclZQVzVjQ0N2cEdfVUI5Z3BXbVpLTU5nbk14djJwNzgtNzM1MVVUY0dRWGlaZXc5RVBaVW9lbWNxX09ULVp0NTJ4OWR2UklmYWc4WG82d0lXbmVGbVJjYm8wTWNOUHhneEFwYkNBMA?oc=5",
+      "published": "2026-10-17T07:10:23+00:00"
     },
     {
       "source": "AFR",
@@ -59,11 +73,25 @@
       "published": "2026-10-17T01:07:00+00:00"
     },
     {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "ASX ANNOUNCEMENT SHARE PURCHASE PLAN – EXTENSION OF OFFER PERIOD - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeVlXWFhWYjE4X084ODFmcXozWlYzeU9OUWEwbklxTzRhVlRIWmNoQ2lNWFRod1JMNThlTXdwSXJOeWltNGg4SE9jTW0wZk83a2x1cXB2YWZlNkxwWlRRcFZhaG5VZDB2a3ByMmlQUTA5Q2VuWmp6Zkg5U2NVNlBwQ1RkN0pqVll4akdheTVmZw?oc=5",
+      "published": "2026-10-17T00:54:20+00:00"
+    },
+    {
       "source": "ASX",
       "via": "Google News index",
       "title": "Company earnings calendar - Yahoo Finance Australia",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXFHTjY5M0J2U3psUk5SUy04NTVZSnVlcDdiU01pM1BiRndLRXlUQXk3VFhTbmV2X0N2RDg1aDk0NVljajR0VlZCak1uVktxN1dxd0pqd2dIeFU0ZVNVWUNsSTRlWU5kV3RqaGN5ZlRQNXFaSWZWWDQwdTlwek9YS2twRDhCTGh4MG9hQ29aS3VCWEZYYnc?oc=5",
       "published": "2026-10-17T00:11:47+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Company earnings calendar - Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaE5MZkZLN3V1SWdCLWdJUFZhWnJ5bzZNQkJNX1Z0bHRnaWo5cVRBM2dCaVVYQ3RVenp0bV94UXBoTkpGYnpHTDBLLUMyRFI3eGgtc0FPNlBWZmZHRWR1cFJrc1dZYVBEeVd0Um8tVklnUGNYQ3Nkd1J5aUNfcDY5UEpnb3oySGFkay1jZjYyTlVCMTM2bHc?oc=5",
+      "published": "2026-10-16T23:44:08+00:00"
     },
     {
       "source": "News",
@@ -169,13 +197,6 @@
       "title": "Insiders Buying Australian Agricultural Projects Might Wish They Invested More, Stock Gains 11% - Simply Wall Street",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQX2puSU5DRTJ1V2VaZG9IR0pQd1B6V1NnM2E5Qmh2UXZjWF84NnR1UFYxTFRYWDFqakJTOE44ajJ2LTNpLTFGRG90V1hjMjRodXloQUwycDdDZWpMT1p6OGlWeFRvOW1VZ3cxamtzYnROZnZ0d3ZmWUZSczBzR1RBb2ZIekxrWnFrRXBIWmtXNTFXY29tSTV3WUlUZDZxZVQ5M1VQRlBWdXdzRE1xSmtDUjg4LWJoalRkX3pvRjZIQ0tydFp4b0swckotdGh6aWd3YWI2QzhDMUlRS3dQTkY0UThFaXR0emxNc0JhampFVm02Mk80RkQydVhB0gH_AUFVX3lxTFBKd1Q2LUhuQlNJblJHSjdrZnBfdlJPZmRMWElVVFhNbkNna2FwWGxGa0pBbUFNZ1d4X0VsemxVZ0lUZEh4WFFDWTVfczlQdjlfZlZzSlFVaEloUkJILWY3Y2Z6Ul9UUEM1eVVFbFhSeDZJeEdNc2ZqcG9YNk1HdFFrd01TSW1Vd294RzRLRU9IZHp3bTVwczJndlJEMnRnQU95REF4WWpkTEVlRTBGUmVnTmlxRjZHdjNUbXNtSjhRZ3BiNlpORFdNdUphWmxtMmdRUnlUMEtLU0pfQ2YxSXhOT2Q1b1R1aXNHT2FUaG1SVDJCb2FxZDZCQ1plMmlXSQ?oc=5",
       "published": "2026-10-16T20:50:28+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Appendix 2A - Application for quotation of securities - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNenhfVHZES0ZFV3JZc0NFWkN1NF92Tll3XzZnVHlWeUlaeThzX09uQUZjRDZDN1NONjBWVXpQc2R4QzdnTE5oSWl4N0RnQm1uMHBWZU90UTNuUW5iN2lpQXlUcldON0E3cmlZeU9mbnUwdk5CTHFzVi0wS0VJQmxUbTZJRTYxalB2eTRfTElQYw?oc=5",
-      "published": "2026-10-16T20:38:52+00:00"
     }
   ],
   "source_errors": [
@@ -197,7 +218,7 @@
     {
       "source": "ASX",
       "via": "Google News index",
-      "count": 50
+      "count": 49
     },
     {
       "source": "Reddit",

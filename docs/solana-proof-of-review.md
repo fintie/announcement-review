@@ -24,10 +24,10 @@ This feature adds a **hybrid, client-side Solana Devnet proof** to Announcement 
 `JSON.stringify`-compatible canonical JSON recursively sorts object keys, preserves array order, and excludes undefined object properties. The object is:
 
 ```json
-{"schema":"announcement-review/proof-v1","review":{"company":"...","ticker":"...","title":"...","date":"...","url":"...","body":"...","claims":[],"reviewed":true}}
+{"schema":"announcement-review/proof-v1","review":{"company":"...","ticker":"...","title":"...","date":"...","url":"...","body":"...","claims":[],"notes":"...","reviewed":true}}
 ```
 
-The SHA-256 digest is calculated over UTF-8 bytes of this canonical JSON. Other clients must implement the same normalization to verify a digest.
+The SHA-256 digest is calculated over UTF-8 bytes of this canonical JSON, including review notes. Shared implementation: `proof-core.mjs`. Tests: `npm test`. Other clients must implement the same normalization to verify a digest.
 
 ## Dependencies and limitations
 - The proof page imports `@solana/web3.js@1.98.4` from esm.sh in the browser; this requires CDN availability and should be vendored or pinned with an integrity-controlled build before production.

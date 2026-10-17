@@ -17,6 +17,9 @@ SOURCES = [
     ("Reddit", "Reddit public RSS", "https://www.reddit.com/r/AusFinance/new/.rss?limit=20"),
     ("Reddit", "Reddit public RSS", "https://www.reddit.com/r/ausstocks/new/.rss?limit=20"),
     ("Reddit", "Reddit public RSS", "https://www.reddit.com/r/AusProperty/new/.rss?limit=20"),
+    ("Reddit", "Reddit public RSS", "https://www.reddit.com/r/AusEcon/new/.rss?limit=20"),
+    ("Reddit", "Reddit public RSS", "https://www.reddit.com/r/AusFinance/top/.rss?t=day&limit=25"),
+    ("Reddit", "Reddit public RSS", "https://www.reddit.com/r/ASX_Bets/top/.rss?t=day&limit=25"),
     ("News", "Google News index", "https://news.google.com/rss/search?q=" + urllib.parse.quote("ASX Australian shares companies when:2d") + "&hl=en-AU&gl=AU&ceid=AU:en"),
 ]
 NS = {"atom": "http://www.w3.org/2005/Atom"}

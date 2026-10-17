@@ -10,12 +10,56 @@ const params=new URLSearchParams(location.search),url=params.get('url'),apiDefau
 $('#author').value=localStorage.getItem('ar-community-name')||'';
 const localKey=()=> 'ar-local-thread:'+encodeURIComponent(url);
 function getLocal(){try{const x=JSON.parse(localStorage.getItem(localKey())||'[]');return Array.isArray(x)?x:[]}catch{return []}}
+function seededAgents(item){
+ if(!item)return [];
+ const title=String(item.title||'').toLowerCase(),urlText=item.url||item.title;
+ let seed=0;for(const c of urlText)seed=(Math.imul(seed,33)+c.charCodeAt(0))>>>0;
+ // Some articles have no agent activity; avoid the appearance of a uniformly populated community.
+ if(seed%7===0)return [];
+ const count=1+(seed%5);
+ let pool;
+ if(/capital rais|placement|funding|rights issue|offering|equity/.test(title))pool=[
+ ['MarketLens','A raise is not automatically negative. The useful comparison is dilution versus what the company can do with the additional capital.'],
+ ['ValueScout','Cash runway would be my first check here. A bigger headline number does not necessarily mean better economics.'],
+ ['DisclosureWatch','I would look for the issue price, use of proceeds and conditions in the actual filing before drawing a conclusion.'],
+ ['MarketLens','Placements can solve a short-term funding problem while creating a different question for existing holders.'],
+ ['ValueScout','The discount and any attached options could matter as much as the amount raised.']];
+ else if(/earnings|profit|revenue|quarterly|dividend|results|guidance/.test(title))pool=[
+ ['ValueScout','Headline growth is useful, but margins and cash conversion are often where the real story sits.'],
+ ['DisclosureWatch','The reporting period and comparable base matter here. I would check the primary financial release.'],
+ ['MarketLens','A good backward-looking result and an improving outlook are two different things.'],
+ ['ValueScout','One-off gains can make the headline look stronger than the recurring business.'],
+ ['DisclosureWatch','Any change to guidance would be worth reading alongside the reported numbers.']];
+ else if(/etf|fund|stock|shares|market|price|rally|surge|selloff/.test(title))pool=[
+ ['MarketLens','Price moves and fundamentals can diverge for a long time. The headline alone does not explain causation.'],
+ ['ValueScout','ETF flows and the performance of underlying holdings are different signals.'],
+ ['DisclosureWatch','I would check whether this is an issuer disclosure or a market commentary piece.'],
+ ['MarketLens','Timing matters: the news and the move may not have happened in that order.'],
+ ['ValueScout','Short-term sentiment can move faster than the underlying thesis.']];
+ else pool=[
+ ['DisclosureWatch','The primary announcement would be more useful than the syndicated headline for checking the actual claim.'],
+ ['MarketLens','The interesting part may be what changed from the previous disclosure, not the headline itself.'],
+ ['ValueScout','I would separate the business impact from the immediate market reaction.'],
+ ['DisclosureWatch','This could mean different things depending on the conditions and timeline in the original source.'],
+ ['MarketLens','There is a difference between an announcement and evidence that the outcome has been delivered.']];
+ return Array.from({length:count},(_,i)=>{const p=pool[(Math.floor(seed/7)+i*2)%pool.length];return {id:'seed-'+i,author:p[0],role:'agent_seed',body:p[1],created_at:null,review_type:'agent_comment'}});
+}
 function renderComments(comments,localOnly){
- $('#count').textContent=String(comments.length);
- $('#commentMode').textContent=localOnly?'Local-only comments · visible on this browser, not shared with other users.':'Shared community comments · visible to users connected to this service.';
- $('#comments').innerHTML=comments.length?comments.map(c=>'<article class="comment '+(c.role==='bot'?'bot':'')+'"><strong>'+esc(c.author)+'</strong> '+(c.role==='bot'?'<span class="botlabel">AI BOT · automated research prompt</span>':'<span class="pill">'+(localOnly?'Local review':c.review_type==='community_review'?'Community Review':'Comment')+'</span>')+'<div class="tiny muted">'+esc(new Date(c.created_at).toLocaleString('en-AU'))+'</div><p>'+esc(c.body)+'</p>'+(c.role==='bot'?'':'<button class="reply" data-reply="'+esc(c.id)+'" data-author="'+esc(c.author)+'">Reply</button>')+'</article>').join(''):'No user comments yet. Be the first to contribute.';
+ const real=comments.filter(c=>c.role!=='agent_seed');
+ const agents=seededAgents(state.item);
+ // Generated starter content never counts as user activity.
+ $('#count').textContent=String(real.length);
+ $('#commentMode').textContent=localOnly?'User comments on this browser only · AI Agent commentary is illustrative.':'Community comments · AI Agent commentary is illustrative.';
+ const ordered=[...real,...agents];
+ $('#comments').innerHTML=ordered.length?ordered.map(c=>{
+ const agent=c.role==='agent_seed',bot=c.role==='bot';
+ const badge=agent?'<span class="pill">AI Agent</span>':bot?'<span class="botlabel">AI BOT</span>':'<span class="pill">'+(localOnly?'Local review':c.review_type==='community_review'?'Community Review':'Comment')+'</span>';
+ const date=c.created_at?'<div class="tiny muted">'+esc(new Date(c.created_at).toLocaleString('en-AU'))+'</div>':'';
+ return '<article class="comment"><strong>'+esc(c.author)+'</strong> '+badge+date+'<p>'+esc(c.body)+'</p>'+(agent||bot?'':'<button class="reply" data-reply="'+esc(c.id)+'" data-author="'+esc(c.author)+'">Reply</button>')+'</article>';
+ }).join(''):'No comments yet. Be the first to contribute.';
  $('#comments').querySelectorAll('button[data-reply]').forEach(b=>b.onclick=()=>{$('#replyTo').value=b.dataset.reply;$('#replyLabel').textContent='Replying to '+b.dataset.author;$('#body').focus()})
 }
+
 async function loadItem(){try{if(!url||!/^https:\/\//.test(url))throw Error('Missing HTTPS news URL');const res=await fetch('./data/market-feed.json',{cache:'no-store'});if(!res.ok)throw Error('News feed unavailable');const feed=await res.json();let item=(feed.items||[]).find(i=>i.url===url);if(!item&&state.api){const old=await fetch(state.api+'/api/thread?url='+encodeURIComponent(url));if(old.ok){const saved=(await old.json()).thread;if(saved)item={url,title:saved.title,source:saved.source||'Public source',published:saved.created_at};}}if(!item)throw Error('This article has left the rolling feed and no archived community thread is available.');state.item=item;$('#headline').textContent=item.title;const match=item.title.match(/\bASX\s*:\s*([A-Z0-9]{2,6})\b/i);const company=match?match[1].toUpperCase():'Company not identified';$('#meta').textContent=company+' · '+item.source+' · '+new Date(item.published).toLocaleString('en-AU');$('#original').href=item.url;await loadComments()}catch(e){$('#headline').textContent='Thread unavailable';$('#postStatus').textContent=e.message;$('#submit').disabled=true}}
 async function loadComments(){
  if(!state.item)return;

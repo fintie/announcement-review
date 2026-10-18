@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-10-17T22:41:21.555485+00:00",
+  "updated_at": "2026-10-18T00:21:39.106021+00:00",
   "window_hours": 24,
   "items": [
+    {
+      "source": "Reddit",
+      "via": "Reddit public RSS",
+      "title": "Does Elsight (ELS) benefit from Starlink's slowdown in Ukraine?",
+      "url": "https://www.reddit.com/r/ASX_Bets/comments/1x8p3fu/does_elsight_els_benefit_from_starlinks_slowdown/",
+      "published": "2026-10-18T00:04:56+00:00"
+    },
     {
       "source": "ASX",
       "via": "Google News index",
@@ -13,8 +20,15 @@
       "source": "News",
       "via": "Google News index",
       "title": "Australian Securities Exchange stock sat 0.70 percent below 52-week high on October 16, 2026 - ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc0MxRVNFRnBBSGZGNnExeVBMYXFuUGpaLUczWGZCS191X0VEV1NXTDR6VjR3b3czTTk4ZlNDbFdHNHRpZHJOQWJyVTd5SDJRUktmSHcxdEFjNGpwSlM0SGtpTWhYMVNZZGxyN2FuMTlJVUdJX3VRLUxhbE5DQjNpdS12eC1wNmpldUk5OHc3cHhaM0dQRU10V29RRGNFWHRoa3VRZXBWUjQtTEdsVlU0UVlfc1VGakE2aW54dm9neGs5RWFmLVM3d3dBcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQXy1scjEyZk1CdUJHOEZTSDkyUl9hblJsSXFTMWRQN3EwMTNLRUlSMElEUTdPX1ZheEphbVExbTdaTkRQMVZEdnV4VndaTk1kUjFQak0xZGNuN0laS2RXQm1Nc2JrY29PaHdET1V1ajhnZXltZXdQNlBZd2hDODBpYzJNQ3hKcmVGVkVoUXZpVUk4eF9ZUjFrNXBFdG1Na2NJeXZnbjNzS2QtUlJIYU5TUnY0VVI0T01OTW9mSkttYjBoR0NFZ0QzUjhDSlgxZFVGMEhMRXQzRHNGR01CUjF3YnEyekc?oc=5",
       "published": "2026-10-17T17:35:44+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "Our Pick Of The Best Australian Founder Led Stocks In October 2026 - Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaVZEVjBDUmF5RnRFQjN5SzNLTVAzVFR6LTVmMWhNUWplcjRKWld1SUd0MzFmNG43dThqTnFIOFNlTXpQRXZLVHNXTWpEQ2p2Sm9CYU9jN3o0bWd4ekJwYkxDakhaVjJNeDVINS12RElwMHBlcUM1U1MycmwzZk8ybEM4YVo1Z1hVUVdyWmk1Z3oxMExWcmFad3dtV2JwMmxjM3VQU09YZThIeHFGM2VLNU5DUHRCTmFyOTI5RWIyeDV3TjFaYjBSQVpoWTNXSkFSemE2Q25SS0JQV0NjM1HSAeMBQVVfeXFMT1BubTEwcEk4UGtfOHNmYlk3WVVMYWxjUktiRDZ5U0lfNGQtQ2dxMk5panNIX0dWa1haNDFNMGEwNktFSExqa0pTMG1Cel9NYnJYY19jUlJBZWhvejIyYkRKVUx1bTllazdORWdLcDJyOE9MeEMtT1ZtQ19JMmNNejNyd1hpM0V0a3JtcTNqZjFWaXJMem1qRW5XcU53cF9nMFBQSVBNY2N1cl9JenFfRTFjcUJkdG1rN2RIYTd4ZlhQblB0dXJxQ0l3Y0RTa2pHejdiSU84N3ZiMWJQSG9oeF92Y2s?oc=5",
+      "published": "2026-10-17T14:56:31+00:00"
     },
     {
       "source": "News",
@@ -29,6 +43,13 @@
       "title": "Pumped then placed: 39 ASX raises in 6 months came right after a 30%+ run. Here's the news that started 7 of them [OC]",
       "url": "https://www.reddit.com/r/ASX_Bets/comments/1x84wo6/pumped_then_placed_39_asx_raises_in_6_months_came/",
       "published": "2026-10-17T08:21:28+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Corporate Update - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDhnLTB0Zm4zbjk5bVhIWnRQWDdqbkUwaGN3emdqODhHclZQVzVjQ0N2cEdfVUI5Z3BXbVpLTU5nbk14djJwNzgtNzM1MVVUY0dRWGlaZXc5RVBaVW9lbWNxX09ULVp0NTJ4OWR2UklmYWc4WG82d0lXbmVGbVJjYm8wTWNOUHhneEFwYkNBMA?oc=5",
+      "published": "2026-10-17T07:10:23+00:00"
     },
     {
       "source": "AFR",
@@ -64,62 +85,6 @@
       "title": "Insurance Australia Group Limited (IAG.AX) stock price, news, quote and history - Yahoo Finance Australia",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5bFR4X01HZUlSWU90VHk0eWxhWDBrRHBFaU01SlRDc0FQNmpiQThOT3hkd3plUFFxaHZvYmVHc29MeDZFalhEbW5BLUdfVDNyZERKWQ?oc=5",
       "published": "2026-10-17T01:07:00+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "Company earnings calendar - Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXFHTjY5M0J2U3psUk5SUy04NTVZSnVlcDdiU01pM1BiRndLRXlUQXk3VFhTbmV2X0N2RDg1aDk0NVljajR0VlZCak1uVktxN1dxd0pqd2dIeFU0ZVNVWUNsSTRlWU5kV3RqaGN5ZlRQNXFaSWZWWDQwdTlwek9YS2twRDhCTGh4MG9hQ29aS3VCWEZYYnc?oc=5",
-      "published": "2026-10-17T00:11:47+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "Company earnings calendar - Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaE5MZkZLN3V1SWdCLWdJUFZhWnJ5bzZNQkJNX1Z0bHRnaWo5cVRBM2dCaVVYQ3RVenp0bV94UXBoTkpGYnpHTDBLLUMyRFI3eGgtc0FPNlBWZmZHRWR1cFJrc1dZYVBEeVd0Um8tVklnUGNYQ3Nkd1J5aUNfcDY5UEpnb3oySGFkay1jZjYyTlVCMTM2bHc?oc=5",
-      "published": "2026-10-16T23:44:08+00:00"
-    },
-    {
-      "source": "News",
-      "via": "Google News index",
-      "title": "Why these are my favourite ASX growth shares to buy and hold - The Motley Fool Australia",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMkg2S3RXcnNOOWZSUV94RVlpU0x1THpacEI4TzNOdmJvV0JKZ0ZJMlo4R3ctWDhHYkZ2NnNVSnU2dFlHWHJ1c0R4ZzlDWGFtVGhPakFic0p4cDBTamhVUnpzZ2R6c2JKdkp4RU1zaVd0bV9fRlhFdkRNWE9aUXlUVVM0al9GamhxaTA5VUhfeUZxRnRYM3VJTG5VQjc?oc=5",
-      "published": "2026-10-16T23:00:00+00:00"
-    },
-    {
-      "source": "News",
-      "via": "Google News index",
-      "title": "What could move ETF Shares’ hedged tech fund (ASX:HULK) next? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRGRrVTNxUVBUSnFtTFhibVN2RzMxamxXNlhtczRmMHVMRks1eTljVWlvc3I5dTZ6em9wYW45UmpjZlRZaGZjQTl4T1RvYUJ2SUVkRWVLVWU2bmFSV1Nza2p1aEpXUlRqQU9wUHdLVy1HeTEtM2RMRXk1VDhlUy1Ja2c1TXFvTGhacVc3TmpCQVpwc01qVXdfUmFTVQ?oc=5",
-      "published": "2026-10-16T22:55:00+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "Why is Vanguard Australian Shares ETF (ASX:VAS) in focus now? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY08tc3lwSVBVeXdFQm5VT0doa0ZjYjcwYlJlaUFOaElQNmw0ejBycEZoVWE5NVdHeWlIQjZkVmNuZ0d4dXZ3SzZfVnZwWk9rZ0hvdnJLLUZweXduUEpHQUZNcmVNQVdKNWFCYjFSdkpXc04wMDhKWHdveTUzS29TaVpZTUM3ei1FaGx1d0lPUDFUdHhWWi1Bd0Nwejc?oc=5",
-      "published": "2026-10-16T22:54:00+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "What does NEXTDC (ASX:NXT) reveal about Australia’s AI build? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVkNDSkQ3MmN2ejNmVXVPM1JlMS1YNl9sa3BfWkFrcXlzcWxNVHF5RENJWjZ0SlZ0eFRSSVAzcjhLZ2ZWRVBaazlOeTRzM1dCV3pQaEZDeThJczN5NHZrTjRKVWxyNFBoSjhXSkwyV2gtVE9lV1FEUWIzUkd3NzZ2SmgyS0NoOE5tbW9HTFUyNlBtelNRSU5DY0FDcEs0ajNDTHBuRUMtMkpkYkdZd3RoUWdzNGo1UQ?oc=5",
-      "published": "2026-10-16T22:54:00+00:00"
-    },
-    {
-      "source": "News",
-      "via": "Google News index",
-      "title": "What does JPMorgan’s active ETF (ASX:JPOZ) reveal so far? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFVua09FM0d4alhhMXhIejdXaFVMUm1pMGtjNkQ2aWZERWNza2lxeVhaX1A1a0QyTzF4djNqb1Y3VDVQUVFhbVlpU3AxWU9ObHotTEpPRUVTdk9nTFEtU0FXckhaQkZWWGRDUUQ3eGlncFBZbEpFUkI4NlFELUxpd3V6ZkZwd1BRVEZ2MEtkVUdJZkh3aGc?oc=5",
-      "published": "2026-10-16T22:54:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Options Exercised and Cleansing Notice - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYXZoczBBMXpTOTZJUjhLVHgzb2czMGFKLVgzNTM1VWxzanZFNWVOOFVqbFdHUV9HeXMzdUZGX1ptRUxHeHRGWnhIS1dWUzF5aGxPeGJQcDBFOVN2VjRxU0ZOZTFDektwNEZHemVoZkdSNXlPd2YxUl9zbE1qdnRsWDFZVG9Lei1JVUpPZTdUbw?oc=5",
-      "published": "2026-10-16T22:50:47+00:00"
     }
   ],
   "source_errors": [

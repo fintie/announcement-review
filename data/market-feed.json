@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T15:14:07.260080+00:00",
+  "updated_at": "2026-10-23T19:13:45.060457+00:00",
   "window_hours": 24,
   "items": [
     {
@@ -8,6 +8,13 @@
       "title": "Market Release: - AFR",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUhGQUFsWDBZY29MVllUT2FMNGxIbmlZN1V3bXNfbDZ3bjhhcFNQUEVpMnpTQjgzYldxYVVXVnJGdGI5SGNjdmZPSUx2dU1ndzRJUENQWGxXckFmOWYzaFBOcHZFa2tpb3hmbS1tWjNpWDhPaGRxa0VpT2FoQTBMWjI4S25FVE1aVWo4RlZWTQ?oc=5",
       "published": "2026-10-23T14:10:42+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "3 Australian Healthcare Stocks With Earnings Growth Up To 54% - Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYzdZcC1XbU11T2dya3lxMnJqeFJKXzh3dndJbHZ2TGtCRWVBTUN5bDdvRzJ1TUoxMEJDc0VlaWZwaHRGQzR2dEFCdXZpOFFyd1VwX0VrZTBjbjhUTUhoM0tDdVFpUl9mX19FZ0NHY0tOMnZTRFRfcmJ6elBzXzd6YW94UndTUkVFUnJ3S2dIbFZrV2taemloNHVHSFR2ZHdrTXBaVGVVRzR3ZkFKYmd3alRHVVoxNHpTaXc4blBhRUJ0MnBZQzlHUGpyT27SAdIBQVVfeXFMTUhZcmFfRkxwSFpScG01cGpmeFJUVmRqOFJlQzNTWERZSGFWQjlxNml3cnpycFdwaWhBcW5iR3lhdDFZUGY4YnRrZVd4MVhJS1ZRbXdMNjBjT2VxM2JSbWY5WUEwUHotVzRMcjRHMWxaMXphTnpNblpyRWpHb25STjhmYXhsWjI4TDhfSV9tMnM0NUZmMExtN2Qxck8tcEtOVTEzTE1FQmprb1NpTjAxVUJxRDB6N0Z4X2FkRVFPeTF0bmRaUmFWVWdhWnJ2eHljVDFn?oc=5",
+      "published": "2026-10-23T14:01:28+00:00"
     },
     {
       "source": "AFR",
@@ -145,13 +152,6 @@
     {
       "source": "ASX",
       "via": "Google News index",
-      "title": "How Is Element 25 (ASX:E25) Advancing Its Manganese Strategy? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVk5PVVNCUzh4TnZCSmJua05IeEZDMnk4eGRWYloyeS1jZ2c3bnZ5dmhSX1hITnBYSlBacmxRdzZ5Y3dhVllWdHhMVF93cHlLT2hsc3I0TmF3U3ZyZkdPcEtvSGJibmFFVWFENlFVTGswWEM1SUdKY0UzU2ctNFFxTVZQNTBkQmNCSjR4Q19Tb0Vydjlua3p6aGZyYldqS1Vnam1tVGJxR1o5STFMdGc?oc=5",
-      "published": "2026-10-23T08:08:00+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
       "title": "What Is Behind the Director Appointment Clarification at ASX:SCP? - Kalkine Media",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaW1YSVh5QnZfY25BSldDWUJOcUJfLXFIeFBRcG53NTRZZzN4M2ZTZE1SOWhVM3FKekRRUmV2alAwQmxia1M0djQ2ckM0bHhQSTQtanNabVRER3NjMjlnLVl5akJEVVlyaHRvNThOQWRPbUlaNDJvT0dxTkxfaUEzVXU4QkxyTUpZeDE4YW1OeExjRTdsdE5uUFNCcUVMOWZIaHV2WjhJRHRjVFkzNXZwU3g2UzdqeXE5aEZ4bmNxLTYzZFNmSFZiOA?oc=5",
       "published": "2026-10-23T08:04:00+00:00"
@@ -169,20 +169,6 @@
       "title": "Why Is SPC Global (ASX:SPG) Proposing a New Corporate Name? - Kalkine Media",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXNlNXhLUUsxQXFBUzQyR3NFdTlYVDByT2JoSkhPYVYxY1drREQzVE1UNTJoQWw0ZEUzQTIzLUptd3VoQVduRkZpR0hKdk96YVhDVlM5WEhPRUxWTnJyZzFxYnpQVzlIcVRhdWFIdDd0UTBtck5xbWdlN2t4eXVaZkFybFZFZlhlM2o0SXVtNE1hMFZNVmxXMGU4LXk4bjZK?oc=5",
       "published": "2026-10-23T07:39:00+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "Is Nido Education (ASX:NDO) Growing Its Network Through Acquisitions? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVRQM2pZU0htXy1MMVQxdjN3VV9VczFfb0U0cW9yVzhId0w4a0d2ZHdWSlFYVUhQZjVXVmwyT2NLQlJaUUtnSUl4OHJFSFlwSTB1RzNZN3JiNXFpeEI4cFhoLVVLQ09fWWJ2bDJMZm9idDR2aTB1TTVDUjRzV0RmMjUta1J3bExlUWRkT3pkTVdXb1BBTjlZeGhHMThURXFXSFQwUmt5VmxqWUZ0TkE?oc=5",
-      "published": "2026-10-23T07:39:00+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "Is Swoop (ASX:SWP) Reshaping Its Fibre Business With a Sydney Sale? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajZrZlZzOGpWT1lTdjVxX3hzWGpCd2xJM3J4M3hRSi04SE1ESlQ4VGcxYUFWMnJfNWQ2bEJrYWVkc0c4bnNmRUo2WDhmRS13bkJFWFhTekdmT2RDQlljMGRGaU5sMXVtOWd1c0JONGZSQzZlQ0pZNWdIa0ZrZnNIZjl1TVM4eDVPc191ZlVzOWpTSTI5WjBwX25VVk1EckRpYVBQNy02SGdCNkttRU5DNm1R?oc=5",
-      "published": "2026-10-23T07:35:00+00:00"
     },
     {
       "source": "News",
@@ -472,13 +458,6 @@
       "published": "2026-10-23T03:10:27+00:00"
     },
     {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Morgans’ glaring Firmus IPO conflict of interest can’t be ignored - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbU5ueHh5QWk4SGRwRGw4eDFzY0ViUE9obFM5WXVRYWdjMnAtQlc1Mk9SMGJKS2ZFbGNZWUVFdjBaME4xVUdvdTUwZDR6SDhEQUpweVVQc2I2TU10SGRaRXp3RVJ4OVNoTVByU3J1bzBTSFNLVVFzekNBeDU5SXhrNUtpaEtKQXVQNVJha2tzSWNJM3U5RE53d0kwWkpPSGdoSEswcE1MUERjQ2s3dXpWQWtqc0Jtb2MzaEFYZHhrLWIxUlY0UVd6ZA?oc=5",
-      "published": "2026-10-23T02:39:00+00:00"
-    },
-    {
       "source": "Reddit",
       "via": "Reddit public RSS",
       "title": "JNS: A$11m in CBA facilities to fund production and deliveries – my bull case at ~45c",
@@ -640,6 +619,13 @@
       "published": "2026-10-22T23:54:28+00:00"
     },
     {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Macquarie Technology Group Limited 2026 AGM - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZldMZnRIenpTMkw5ZDRfM1dRb0dxNjNYdlNCVlptbW9YNG9vb3I3UTU3eDFkZEl2X1FYNF9YWFNIamdFcVpEQUU2QVNiSkRSWVJlN0FiTjZrUW9QbmE3NmQyUmE4LTl0RUdHSnhGQlNxcC1kTEQzcVpMczNtemZWT1VvTklITVVjTU1KUktmQQ?oc=5",
+      "published": "2026-10-22T23:52:44+00:00"
+    },
+    {
       "source": "News",
       "via": "Google News index",
       "title": "Xero (ASX:XRO) Shares: Has the AI Panic Gone Too Far? - Kalkine Media",
@@ -740,6 +726,13 @@
     {
       "source": "AFR",
       "via": "Google News index",
+      "title": "POLYCYSTIC KIDNEY DISEASE PROGRAM – AMERICAN SOCIETY OF NEPHROLOGY PRESENTATION - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQakgyRzBjRVVGZTA3WF9oVmtXT0xTLW1EZ29SdkdsRVBLOG81aElqT24xLTRUSGtBNk16bjU1djY1OUhmaHRfVndwZVp0d0lrZUo0RWlCSFZ2SVdnRUhIU0FKQUVWd0pHZjVWNDBvTWNLOG5ISHJVTEhzTUFYa2d0NTdqazYtMkhZU1J3ZHIxOA?oc=5",
+      "published": "2026-10-22T22:35:16+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
       "title": "RZI ASX Board changes release 23 Aug 23 - AFR",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNektNNUNYVFRaRURDajVnVGhDUFZvSUl6T3VlRi0zMGFScjVtNGJuTkU0UGpxX0tQLTd0RGpYbF9CbDd5OFl4UFMxYjhGaUJpVGVtd0hjOW45clFmVURCa2NOdUV5SHRQLTRfUmstaFFpclBOYnVCN3BLZGlBZ3pXRnllY08xeTdKejhWZVFwaw?oc=5",
       "published": "2026-10-22T21:46:02+00:00"
@@ -778,27 +771,6 @@
       "title": "ASX Growth Companies With High Insider Ownership October 2026 - Simply Wall Street",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb0tXMEtXZTZodEVDM1NocnROY3VQcXBhV19zRFRUT3ZJWHZyLTRDYXpRa3hIajZmVUtLZTZ3UnNpNGxUc0FPZjJVWVp4ajBJdmFxZVRxZUwtZm9PTTNFR09KR3UwYmFBd0JaejZKUGxWNTdDUlh5RV9WblJwODRRWk9rT0V1U1ZkODhRRjJSMHNIQktlNGJZOVUydlNlZUprYUdnYlEyZjl4SEJQSzJoa1NCNGpRbVBvTmQyb1d1dTZ6dGFpVFJybnFqcmVYLUc1NEdmcHAyY1hjeXJJbFU00gHkAUFVX3lxTFB6Z196dlBPY0VnaGFMWGo3YnV5RE9DTEdMM2tzc1BhMmVHM3RMLXEwcG02X0RMd3N0bkdBLTNYeEZiakhoaTF5SlRiZ3NQOW5iYlhuZXAzZThkamRJRnplcDhEdXB2NllTV3JweGltYmY4bDB0UVY2czVtd1RSR1lWZjVuYWlFOWlrUnpyTlo5TDc1SnZyZ1FUai1mRjQzMHhIeUw5WWVhREM5QWd5dk9PeFgzQkoxcU1pbktSRUZSSHpiYzRKV2lpcC1LUllCdzVvY19uX1lueHM2UFhHRm9jNHZUMg?oc=5",
       "published": "2026-10-22T19:15:15+00:00"
-    },
-    {
-      "source": "News",
-      "via": "Google News index",
-      "title": "3 Australian Infrastructure Stocks Tied To Resilient Business Investment - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMFRjd0RhYjVXZmttcDNTR3JQZElENFI1S0F2Ylo1YWw5N1FzWWpxVDFYeUZ4eHFhSDA0RUxtQWQ4djZBeGl1Q19GaUtQdS1sOXR2MmgzdWtoR3d4VURpU2dRT1dldkFYN25QNzNXUHBOYnpwRUpFbEZHNEpzNEVjVXJpVlh0b1FaU3A0YXR1bWZkN0RVemZOVFZOMUREZHYzZEthb0Vma1NiYXY3ODJ1cUVfWTJIS2wyYUJ0TEZ2ajNQQ0UyX243N2RfUTcxbzBpRkVvTdIB2gFBVV95cUxNUkpUaDRGc282V1VwUUMtMDhtSWZ0bkNrd3pBOEJqTXg1ODhMT0RiV2NycWlGTW81alZDMmxqLW9qSzdTWkw3bG5aM0V0aWFTVXRPeDBKZDdDZ05pOEI1bEl5QWR6WWRxdkZpLVE4ZzhSVEdhSzFtN25mUlhxZHBwcDMyQThlMjFUUTBhVmQ2Ymh5dEhtdW5NRlR3Vm1mUjIxVjlwYWpzWFNkc0ZGWl91M09Ic3hPNWp1YUhqa1VfN1lxVlJqTHcxVGhQZHoxdmRjVXBPVkRkZ3pmZw?oc=5",
-      "published": "2026-10-22T18:48:46+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "The piece of advice that saved this $1.3b CEO from burnout - AFR",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVREVm04X3pUeEhxenlXNktNZU1vWmViWExpdkVZUHJIcWRBQXdZeEQ3M1dYMlRBUkk1eDBGNFVBLWwzYW1nc0NBVHdUWm41T0VQMEhXS3hRVGoyOHVldUhLaTF1U1RFWWZOTFFBajhYdUJWLWFhRjAtdy1RT2xTZEZod2ExaldHY1NsZFdwc0lnblByWEtTbXFkSDBmaHpTNEpuNFhrZmRvZ2VMZmZFRg?oc=5",
-      "published": "2026-10-22T18:00:00+00:00"
-    },
-    {
-      "source": "News",
-      "via": "Google News index",
-      "title": "Top Australian AI Healthcare Stocks For October 2026 - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONDhwU2d5QVZqbnBnTEVyeTZINUIzMXVEU0pTemkxSGlWY3NhLWlDSEQtWGJ0TUFDOEdfdHo3aVBMdmNyQ2NiWmI2U0p6akhZRkpZNHljUGhJY0pONzFnaTF1UWRzZC0zUTVEQ3JVOHQ5SmRIeXg1UnJjU0pvWnFHdUpSdHQ3YjNtbmlybHJGY1p3cWVLNUtPMXl6aEFzeDk5ek1ta0hmZTV4RjJBMS05NFJGVG1ZN2Vua0RST0ktWdIBxAFBVV95cUxNTFJ4Q3A5T2tseWp0SVZ4Vm9xdXhkQ2JhbmlKQ3BDWVpkbEFkN0Z6eGNTazZpendlU1g5VUZhLWFYaWlIekhNdGhzQU9DNExONmxmQUFzRUozYlJLWGJpYUVfY2gxa1FkUXZVbU15OVZTVkU5X2VCSi1IbjNzTU1aVzJ5cjVRTWJsUThaN0RFNFlsaGN1aWxaTVpYa20wb2lWNmRNMklmRDBBVDhwN1lmanJrcklJeDU4UGpqSUpTY21obE40?oc=5",
-      "published": "2026-10-22T16:17:57+00:00"
     }
   ],
   "source_errors": [
@@ -820,7 +792,7 @@
     {
       "source": "ASX",
       "via": "Google News index",
-      "count": 56
+      "count": 54
     },
     {
       "source": "Reddit",
@@ -830,7 +802,7 @@
     {
       "source": "News",
       "via": "Google News index",
-      "count": 54
+      "count": 53
     }
   ],
   "note": "Public RSS/index links only; not an official licensed ASX/AFR feed. Titles are not verified facts."

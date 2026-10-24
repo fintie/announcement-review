@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-10-24T09:25:56.588470+00:00",
+  "updated_at": "2026-10-24T13:25:51.822500+00:00",
   "window_hours": 24,
   "items": [
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "AMP (ASX:AMP) Share Price, Forecast & Analysis - Stocks Down Under",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XOHZjRnBTYUFmSlNJQ0tVRWkxYmI2SnpCRHZod0NjZXM0c3hvZWZLNDcwb2xWUnp0bng0YUZXQ0xTZGxLSzBZMUNsUEhILUtfVHc?oc=5",
+      "published": "2026-10-24T11:38:00+00:00"
+    },
     {
       "source": "News",
       "via": "Google News index",
@@ -43,6 +50,13 @@
       "title": "Appendix 3G - Notification of issue, conversion or payment up of unquoted equity securities - AFR",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNemhyT0daZ2F4aExhU1d3SG02bGtwWllROVhWZ3phLXg0aWo2c2dZY2JFdzlhRXRwSXVmS1Eydk8zblFCeXlRX0xBZG9YVm1mYTlsSERTUUF2M1NkbGxtWkZlY1p5ZDRCMVNJNVdVaE02eXhvZ2xHOWZoTmk3Zi1MRFo0VVR0aHBwQWdhTnZ5TQ?oc=5",
       "published": "2026-10-24T04:21:41+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Chairman's Address - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUlhqVVZOcG5IUTVzYkhUOEYtRXVWTWZKbmtzWWFEZ0ZaYzNYTWNTLWRzUm9IbzhaMGJfT1REejRvN1hwdU5UMWI4V0YtN3UteWZYUXJLQy1ZNGRFQkU3THdXYUdKOU1jNzR1Wmw2Z1FpRkgzMUtfTWN4TGJIQ1N5ZlV2VzVkQnE2dUpGLUhwTQ?oc=5",
+      "published": "2026-10-24T03:54:11+00:00"
     },
     {
       "source": "News",
@@ -90,8 +104,8 @@
       "source": "News",
       "via": "Google News index",
       "title": "3 Australian Growth Stocks With Revenue Growth Up To 49% - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOVNSN2JNQlp4UkNwdkZYb1hpMGg0dUc0MmdKZ2tCRmUzTFBEMEFIQk9lanNmeG5MdXBzcmdONmt4TFV1MmZ5dHg1NG1OWWVXVnh4ckg4QVRYd2VVZmw3alZmUHZwZ095SXp4dEVvZzFFX1hwTUNTVUZ3OWxSTXpsZ2JZY2tKVEwtTW1KdWVjNUFGT2txVllSUk1oakVMRjBBNGJrMzdnMDBjbE80SEZFS2ZpMzBvaGU0cl9Gbkg2cmRBSVphSUxjTEhOdjDSAcwBQVVfeXFMTjlTUjdiTUJaeFJDcHZGWG9YaTBoNHVHNDJnSmdrQkZlM0xQRDBBSEJPZWpzZnhuTHVwc3JnTjZreExVdTJmeXR4NTRtTlllV1Z4eHJIOEFUWHdlVWZsN2pWZlB2cGdPeUl6eHRFb2cxRV9YcE1DU1VGdzlsUk16bGdiWWNrSlRMLU1tSnVlYzVBRk9rcVZZUlJNaGpFTEYwQTRiazM3ZzAwY2xPNEhGRUtmaTMwb2hlNHJfRm5INnJkQUlaYUlMY0xITnYw?oc=5",
-      "published": "2026-10-23T19:09:12+00:00"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWEx3VGNnVmwxOFV4UFA0NG9OeDlKM3hoY2hsQ0dGM21Ia3VlaEtVak85aHZmR2s5ejUtSE92em5kcjVGeU9VaTc4cF83RXA0YmtQWDVrOGVham41TElvNUdtczBrSm1PUExQZjdoU29Zc0xBTDQ3MGliRWZ0YkVHNExWZ1loZXRWdXVEU3dMcWdhdlJ2U09ONHhQTkNFRzU4SjJsT1QtOXVINVVwMWVsZ0NBbXY0b0lISFY3U2pMNU1lb2lJYmtj0gHMAUFVX3lxTE45U1I3Yk1CWnhSQ3B2RlhvWGkwaDR1RzQyZ0pna0JGZTNMUEQwQUhCT2Vqc2Z4bkx1cHNyZ042a3hMVXUyZnl0eDU0bU5ZZVdWeHhySDhBVFh3ZVVmbDdqVmZQdnBnT3lJenh0RW9nMUVfWHBNQ1NVRnc5bFJNemxnYllja0pUTC1NbUp1ZWM1QUZPa3FWWVJSTWhqRUxGMEE0YmszN2cwMGNsTzRIRkVLZmkzMG9oZTRyX0ZuSDZyZEFJWmFJTGNMSE52MA?oc=5",
+      "published": "2026-10-23T19:07:30+00:00"
     },
     {
       "source": "News",
@@ -115,6 +129,13 @@
       "published": "2026-10-23T15:27:59+00:00"
     },
     {
+      "source": "News",
+      "via": "Google News index",
+      "title": "DroneShield Limited (DRO.AX) stock price, news, quote and history - Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RdUFXQ1JxYTZmSXdudjJhTUZ5RnkzbzA5TUtzRlJSS0RGQUtUNVVtQk9sUWNBcEs3eG5CRjJKWVoxVlpYQjFfNDhEdVhJQWlQeE9jRw?oc=5",
+      "published": "2026-10-23T14:16:29+00:00"
+    },
+    {
       "source": "AFR",
       "via": "Google News index",
       "title": "Market Release: - AFR",
@@ -134,97 +155,6 @@
       "title": "Bond Facility Agreement Provides $8M of Funding - AFR",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVTFuNXo0MEZiaTZLOVA0Yl9YWDlIbkpYbHhnbVJlUUhseVBMdmx4bHhEQlIwTGl0ZlNGWlZCZ01UeXc1RTlrdWp3TGh6NjMzWEFHNlgxZW5rbHB1U1REaVVtbi12MmxUSEFQUmlWcmoyQjZjTTE3V1YyWmZHUzdqeGlIaXZFR3dXX2d4c2JCbw?oc=5",
       "published": "2026-10-23T13:38:49+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Appendix 2A - Application for quotation of securities - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjBsV21hb09wbkNyVUJjR3pDWHpmbExPMlV5ZUxja2lpeFc5Rng0eWdmOXlSVE8yend1QWFLUkZkakdaQjhzZ1c1TElXX2s5YjUwdzlMa1djWGpmWGlaYUR2WXdpTU5STk5GWUp0M0xpQ0RsNXNXRF91RGI4VXRkb3JZWEtQcjFqWWc1Q3hfOA?oc=5",
-      "published": "2026-10-23T13:16:41+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "SECTION 708A CLEANSING NOTICE - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa3ItbGJyRjY0MHlUMi1YYVhGSEZYaXlqUzZjT2F4MzVPQWFFNzBHbTRETHFrQUQ2U1NvMklkVExvRi1FTVplcnJDdlhDMmtFRkF2OGE0OXBOemFwNGc0dldxODd3UXhxWEpNNDRzbW91WmdTWlBGdVg4anZkX1ZEcU1ma1laTmk2R293cWtEYw?oc=5",
-      "published": "2026-10-23T12:24:35+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Appendix 2A - Application for quotation of securities - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZVZrUGo3TUs0Vi1ESkctWHdYdGpfMHNFeE56dHRkZ1dDeUV2RjNOUVczNTE1RDQ4N0xtbU9HSXVoWjBaWXY0UWRHN0ZQU3RqaDNrUnlKb1V3dlRhOTBXNVpVSGJWd09pRVVaZjlGNGgtaXI3TlJEYVNnZTBtTGstbHpDZGozdy00RlUwdmJMUQ?oc=5",
-      "published": "2026-10-23T12:24:34+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Appendix 3G - Notification of issue, conversion or payment up of unquoted equity securities - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkloX3RVZlFFalpTd09PRElBTDVWbVltdGtWd0ZLVzdxZ1VZQXliSl9iaVBqSWFnWHlVY3JkQklibm9ob0N1S01VVm1CTDV0Z3B5ZDJmUnI2SVI3RFdkbmdHdjJOallxQmppZFhwQWkzbFU5WU1TelFOU1phWlVILXEzMW5QeXZPYTdaNm1QZw?oc=5",
-      "published": "2026-10-23T12:24:34+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Appendix 3G - Notification of issue, conversion or payment up of unquoted equity securities - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTVRRQWRBbjBXYTFkTlBQNVVwVThsUXU0ZjBsYUZKc240VjZlRG81emRQM0FzT1FXNzhKcEw5YzFlQjJ0ZWlSdFZTa1JPTW9HdWt1THRLWGtDRjdneXU2ZW1sc0VxRmh1YlNydGdnUmx4Y2p2eEZCUlRIUkVfdkpLakhtYWEwR0pMTDZpaGdkcw?oc=5",
-      "published": "2026-10-23T12:24:34+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "23 October 2026 Transaction in own shares Glencore plc (the Company) announces the details of a purchase of its ordinary shares - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWmRydVhFX3dEUHM5ZlhkUmlad0FCUjhieXNCVjNad0tIdGtXSE52ZGNSelU2U2NET0hQRmY5b3A2Rkh1MHc5WXRKQVdib3I0VnFjTmlnOFlKNHF1UDZFelp3SGt2NWVibThPZy1pNE8xdHNxa0E5cXpIYWRDSldiMktpdUdOOEpOVlhLN2NIWQ?oc=5",
-      "published": "2026-10-23T12:20:36+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "ASX Announcement Notice of 2026 Annual General Meeting - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUmhRcEZNTURfcW5EYm9qdzRMUkJIbzFVVGlSQ2w2QWhXUnQ1Q0xrb0RQR000YzNuMlFZZVBKWWd2NlRXMDJZUzJ5QkpUX2UzSWtJM1ZvUDhjVnZCRHB3NGhycVBmR3J3RlZ4aEh1WlctMnRyeWI1T0QtdmR4LUNCSWcwUk5LTVlZWVI3SVItdw?oc=5",
-      "published": "2026-10-23T12:04:12+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Appendix 2A - Application for quotation of securities - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeml5ZHZ5clhqSjFqYVVRNVZ5bHNYSkNQck03ODcwbFNDRVNXREdLdHRvcGdDeENrMFBWdWNxOXJCSlVSbXdJZGg5eG5NMnJGQ3VuVGpyLXdzbklkbzQ3T0NEREJOcWM1MF8zSnI3d3VuNXp4bmt4WElHNk1JUEN3RFdiY2d3ajg4QUt4YUpEYw?oc=5",
-      "published": "2026-10-23T12:02:22+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Prospectus – transaction specific for a non-renounceable rights issue (shares only) - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd1B3VUJFdk1INnJaVjV1ZDNCS3RwaXVoNGhWUnp0TW9Vc0NlckVIVnFBNHVvc3pQdGdWajE1clFEMmZkZFpJa0pYdzRlaXNlZVExNHQ0TmVsZmwweHN4bHVKZ040a05zdDZCT2VIeHlRQlZySlFjS3V4c2tOV2hnaGd5dGRwNGN1ZVlLeFliQQ?oc=5",
-      "published": "2026-10-23T11:38:15+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Appendix 3B - Proposed issue of securities - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOEh3ZUJOdXNoWjF5dmZrMzVSTjd3NnZDczY4b3pNX3lWUTk4UUdaTFI2Wm50SGJOR1ZJYWJROVJXbTVkU2lsV1NLSEt2T2x5ejBRUzl0V0xBaGplaHhDNmQzZUJsYUxLTXNQcmJoOEtLdkRoWTZLUWxlUmhIVlF2Uzh4R3BrWUlGejg4Unh5QQ?oc=5",
-      "published": "2026-10-23T11:38:15+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Results of Annual General Meeting - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdDJFNmNkNEdKQ3Boa0ktOHAzeE1oaEk0bTNQdHd3UUYzRHE5SVRlX1lBUGZDYkEtUnV5NFlhaVczSmpZM1lmWWFqWmdjNjBmdThaQmp5WVVyVEh0Q19CV21yODd5VlNVRm90dUpHMzEzRGdNUEk2RUVmMk01Q3FwM09SQThUMWJTZzgxaFJJbw?oc=5",
-      "published": "2026-10-23T11:30:04+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Amended Final Director’s Interest Notice - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObG9NV2xjRWc4VUxsbXAxOWx2MnlVdHRGclhyRE9DaDg4aTEzTFgwbHVRaEJ6UGh5Q2NiQ1NLLWNyU2dxckpLaTVNV2RFbnp6OUQ2cnZUOTgtZHgxSlRfQU5iTmVKbDF3VTBGc0lycFQtYl9SaWpnVXRMWWItdHRCamR6bW50OTlVQmJmTW03RQ?oc=5",
-      "published": "2026-10-23T11:06:01+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "Proteomics International Laboratories (ASX:PIQ) Prepares National Promarker Rollout as Collection Systems Go Live - Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ093TjVnemQyQXZ4al81Q1dMNDVCWUJhLWJCd0s0aFdhRlpEVGRnbXE1Znc3QlNsaTFSdmV4bDBBWlpnWE8tVnVPS3BDTWNFaVVZVmNiTm5qTTNFXzZNUUhrdWRsWVpIWVhPZVhyNEtDVENUZzVaOEh2djhWSVVnaFFQOXJmcjJydnJCb0Q0SGNGaFpmbDQ4VHc0VGhCb2o0TWR3SzRlOGg3Z2RvQk1EZmJ4S1pkazdTdTk3S3FnclR5dEZQUzBwWF91RDIwTFhCOTZXYWpqSmtWRzBpbXk4OWZlTQ?oc=5",
-      "published": "2026-10-23T10:54:00+00:00"
     }
   ],
   "source_errors": [
@@ -246,7 +176,7 @@
     {
       "source": "ASX",
       "via": "Google News index",
-      "count": 58
+      "count": 59
     },
     {
       "source": "Reddit",

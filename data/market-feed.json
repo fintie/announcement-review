@@ -1,7 +1,42 @@
 {
-  "updated_at": "2026-10-24T16:45:08.176142+00:00",
+  "updated_at": "2026-10-24T19:01:31.980268+00:00",
   "window_hours": 24,
   "items": [
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "Woodside Energy vs Beach Energy: Which ASX energy share is better for young investors right now? - The Motley Fool Australia",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQmMxSkxZZVZudHQxQjUyeGtHVFRnY0xrMjROTnp1dzBXeDlfWjgwZEZkaDR2Q05FWlNObDQzVjZUQ2N4OUl2NXZTZEpRQ3NYNWljRmdGcVA1WVVRU2JsNUVWWW9lMjdEVDhWNzlEWnVrRG53bkg1VVFXLTJxYTJaenZsVjJ1ckhxVGExclh6eC00TFJGWEF6YkJIR1l1ZE9XcUI4ZlgwdXViQ3lvMEN2VW41Z2paV2Q0WkhVNUNoNkQtcFRITEtZMm93?oc=5",
+      "published": "2026-10-24T18:00:00+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "The hunt for Australia's next CSL: 3 ASX healthcare shares with enormous potential - The Motley Fool Australia",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ2FxTFBMVklOUEdyNkl0UXk1Nk9TUEJUMF91M0g4eFQ3cndNVktFUm1YOWZlZ3VJRVQyQVJscC1JcUluTF9mek5GdTFhYUtOY3U3VmlnY0FkWkZLWEVDMTFaQWd2cVprb29Ub01WWDZNZkxRdEMxM29UNUowczMxSVVKNFJfYW1rQUNyVFVaNy1iVExDTzdOS2Y4elJjTURqZmVMQnNEMFpDNHlaNTg5Y2FpWHNwM0E?oc=5",
+      "published": "2026-10-24T17:30:00+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "Why Is Vanguard VAS (ASX:VAS) in Focus? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQVpFZ2l4UG5VSlFQbzVGb0VlOTZ6YThGSFNLdmExVzRWc1FEdHB6TTlITU1RbzBwbHlJa3RMZlJlVjdRVWZDcFp3VmdEMTdfRDc0aGRmVzFhR2FBZmtwaFF3Wlh4ZzNhSW5BRTVqNklSdWNxbGs2M05UbzVsUXc?oc=5",
+      "published": "2026-10-24T17:17:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Why is ASX 200-listed National Australia Bank (ASX:NAB) in focus? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjRLc0pWUk5jX2RhQlFrbXFrOGVubGtHVXJWcDRoWE1NR2FMel9jaUFpbnRfN19KY0NPb2RGVHJBSVRwSjhsZXlJNGFGMF9PbnRXQ05QYS1NLVpKdmhtVElycjNXZEI4OEUyX1o0c1Z4MXg2TnJEcGxHbDBWZWdjWjg2UTE2SWQ0SFdGYWdhaF96SkFGNzNzMXlEakd2WkJaUFZWcDFNbWk?oc=5",
+      "published": "2026-10-24T16:56:00+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "Australian Ethical Investment (ASX:AEF) Share Price, Forecast & Analysis - Stocks Down Under",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDa2tvZ3RTZTFmeWt5bnpZaFR2aDBELVFoVjRVLUM0RmJTemQ3Mm0xakhIMEdUd0RXMV81Vm1Vb0FHaXBkVmh6cnB5YXR5T0hEX1VSUGlpaFZjc2RDYVhrTmdKQTVLeF9BdVd1MC1ZRnpXeF9E?oc=5",
+      "published": "2026-10-24T15:46:08+00:00"
+    },
     {
       "source": "News",
       "via": "Google News index",
@@ -50,6 +85,13 @@
       "title": "Directors who sold before the raise: 14 of 717 ASX companies that placed shares in the last year. Here's who [OC]",
       "url": "https://www.reddit.com/r/ASX_Bets/comments/1xe1ro8/directors_who_sold_before_the_raise_14_of_717_asx/",
       "published": "2026-10-24T06:56:15+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "‘Concerned there were errors’: Former Rex directors not in clear as ASIC seeks appeal - News24",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPOHF5MHZnYmZhSUpOa1BDZ1Zya1Q1N0VmSjI4dUtRdDhrdlA0VG0yV2hRay1wVl9FcWhqaUhJVExXLVpXUkJOaG1vZ3hXdGNkeDVHWW9ZbllzZFZjQm1ZSzBDRzdNRkVHb2w5X3drYk9wc3VSTEdUZm5ieXh2dmU3ak5NbUVrOTJEaWJ1c0JvbmNjYWdsQnh2cE94cEdpOG1rWlItYVl1eDBMUjZVWkFYWEJianNheFMta3lhY1lua0VTLWZ1Mmpnc3daY3VMYkl2UmoyZ21UVjRkUEMzVUV0SVItMFN0eTFRdkszVGFYNEd5NXFTczZuVVNtS0dFOExrYmstQWhodElxMjFPMEQwWE9tdV9WSTJIYjRURVNMSjNrU1p5ci1oN0pFdWI1bWJ4N3ZnVzUyNTNQalJtYmhqTzRtdFFlLVhlQkHSAcoCQVVfeXFMTzhxeTB2Z2JmYUlKTmtQQ2dWcmtUNTdFZkoyOHVLUXQ4a3ZQNFRtMldoUWstcFZfRXFoamlISVRMVy1aV1JCTmhtb2d4V3RjZHg1R1lvWW5Zc2RWY0JtWUswQ0c3TUZFR29sOV93a2JPcHN1UkxHVGZuYnl4dnZlN2pOTW1FazkyRGlidXNCb25jY2FnbEJ4dnBPeHBHaThta1pSLWFZdXgwTFI2VVpBWFhCYmpzYXhTLWt5YWNZbmtFUy1mdTJqZ3N3WmN1TGJJdlJqMmdtVFY0ZFBDM1VFdElSLTBTdHkxUXZLM1RhWDRHeTVxU3M2blVTbUtHRThMa2JrLUFoaHRJcTIxTzBEMFhPbXVfVkkySGI0VEVTTEoza1NaeXItaDdKRXViNW1ieDd2Z1c1MjUzUGpSbWJoak80bXRRZS1YZUJB?oc=5",
+      "published": "2026-10-24T05:38:11+00:00"
     },
     {
       "source": "News",
@@ -127,13 +169,6 @@
       "title": "3 Australian Growth Stocks With Revenue Growth Up To 49% - Simply Wall Street",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOVNSN2JNQlp4UkNwdkZYb1hpMGg0dUc0MmdKZ2tCRmUzTFBEMEFIQk9lanNmeG5MdXBzcmdONmt4TFV1MmZ5dHg1NG1OWWVXVnh4ckg4QVRYd2VVZmw3alZmUHZwZ095SXp4dEVvZzFFX1hwTUNTVUZ3OWxSTXpsZ2JZY2tKVEwtTW1KdWVjNUFGT2txVllSUk1oakVMRjBBNGJrMzdnMDBjbE80SEZFS2ZpMzBvaGU0cl9Gbkg2cmRBSVphSUxjTEhOdjDSAcwBQVVfeXFMTjlTUjdiTUJaeFJDcHZGWG9YaTBoNHVHNDJnSmdrQkZlM0xQRDBBSEJPZWpzZnhuTHVwc3JnTjZreExVdTJmeXR4NTRtTlllV1Z4eHJIOEFUWHdlVWZsN2pWZlB2cGdPeUl6eHRFb2cxRV9YcE1DU1VGdzlsUk16bGdiWWNrSlRMLU1tSnVlYzVBRk9rcVZZUlJNaGpFTEYwQTRiazM3ZzAwY2xPNEhGRUtmaTMwb2hlNHJfRm5INnJkQUlaYUlMY0xITnYw?oc=5",
       "published": "2026-10-23T19:09:12+00:00"
-    },
-    {
-      "source": "News",
-      "via": "Google News index",
-      "title": "Why I'd buy Qantas and these cheap ASX shares - The Motley Fool Australia",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQzl3OHZkQlg1dzQzaElpdnZPMHQ2U1d6Q0EwVWNpdmtPcEhPckFPZnJ0T2NPNnRHd2g5ZVlUQ2h0OFJGaTNNZUJpclZ3U2pDTHlHeGFVbVR5RWtPX0o4NkNVQ1lSUkZ5dTR5em8wMGJWZExQUXdoUElPQmlvMWVMa2NaN0xlX2c?oc=5",
-      "published": "2026-10-23T18:30:00+00:00"
     }
   ],
   "source_errors": [
@@ -155,7 +190,7 @@
     {
       "source": "ASX",
       "via": "Google News index",
-      "count": 30
+      "count": 62
     },
     {
       "source": "Reddit",
@@ -165,7 +200,7 @@
     {
       "source": "News",
       "via": "Google News index",
-      "count": 55
+      "count": 58
     }
   ],
   "note": "Public RSS/index links only; not an official licensed ASX/AFR feed. Titles are not verified facts."

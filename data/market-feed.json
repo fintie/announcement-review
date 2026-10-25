@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-10-24T23:37:17.442608+00:00",
+  "updated_at": "2026-10-25T01:33:13.050025+00:00",
   "window_hours": 24,
   "items": [
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "Could just 2 ASX ETFs be enough to build serious wealth? - The Motley Fool Australia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUGdwWXB6TzJ3WU12RHRiS3FKbUJVazd4SGtheWZIUk9ibkZvOVU5czF3RFdRTXNKRER2NmZuR19LdF9iQm1QWUxQazlwdjZOcmRVakNTcjcwRzV3TW9nTlZRTHpBRTU3bnF1M0tuOG5HMnVxaG9xZkg5eVVOQ1lhODc2cVd5Ty1GSmpMSGY4eEF1clVYRnc?oc=5",
+      "published": "2026-10-25T00:00:00+00:00"
+    },
     {
       "source": "News",
       "via": "Google News index",
@@ -40,8 +47,22 @@
     {
       "source": "ASX",
       "via": "Google News index",
+      "title": "Why is ASX 200-listed Macquarie Group (ASX:MQG) in focus? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdkpFU1hnZGJvUzdxY0llNVhqbHNjSFhDRE1tOEVGMVAtU0dHdlFmSXExalRmMVREcUtYYVRxa3REeVpwY0dubDR5Zkc2eDVIVmlER3lsTzlwOFhudElIcEpPcXhZSnYtLUVXMnF5cHlNblhmc3BFXzdQeEdYQnlyanBIT21HRHpIYWZYSE1JbnRxZHFhc05qMDczQk9jdw?oc=5",
+      "published": "2026-10-24T17:16:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
       "title": "Why is ASX 200-listed National Australia Bank (ASX:NAB) in focus? - Kalkine Media",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjRLc0pWUk5jX2RhQlFrbXFrOGVubGtHVXJWcDRoWE1NR2FMel9jaUFpbnRfN19KY0NPb2RGVHJBSVRwSjhsZXlJNGFGMF9PbnRXQ05QYS1NLVpKdmhtVElycjNXZEI4OEUyX1o0c1Z4MXg2TnJEcGxHbDBWZWdjWjg2UTE2SWQ0SFdGYWdhaF96SkFGNzNzMXlEakd2WkJaUFZWcDFNbWk?oc=5",
+      "published": "2026-10-24T16:56:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Does ASX 200-listed CSL (ASX:CSL) change the picture? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWVob1ZzMmgyUjZobXZTT3B2eXNGVFNPT2drTllMREtuUUhucjVybnlneGx4d056eGN4eG4zaFJidE5pTnhjUVVFYTB3TzRFZmRaSnZXdHpJMkhLQlhqVXVWLW5YamtvRVRtZ2c3cnE3Zm1haVVhS2tGV2NzTE1CcXpKVlcxZFVkZWJ0TnJlWnoxelY0MnQzMA?oc=5",
       "published": "2026-10-24T16:56:00+00:00"
     },
     {
@@ -96,6 +117,13 @@
     {
       "source": "News",
       "via": "Google News index",
+      "title": "DroneShield Limited (DRH.F) stock price, news, quote and history - Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PVlVhZG5TRlB4czBidjJ6ekhra3gzeUJTU0s3ZXFZOThldVU0eUF4LUo2ZmExUWU5TFl4R2pzSkdYNTI3T3RfVGIyWWpMYkRZQy1V?oc=5",
+      "published": "2026-10-24T09:11:45+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
       "title": "Bank of Queensland (ASX:BOQ) Share Price, Forecast & Analysis - Stocks Down Under",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iWHFlOW0zbG1yOHRzaEp3MTBXVTdVaUtFbXowYlBEaEpyS2xQbGo4eWtZRVZ0d0tQZzVIeWZMemNzb1U2QUgwZS1GelRnTG9wS29hbTVCeUNIMmE2SHdoQThwOUh1dw?oc=5",
       "published": "2026-10-24T07:31:44+00:00"
@@ -108,11 +136,18 @@
       "published": "2026-10-24T06:56:15+00:00"
     },
     {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "‘Concerned there were errors’: Former Rex directors not in clear as ASIC seeks appeal - News24",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPOHF5MHZnYmZhSUpOa1BDZ1Zya1Q1N0VmSjI4dUtRdDhrdlA0VG0yV2hRay1wVl9FcWhqaUhJVExXLVpXUkJOaG1vZ3hXdGNkeDVHWW9ZbllzZFZjQm1ZSzBDRzdNRkVHb2w5X3drYk9wc3VSTEdUZm5ieXh2dmU3ak5NbUVrOTJEaWJ1c0JvbmNjYWdsQnh2cE94cEdpOG1rWlItYVl1eDBMUjZVWkFYWEJianNheFMta3lhY1lua0VTLWZ1Mmpnc3daY3VMYkl2UmoyZ21UVjRkUEMzVUV0SVItMFN0eTFRdkszVGFYNEd5NXFTczZuVVNtS0dFOExrYmstQWhodElxMjFPMEQwWE9tdV9WSTJIYjRURVNMSjNrU1p5ci1oN0pFdWI1bWJ4N3ZnVzUyNTNQalJtYmhqTzRtdFFlLVhlQkHSAcoCQVVfeXFMTzhxeTB2Z2JmYUlKTmtQQ2dWcmtUNTdFZkoyOHVLUXQ4a3ZQNFRtMldoUWstcFZfRXFoamlISVRMVy1aV1JCTmhtb2d4V3RjZHg1R1lvWW5Zc2RWY0JtWUswQ0c3TUZFR29sOV93a2JPcHN1UkxHVGZuYnl4dnZlN2pOTW1FazkyRGlidXNCb25jY2FnbEJ4dnBPeHBHaThta1pSLWFZdXgwTFI2VVpBWFhCYmpzYXhTLWt5YWNZbmtFUy1mdTJqZ3N3WmN1TGJJdlJqMmdtVFY0ZFBDM1VFdElSLTBTdHkxUXZLM1RhWDRHeTVxU3M2blVTbUtHRThMa2JrLUFoaHRJcTIxTzBEMFhPbXVfVkkySGI0VEVTTEoza1NaeXItaDdKRXViNW1ieDd2Z1c1MjUzUGpSbWJoak80bXRRZS1YZUJB?oc=5",
+      "published": "2026-10-24T05:38:11+00:00"
+    },
+    {
       "source": "News",
       "via": "Google News index",
       "title": "3 Australian Growth Stocks With Revenue Growth Over 21% - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOEhiUl9nRnAtY1BiQVRIcmp1YlJfcm9jRXVHdjMwUU16cFlUdW82UU0zWDk0VjhjVkhzUGZDai1POUQzMXZWSmU1cWdOVjY5RlJ1LW1VaWk4Qk16WUpkM3NaOEVlTHhqeTFRXzNtUjlveWZiMEY0QURiUXBlcDlIa29uZXR5YzQ1UWFXVG5IU2ZtM1RCM1ZjYVJCLVE1Qkw1elNhZmZUVmNQNGRTekZKdkU2c2ZTRnBEV2hQRWJQSDg1Nll1amRydC1uaE1SRTDSAdQBQVVfeXFMTjFEdndQbzF2UXZESW85bXphMlk1U245RGVIcU1wcnZHOGVKSkhQWUJqUnpfNExXQm1UNXNTeVd0YUQybXZnY0toNWFLUnpDOWZxbldVWmEzcUYtbHNIYk1EakktQlBaOUpaaktUOWExOGxrM0xxRGNyeC1XWHBCWVlXZVhhVkVac1VadEpoNGNpNkx5cDV1VnNMczV6LWs3X2hmZHZRdHA2VWNIQVN4QVlIZGF0d3AxZ3RhSDBnYVFiUUFrLWZpdHd4RGZWUkNubGNQUGw?oc=5",
-      "published": "2026-10-24T04:52:42+00:00"
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMUR2d1BvMXZRdkRJbzltemEyWTVTbjlEZUhxTXBydkc4ZUpKSFBZQmpSel80TFdCbVQ1c1N5V3RhRDJtdmdjS2g1YUtSekM5ZnFuV1VaYTNxRi1sc0hiTURqSS1CUFo5SlpqS1Q5YTE4bGszTHFEY3J4LVdYcEJZWVdlWGFWRVpzVVp0Smg0Y2k2THlwNXVWc0xzNXotazdfaGZkdlF0cDZVY0hBU3hBWUhkYXR3cDFndGFIMGdhUWJRQWstZml0d3hEZlZSQ25sY1BQbNIB1AFBVV95cUxOMUR2d1BvMXZRdkRJbzltemEyWTVTbjlEZUhxTXBydkc4ZUpKSFBZQmpSel80TFdCbVQ1c1N5V3RhRDJtdmdjS2g1YUtSekM5ZnFuV1VaYTNxRi1sc0hiTURqSS1CUFo5SlpqS1Q5YTE4bGszTHFEY3J4LVdYcEJZWVdlWGFWRVpzVVp0Smg0Y2k2THlwNXVWc0xzNXotazdfaGZkdlF0cDZVY0hBU3hBWUhkYXR3cDFndGFIMGdhUWJRQWstZml0d3hEZlZSQ25sY1BQbA?oc=5",
+      "published": "2026-10-24T04:52:44+00:00"
     },
     {
       "source": "AFR",
@@ -136,18 +171,11 @@
       "published": "2026-10-24T03:54:11+00:00"
     },
     {
-      "source": "News",
+      "source": "AFR",
       "via": "Google News index",
-      "title": "3 Australian Growth Stocks With Earnings Growth Over 23% To Watch - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUVZHeU04ajA3anRKalo0UkxWR2hhanY1THlqTGdHUzdXRlV2czZ3Sk5GMzNFT1B5ZzBXcWZBZklfLWt2bFlpMDRYSkFZekxEcHNBa2s0THNfTlNzM0dtSE1wZGV1OHo2TVdLS2tBTGFLUi1wX1ZMRTF3RWMtMTd1dGh0NlRhVHc5N0Etek01U0VlaWpfZ0s5UnNYWDFOUEtaSWNoUWZfSUJRSzFtUFJnZzg4N2ZlWkpyam03c1ZHdktjckI5NGVvZkNtY2duQdIB0wFBVV95cUxOX1kyWE9uVmZZMXlZa0xUOXFScEYzV1FUZElKZEZCdzNmbFpUNEdKbU9LNnU4djlDUkJ2bjczVWdNQ1d6RGZaQlhJTkVfYk1fSDVtY1U1LUl4V3czZGpSay1EY1Zpem0yMjNyQlFyVHg0SEJkbUZiZTdFSDZxbVpES2pNM0U3VXFpbzc2TzRVcV9zTERtVXUxbmdJOVhSNjVuVkItQk80OVhUTDZibnNNSTMxX1ZRSUd2cEdEdUpwSjU3SHRwbHlvU0NrZG1nRHRtQm1V?oc=5",
-      "published": "2026-10-24T01:20:18+00:00"
-    },
-    {
-      "source": "Reddit",
-      "via": "Reddit public RSS",
-      "title": "Which Mining company to chose after the november 3rd ?",
-      "url": "https://www.reddit.com/r/ASX_Bets/comments/1xduh32/which_mining_company_to_chose_after_the_november/",
-      "published": "2026-10-24T00:19:16+00:00"
+      "title": "Chairman's Presentation 2026 - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN25oRVM3amZjckRObjE1UU5OX3JKRUdKU1dHc015d1JIa1dxV0tEeWllV1V6ejZhNlkyR3J6T0JKc3BlU002ZG1tVnVseWRXb0JSandaeUE5SlJSb0ZmbDRDZVlkTEQ1ZjRudXFYZlljVjhzSGRNc081Vml6bjVsblBJZGwzUURQNXVyVExXbw?oc=5",
+      "published": "2026-10-24T03:54:11+00:00"
     }
   ],
   "source_errors": [
@@ -169,7 +197,7 @@
     {
       "source": "ASX",
       "via": "Google News index",
-      "count": 24
+      "count": 62
     },
     {
       "source": "Reddit",
@@ -179,7 +207,7 @@
     {
       "source": "News",
       "via": "Google News index",
-      "count": 57
+      "count": 54
     }
   ],
   "note": "Public RSS/index links only; not an official licensed ASX/AFR feed. Titles are not verified facts."

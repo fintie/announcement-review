@@ -1,132 +1,608 @@
 {
-  "updated_at": "2026-10-26T01:15:19.344260+00:00",
+  "updated_at": "2026-10-26T06:14:37.796252+00:00",
   "window_hours": 24,
   "items": [
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Topic | AustralianSuper | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Nd1I2ZXVWSGxmd25tMDNPRHYxY0FHX1JFTWdHSnk2dE5uSjJiQjNiU0ptQjh0OElfSXRsd3NuMXBJRVA0RTdqbzJzUkE1azlBcDlScF9kMzc?oc=5",
-      "published": "2026-10-26T01:11:59+00:00"
+      "title": "Ex-league star chased over $1m payments just before his lavish wedding - AFR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORDQ3WGVVX3R2LWNNRzBiLUZLZUZ2MzdUZ2JFc3NiTUlSck0yMTVHLThMWHZzZGtjMGJMc2hTX1piNG5JRHh0S25kR3ZhY2M5anFRNzZpMDdwVDd3eV95Yl9OOFRvQzBzSjZBckNFSlVIN2RzMFdKVXllNFNDZkU4SHFmeUtLRldraTcwNkFuNGt5UmxzN21tVWVaVC1aMUdiamgyVEl6Q3NkTVZjT3N2ZzFGcjJPeFE?oc=5",
+      "published": "2026-10-26T06:09:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Elevra Lithium sold its Ghanaian Ewoyaa interest - grafa.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVTFidjM2ajl3ZzVqQmFSWDEyYWZITHJfem52OF9CMXNlektsVkkwaWJ5cnpEYnlJY2ZULUFvQWpZOFBpVERnTjRnQ1JaMTdNUjRyM2dUYzB3UzZMbThSZHFNTi1NRkx3Q0xCeEVaYXpnbWFRUFBucTB6ZmFYZWk3aWs2eTE3dVRYZG02RQ?oc=5",
+      "published": "2026-10-26T06:07:33+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "AML3D secures $2.2M Northrop Grumman deal - grafa.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVnRKb3NIemhJVVdMVFlxUkNtbGw4ZFZfVWpJTzZzaDJMdVpYckNrTmFLS21KbE5kVUVjOXplV2FfMUtaV3I0Sl8wb1VoUkViN2dPcndHeFJ5bmdkX1NrQWRGYTFHem9HZFhzN0VqbjE1cVlMRHBXbjdDQ2Q5ay1CdTVR?oc=5",
+      "published": "2026-10-26T06:07:14+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Janus Electric signs 20 truck deal with ConGlobal - grafa.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdWhnSTJNNU1UYk5aRUN0aERWV2h6RWNWdGNNcmJkX09BTTJ0UnNpRGJYN09pQ3FPMWwzcldlYll6Vkl3U1JhRmpxM1BBUi1WbUNaRUFkc1JyX1FiekYya2xicG16UkM1U18xWlRTUWVnTFFwRW1FR21JbDVUZlc5cFJjdFJEWFFScnc?oc=5",
+      "published": "2026-10-26T06:06:56+00:00"
     },
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Topic | Infrastructure | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4UkNXM1hWVjBEdzBDODBmaEVKQWRIc3F1RVQzYXJzMjNCYlo0MjAtNUJfOGlDbGZxQW1Vck9SY2JXWlJsbWlPRG1OdmJCajdGbk41Qm1vQQ?oc=5",
-      "published": "2026-10-26T01:11:59+00:00"
+      "title": "David Jones minutes from midnight as directors ponder solvency - AFR",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS2xYMUswNkJ1aGRITTljMUh3Q1VyTVNJYWVOdUlqSUxzZ1NZODVvQUNvdmNiQVN0cGd3MHJGWEZneWVlQnNwVUJ4ZlMzeEdUUXQ2cVAtZGVJbUwwenRYcFhRdndOcHVVdTdyRF8wVklWZFlhUUh1N1pOV3N2ZzlXWFhFNU9sUWY5S3d2OWxuOE00NVZ6S1YxVG9kekhRbzJfTjVMLVFwdmlMMFhOdl9R?oc=5",
+      "published": "2026-10-26T06:02:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Vection Technologies secures $1.4M revenue contract - grafa.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLXEyVHI0eXF3ZUNNZFoyU0x6d3RRZVF6ZEFQWGNCaUwtN0E4T0gyM2lGX2oyUmdQdXpYRUxmUVlYN3ktcmgySmFGUk85OWpZNEhUZXo1WjNNdl9mVjNvVWZDWmtxLXNiNjBidTZOaUtOUU9BajgtUFE1anZZQWdyT211RGhZWms2SlFtTk8wYw?oc=5",
+      "published": "2026-10-26T06:01:33+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Orion Equities (ASX:OEQ) Share Price in Focus After Today's Drop - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSW9wNGVGTHBmLXAtVC11Sk81RHpUQk00LWdGemZhNU9ySkRmdnR3YVpkb1c4eVNOdnRTeXQ1c2lma18zcTIwTF93Z3hkaWxya1RLQ3hISTNuQjFxbHFMcDVCVk44ZG9RYkhlQy1IUjJsT1VSWndOY01Wb2REeklVRi1ibnJhZFp0VU5uUkptLU0xQjBmSTlmeThmX01HcEk?oc=5",
+      "published": "2026-10-26T05:59:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "3 ASX Financial Stocks Slide Today: OFX Group, Earlypay and Orion Equities in Focus - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUHRWVHZTMUNPTzY3MS1xcDcySTdZdkhvbHlrdHdNNHVJSjZiS3JLb2FrSFRZYWRTdEhRZ1BlXzVYRnVwNmRCVV9zcmxfUld3T0ExUlU2YjdBMm5PTE5wa19fa3VKUnpib0F6YlZvczVxaEs4YUFPYjNQR0NWa05HN2tDam40Rl94LTM2OHd0eGR5SXl5OFI2TV9MckRMTTNPQ1RiNzNjdGNUZkJoU2VFVVBwSGM1ZFRnUjNr?oc=5",
+      "published": "2026-10-26T05:59:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Can Monadelphous (ASX:MND) extend its contract run after a dip? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVG5wTTYwUHRtOFNIYnVvZ21yQ2t2X1p6WFZ3ZHBSalpUVHd2eU1nWDc1dTZleW8yX2JwRU9jVnRCa0hiRUtsN09GTnFVbFFzd25uZWtGVUxBM2xqLThpYTExOEFCcDUzSk0yRHFTdFNHMUR1bTNFS2M5dlFMRkJfVGQxRzAtU0E1NC1aeDJoVmNncDFGR1R5SU4yVWhveTRkTTdRWEc0Tmk?oc=5",
+      "published": "2026-10-26T05:55:00+00:00"
     },
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Topic | AFR Reports | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uZnVOY2xNTFRCQ3FkY09fTjhhWVJoV2hkN1pDRjFMX29qcGt4U0hxdFFSV19NLWZRU1pXNWp0V0lfbXV5NTBwc1lybUdyX2UtUWNOaw?oc=5",
-      "published": "2026-10-26T01:11:58+00:00"
+      "title": "Craig Scroggie’s big fat bonus that never was - AFR",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNWQxOUdrR1RMN0FWczBwdFNFNkQ0Tl9EVEJCYlp3WXRFWkxITmJZSFZKZmVZMEdsWlh4VFFTajRZVGZuaXkyem9SVTZpbFZxZkwwOFhQWThqZFV1bWY5VHptZEcwOUhnXy1CUzRQZy0zekJEaEJjNVZPaWc4T09NbUhMcDcyOVB0dllrOXN0TTJNUkVfYnpHMg?oc=5",
+      "published": "2026-10-26T05:54:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "How is CSL (ASX:CSL) reshaping its pipeline and plasma network? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNEhyS3R2Mm42TDFLd2JkRUowM29QZzl6YWxLNmVMQWdoRzNXaS1BREdxOUp2eEx1T1ZXSGQ2cTNxcVRHalg0ajdmTFJYV081SUc5NTdhcGQwekpZZ2ZtMHlwWGRjMTBDLXNWelpNV2JHSmFYNEE4eVpFb2pFcDJZajRYTXFQWGdFNUcwbnJYdHBMdmNZcC1CME1QZFQ1MWZrQ25vbWhzUTE?oc=5",
+      "published": "2026-10-26T05:50:00+00:00"
     },
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Topic | Stock picking | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10VUxmb3dITHRiaFJJQ0YzZHFrOE9mS2JjVmtDMmdiNkVxbmJ0bUVWbGlPSElGSk00UGUwRmZ6VG5KY2ptejlUR01rOTBYQ2k0RUxGangzcw?oc=5",
-      "published": "2026-10-26T01:10:02+00:00"
+      "title": "Challenger and suitor Daiichi tango as investors demand higher offer - AFR",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRkY0V0lJdmFlVVlmN1NrQk9Hcmg0bDZrNjN1cjVNd2hLdXo2dzhMYlhGa0U5clQ3clppcE01NWs4TWx3VlNZODBUZFU0Mnp5Y2t6NEQ5YzFCaC1BSThVYkVRc0RlOW5tNHRGM1pKWWVJLWZXblVyYUZZb2pvMzBKbVR0UkR2X0JrUUpPeEJmRmRSbWJNQ0ZwU2pCQ0hHWGhRSE5wa3RYZGtNZldlLTFpcTJoYXpjaU80VEREQThWZjZKLTh3MmMyV0pKRTFPdw?oc=5",
+      "published": "2026-10-26T05:41:00+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "Which tech giants drive Vanguard's global tech ETF (ASX:VTEK)? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmJJLVpxN1Q5NVpBamZSblBkWGNQQ2ZtNk5TalNiYU01a2xHZVMtaDk2clhLR2IzdndwX294ZGVfb1hFaGJfelU2UzJCck1HSEFyX0tVYXN3U19LUmJhSFg0eC1BdGZOR3JScU0xdklUb3E1Z3pQX3JBQU1zeFppRzUyclBpaHJadGd5ZW1GSXluWDJ0cWw0a01iVEc?oc=5",
+      "published": "2026-10-26T05:41:00+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "Can VanEck's rare earths ETF (ASX:RESM) weather weak materials? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTRZNEJESzEzNWlVbW9STHRVYTBqdy1CMzU2cFc0R2wzVU16TGV0Y19iZ3Izam1fLWtDQjhGdWl4N1d6Wk5JRHVMTTFpa1R5OUlBS0FpQnlNQmZVbFhYTmUxQjZyUWI4MkxYQlVHZjU1dl8zQ21sRW5aNzNaSGFHR0hEUndDTzFkMl9wR3VIal9UQmdFNFFpNENpR3Z6Zw?oc=5",
+      "published": "2026-10-26T05:41:00+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "Why Morgan Stanley is warning investors off Aussie stocks - Adelaide Now",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUDczdk5UbkJDZzFtQU83RGdZaWcyaDVOMUllNXdleDZXcloyNjBqMVFsMXRuaXZhU0w1SlV5WWF4eWhtQlFCbDdmR1d1bVc2bzlCWmR4OHBJYW80eTJSUzFqNlVYaHp1TWhnMGY3VWk0VE4yWTV6ZGxlSHNUXzhzdmZyS0NMckM4LUs5T3gxOE1na0FZUkwyLVNuUlI5cmxkeGE3eW5OVHJqVXJzdVVmMmVsV2Z5N2J6dnR3bU5ySU13ZWFra2xyV3A2dWNjWnBKcEZyRGFWRGtQanpGVW5VOWF1SndQNy04VE1vekhoa0NwZw?oc=5",
+      "published": "2026-10-26T05:37:30+00:00"
     },
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Guzman y Gomez Reviews | Restaurants, Cafes, Bars, Pubs & More | Good Food | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40MU5DRDhpa0x0YjhCa3I3TDlGaWs0Y2ExRkZJbUl4dTNUTVFXMFpqa0FiUzlzN0otMkV4SHVlRDFXSlhDbHl3VmFNSGNhRW1UaUVKVkF0bw?oc=5",
-      "published": "2026-10-26T01:10:02+00:00"
+      "title": "Horizon Nexus adds five deals partners from PwC, Deloitte, DLA Piper - AFR",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT0Q5Nk1IM0dyY0JXcHowMHZ1bm5wc2Z6NFZWRy15MDc0ZmdRLWcwYjU1WDdSQ1UtcDFQb0VtakVmcDUxQUx0bFRXMjhHWEVEaXRSZDdHZWlWcDNrU0tfMDZwMEItc1hJdFItZ1ZCdTR0eUU5OG9VMkZmUkNNQm55cEFsTWZsamJUWm40QUhaUXVPRkljV29FOGE2X25rNHpJMUJDazl6U1NXMXdCOWZWMDNDYkdtWlI0NnpwTzVndjNDcVY3MUZGWWpwME51dW8?oc=5",
+      "published": "2026-10-26T05:31:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Neometals to Hold 2026 AGM on 27 November with Director Elections and Performance Rights on Agenda - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSGJXaEp5NlE4RTNKNVJ6UEN1bmlzcmVYdTRoRWIycmFNSy1jR3BiOG9vbFVibVYyTDBFb1dTb1FEWExuQWZaanRLdWFTSEs2RFhXeUdoQjFjam9rU3dDa1FRbngxajdfT1VXbXpkeU5PT0ZiT1REWWVlclVLQ05FaUhKMXFBbWhoM1RPb3NpYkhjSDFTNy1pVC1xMjFTam80TU1NWG1sY1lQRll3Y1YyOXpXNWx6XzNDYmZ3NjFZVWlGS01MYTVEN3ZKM1drekhrWkwyN19ndw?oc=5",
+      "published": "2026-10-26T05:30:42+00:00"
     },
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Topic | Middle East tensions | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vUmVmU2E4Yy00ZHN1Q1lxV19kU2hUNFk5eGpCMHVMczNDbmJVMFNkdElkdUFvakVGc1BKT0tmb2ppSXVGQW9RaW5xSGVDNktfZmhDTkFEcVMtcG8zOWd3Mg?oc=5",
-      "published": "2026-10-26T01:10:02+00:00"
+      "title": "Activist fund manager Jeremy Raper lands new gig - AFR",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNHlJdUJ4ZnNOUmRIZGhoYjdsdUwtLXBCQnJnTHp2bURvVGZTUVIwQlhjYk14MzMtNGRwYm9iMlVma0o0OEhoVTNlUFJhNXBRZnJicVNEdkp4a25yM282NkZWTW5MaXJ5N1RnS1RYUXZRdUdNRlN3cjBFaFRJVUo3cGhtMnJNWkdnd2pQaWhRZFpwQ0RBRk5rbTVSQ3k?oc=5",
+      "published": "2026-10-26T05:24:00+00:00"
     },
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Topic | Homewares | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lMEk0Q0JvNktyekRhWTZTOHB6VUx1cEpMdnFQUVBxcEczcGs1SlpLdXR4VmtpTHY2a1NVVTg3SElKdmw2aEtUVnotRl91VTVtUHc?oc=5",
-      "published": "2026-10-26T01:10:01+00:00"
+      "title": "Corporate Travel’s battered investors rewarded with 45pc bounce - AFR",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNamZ5MUo1SXNlQTNGejQ5cXRvTFVPUkRtb1JQNjNoTWxMU2RUY0tNaV8tdFNZWmpLenZsanRQU2xfcWxFSTZ3d04tMmhQdEM1Tk9KTlNSbGJJbU9fdVdIb25lQWtOY2htS0JvRnNuN1ZNRl9scDJlWFZyN0FOOHZ3UjNoVlU2a3NOZmhsaGxCb3VjYU9KRkRaMHBfX1VIMmVoOUdaQTluU0lSakJaaEZudm43UEo1SUFRVmM1YXgzaw?oc=5",
+      "published": "2026-10-26T05:23:00+00:00"
     },
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Topic | Before the Bell | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RV19SaG91bEtVRHlFMzVzY2dlVi1FUUdYaWhoMmltYnZFZWs2WGxPWFVhMGItLTBfSVJiUENMeDlGa2p4SG0wajRaNkUxajRNdWtEbGJOREU?oc=5",
-      "published": "2026-10-26T01:09:59+00:00"
+      "title": "AMP defends pension boost products ahead of expected crackdown - AFR",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa0ZmM3l0VUpCeldCc214eThQVXZ6UWZ3Zjl5Q25idkZhUUpPXzlSS2N1YVB3bTlhcl9LTFc5b2d4RzNMTG0yOTJsaUtZR19HVDRDMFc5WkU3YmVhRGpONUVpWGhTZ2hqVVZLS0FfcUtXZTg0WHljQVA4VDhtcHpGY0J1cm5EYXp6b0IzT2Rra1VTRUNVbkl0bEhwLXV2OFlHS01pWkZlM29rTW1wSUdZSFhwbFFMdWlvRWVkMHh6VTdyNmJEWVE?oc=5",
+      "published": "2026-10-26T05:18:00+00:00"
     },
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "CBA News, Analysis, Announcements & Results | Commonwealth Bank of Australia - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iT2htZ2JWa3pRbGh2VjZVeGF6MXpqU08yOUltMXZETzRLUTBkbW1HV1JNYXJOTjFYZ2o0WnJtUGlHaER3dlNHbmtmbw?oc=5",
-      "published": "2026-10-26T01:07:59+00:00"
+      "title": "Bornite-Rich Copper System Continues to Scale with Strong Step-Out Drill Results - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaEV4RlFWQktfdVBLNk5sQlVGcUYwa0tjcG9kN2d4Nk9iYjhpQ1ZUUkllQUg2MnJKQWoxdS1zZm5fMmtHdnJoNF9UTFZnRU9uckc0b0pDd0xmNVpYOWtSSm1CS0JGZ3JqSUx5U2xfb0lLMnJQMG0zLVY0LS1wUVA4SHpyS2VKWFdvTmxPMjlvdw?oc=5",
+      "published": "2026-10-26T05:16:31+00:00"
     },
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Company | TechnologyOne News, Analysis, Announcements, and Results | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ua2pkc1d2aXphSERTWXlEOFowNkVnbTVuSjRFdHdKOGpQeEo2bC1RN0wyTXYyejNBNllmc3ZIb1ctZTg0Z2VCeVhHZHlCQ3BaRkZ0bjFJZHpHeG5GLWRZZ2xwbEpEN01a?oc=5",
-      "published": "2026-10-26T01:07:59+00:00"
+      "title": "Foxtel’s billionaire owner extends Dazn funding lifeline another year - AFR",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVlRNbkJiV21ZZG9DakhLWV9XRHBEbkJtamZiSW40dXdEQTJaRW56dUlXdFZ4bzZJQ0tSWEo4ekRoenFPbTdOWFpGY3h3Yzh5aUtzTV9KeDB5U09obnFweDRrZWFCSzRWQ0ZfbGJ3ejZQZW5OY3ZMZ2tlZ2RVM1Fqb2Jma2RHU25LckR0NElJeWVMRTBzRnlSR01YNC1CUmpjS0hLUWdzc1FlWDZUeXFILU5iVXNXVktvYnlUZjVCS2MtTmZudXpadHVmZFBBV21Y?oc=5",
+      "published": "2026-10-26T05:15:00+00:00"
     },
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "CGF News, Analysis, Announcements & Results | Challenger Limited - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mQTZ6SDNyS1M4SDF3MjJaa0stdEtIZ3NhcHloRjJRdDVDdjZRc21xVlE5b3ZzN0Z0VHdGVFRscnlmd2F5dm9hNU82QQ?oc=5",
-      "published": "2026-10-26T01:07:59+00:00"
+      "title": "Inside the biggest feud in artificial intelligence - AFR",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeWVlanJfeUI0LTFlTmxtX3VVYURzMUdnLUtOS1VueW5iWTkxSVhNQkRWaGd1Ulhhc1l2M1MtNGVQLUphcHVjZ2cyd1E2aXhYYmE3bVlLb1RoS0gxdHdGWTU1TlJPeF8tejJ6Q1dKMm1Oc3dqWTZ2MHcwT01keXc4NkF4Qko1c2wyOU5jNFVoczdtSjYzdDlqZXpIRDkzQQ?oc=5",
+      "published": "2026-10-26T05:00:00+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "Why does Neurotech (ASX:NTI) pivotal autism study matter? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZDhvdjU3OTNlNEluUWZod2FleDVZalVqVG5xSC10NG16TzZqYmFRRl9hY2tUYS13R3I2bGRZbTFjdjlKbjlOODgyNTNHVzFnS0I4MzRkazF3VlNfSnNvWWtMSE9IWklpMlpkZ1pMallraUJLTU9qQ3dRWkhCWm5lbVJSV3QzaVZZVzVSSi1Hc3pxOGlSMkNJRmVwcjd1QQ?oc=5",
+      "published": "2026-10-26T04:59:00+00:00"
     },
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Topic | Investing | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRbURiUWNQZG5hVjJtQ0hXNWRMNGI4cHJHX2xDakQybUd1X2xscHlVVXlUdzlmbnNVTGgyWXFzdGQyQVd5cGVHUFJqMUxyT05V?oc=5",
-      "published": "2026-10-26T01:06:02+00:00"
+      "title": "Appendix 3G - Notification of issue, conversion or payment up of unquoted equity securities - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRENnX2FST3FESGR0eGdxUVZkUVZGZ2plQkpmcy1yUmFrc0t5d2Q5aTgzMUloUFpOUjJuUGxHOE9fMFBWUHAyWEhGaHJiUTFPZk1hV2NoRVJvQzE5VU94OTdkazU0cXRKUnVUZ3lUSG51cjd5LUZZR0lpZkxGUjR5NHVrQmQ5QW1uY2pPYnI5bw?oc=5",
+      "published": "2026-10-26T04:27:37+00:00"
     },
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Nick Lenaghan - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kYWxHcDhQUzlacHl4ZHo4N3lIRjUxaF9oWGdNN1ZIRTJEVU9SYmF4UklwOFlJcVFBZzhWaksyNGFvRjgzblFlWGNKTjRZYU1lZ0EtbA?oc=5",
-      "published": "2026-10-26T01:06:02+00:00"
+      "title": "US NRC Issues Final Environmental Impact Statement for Planned Paducah Laser Enrichment Facility - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVNwNGRwOWpTdUVXXzc5aWhidDBWcnFxdzRraE1zZDZkQmd1Q2NqQlEzZWp3cmE2SDNNVGN5TG52aFdWS09jRmF0enozNUJrbzVpQ1FXc1FjX2hQdktSMHRQVDBwMndXTnZwMV9pR3hUU3ZmMDgxbXBweDhwcE1ISHdfcEYzS0VWSWVHb3lhTQ?oc=5",
+      "published": "2026-10-26T04:27:36+00:00"
     },
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Kylar Loussikian - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPV1hGV3N4eUtIeWgyaUhkazlCRUVmcmFVSXlCX1RLS2NmV3UySDdrNXJGSktHUU5jZThQS1lXX0lHcm1JR3A4NW5yaVlqdEFkSm96NkRWM3VnZw?oc=5",
-      "published": "2026-10-26T01:06:02+00:00"
+      "title": "AIRTASKER LIMITED NOTICE OFANNUAL GENERALMEETING - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa01PbDdFYVd4NVdISGtqN01kZU1XNUZoRUYwWWlNZzJ2anIxRE9zNXNsaWFOTkhrWU9QWW9OVnZUWk9RVTVESlRuOGxhY3N4dk0zSm9RRi1HUVplWXlVUWhHYXBlYUo2WE5CNjY5Z3RKS2NDVDFNTFYyczFVWHNGblhNX2d0WkhzaUE4RTN3bw?oc=5",
+      "published": "2026-10-26T04:18:48+00:00"
     },
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Topic | Rear Window | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBXU3VJT2JtdTZvUDMxNkNvUzFMREM3OU5mWXVYMlY4WVlFUXdwOUdzWndTTjBtY3MyaFJXb2RXejVkcWpwVmc?oc=5",
-      "published": "2026-10-26T01:06:01+00:00"
+      "title": "Djerriwarrh Investments Limited First Quarterly Dividend determined and Guidance for Second Quarterly Dividend for FY27 - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbVdhNU1tN1hONnJ1dmtUYzhFNTl6S09qR2xFb1NRcGV0S3FQZXQtSEFjbEdYVVQ0Mi1taUhuMEhiOGtxZ0ktVjdfTzRQVjNfcDR4aVVNT0daak9OMWNMWXdHdHJNODlqUW1VN3pKR2tTaXVZdUV4bDFLOHo3V0prbmVIVkNzZHd3SUU0X1hzWQ?oc=5",
+      "published": "2026-10-26T04:18:41+00:00"
     },
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "NXT News, Analysis, Announcements & Results | NEXTDC Limited - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UZnZ6SmpMX3cyUk9DcFVwU19MS0NvYVZJekRKOVhZeEtHOWxyZGFlaEtTbXRmNXFWekszRXpabVBBQnVNdjRfeDNWcw?oc=5",
-      "published": "2026-10-26T01:03:59+00:00"
+      "title": "Appendix 3A.1 - Notification of dividend / distribution - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORkczdmVQdHFZa3dJdnIxM0hqQXoySTZyeE5wR3UyV2NZN0Nic1VnNFhYRTJHeGtOUVptN2NLMV8yeEVqNzVVTmI4VjF5ZmRoOEpuNlRpamZOR1BWb1FNTEp4TFl4aFd2bXlLWDQ1Z1l1MHdDY1hXSWFkcVNDVm1ZWUlBOTBDYW8xYXhHSDVocw?oc=5",
+      "published": "2026-10-26T04:18:41+00:00"
     },
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Topic | Capital raising | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yTXFEZFJYOHk3RkI5b2hYcjZtOXAxM19FQ3hKMHJadHh0V090NTRrTmVZVTBJUjJQVjdZY0tOTWo1d1BoeUI3Qlo4amJqRzAwalNfWnZyM0NFQQ?oc=5",
-      "published": "2026-10-26T01:03:59+00:00"
+      "title": "Announcement of Share Scheme Transaction Ratio - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ3B0dXUxUndCakJTV3ZQeVVRaTQ2aEN2RU5naUJYZ25DR0h1d1BXYU8xSGlNT3FtY3FjelpXdkRhYmZPb1p6MDFKR1JNNGxZa1ZIeXhTSElpbmN6N0dZbUQ0b3J3YVJuN2hpcV9vTU5DTGZiZXR1QWl5T2xQV2g0eUdPdC13bFcybENSZTc5RQ?oc=5",
+      "published": "2026-10-26T04:05:28+00:00"
     },
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Carbon challenge - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JMXpZVWNBdDVhN1c3WTdoVk94RmFfNmJwX21xYTZuZUZPWFhaYzBocV82WmZYOGstRml6NlB6d3lPZzJORFVOSlo4bXM?oc=5",
-      "published": "2026-10-26T01:03:59+00:00"
+      "title": "ASX Announcement: PXA Withdrawal of resolution 8(b) from Notice of Annual General Meeting - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRDFRTk56akJlMDNzU2Rhck1RVEl3U0tmdmlHZ3o0Ul9wNkNtXzdnSjU2bl9zLXpWcUhjbjI4UFpXekJwY29kc0w3NEJkeTFaTTl3dlk2TkRkZXNOWmhFYVZvQlVTcDRTYjVuRnRBUDd0OXFJR1pnVllURlB6WFh0V1ZRR2tyQmlpZGNJb3B5NA?oc=5",
+      "published": "2026-10-26T03:58:44+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Notice of Annual General Meeting and Explanatory Memorandum - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNjd3RGFLTmFMUDJUUnc1U3RPUkNLV2lnYjZpdzlDaG9CbDY1RUZmbXFmLWo1WEZVS2dmSFpQd0s0d2tRUkRaMl9UOUtraHVmT0NFZGhJbTRFeUdQbURFS0VxZURZZWw4b2E3N0xKd2xKTDQzTU10NWxKQXNrNVBBRUxRY24wT3NCTHhjbXdydw?oc=5",
+      "published": "2026-10-26T03:58:39+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Refer to Custom - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbzFTcVpQMjNHRmZiRGVhdUlTTlVsY2VOdWQtWlNQZTFpOENtaUl4VDBuZWZFUnpwU0t3OVhxX1hxQzRMZEFlUjlmWC0zSmFDd2xPTWVralRYd0hBU3F1cVlEOUpvbDUxOUZvcXZtc3lXcG5HV09yMXBvZExqa3hXMGhCRnc4TjZGVkttYW9ZWQ?oc=5",
+      "published": "2026-10-26T03:58:38+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Papyrus Australia Announces Change of Computershare Registry Address Effective 30 October 2026 - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdkk5Ni03Z00tSVBPZzVYcmIyS2gyMGlSMFV0VWgzV29jWGdPdGlVcEc4MTJ3Y1hSRTR1eHNnVGdTQlpEUTNVMDUtczBFUVVWR2NZMGdCb0NIOHRKbmRNNGZ6SXREdmxuRlp4aHhIenE0MHRvVVlNWjJMZ05zZkJrZ29LSzg1LU1naW5oSWJxMy1NZGVlNzFkR3M1cUZrQUdFN184T200R25HOGEzc1k4QVVwWjRxOGlLUHF3akxSVThzeEdfWUlRb25wb3lWMEJ6NnJoMzJtOVY?oc=5",
+      "published": "2026-10-26T03:53:14+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Report for the Quarter Ended 30 September 2026 - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd091cUVFa2E0Q05YRW5UbmhBRkI1XzhjRlExMXl4S05ZXy1hVGs0VnQ5MmN1eTJWM2xzTlIteGNoQzlVWHBuV1NoSDJfVFJUbFp2WXlGUW1ScUYwUjg1aGgxRlZJMFNlb05HajlRbjZVTWR4OVd3RnVyZTZvbUZGdERqOTl6VHh6Rjk4TFhmYw?oc=5",
+      "published": "2026-10-26T03:48:30+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Australian Mines Limited Annual General Meeting - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQmhyal9QMThDdmZtZ3JqbndXRmNSVTdOMXRjLXE1Tk91SzJpb3MwYU9FeEtsUDJMTFpuUC02UTNRdHZxUFhza2Jlcjk3S1h0eG9Wc0NyaElVMnhPazM1VFJuUmZxNXN4ck81Wmh2cFBHY1c1OHpRbExobkdMZWZHRkJIU0pQbFhKZ0F2OGd0NA?oc=5",
+      "published": "2026-10-26T03:48:16+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "September 2026 Quarterly Activities Report - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSzJtZl9NZVN3T1h4eGRqYnJKYU40Y3o3TUV3bWJjZFRrSHJZZEpwSF94Tmo0N2FZUnhjV0VlS0lNTlllY1REaXJVbWg1N2xXTEdpb2VIRlFTUGFVdl9yN1Jaa0xWU2tYZ25CdnNiNWIxeDZyQWRrY3FxVnh3RlNRaWJqOXhUMUZTTDdYRlpDYw?oc=5",
+      "published": "2026-10-26T03:47:13+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Quarterly Report - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVWhNcW5DaS1SUlRiNzEyTnJTWnpyMmQ5WjVUaktJTGlKWFdBd3pKam1qMTV2a2lJeUlvamUwdXJaR0ZMaEI1RGNjZ0NBWkd6ckZGQ3UwaXZwZHhfR29Fd2JrOVJXTUVPdExvQ0g5RFM0dkJTMUNCRnhmOC1lam0xQXI5U2Y0ZC1VSUMwN3FYcw?oc=5",
+      "published": "2026-10-26T03:46:47+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "ASX 26 October 2026 Request for Reinstatement of BOC Quotation Trading Bougainville Copper Limited - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZVVZRVVSenl1azV4dFhndV9CT1Q0cWhtWWNBUnVCYUd0Q0hxRXJMSVNTdW9kMXE0VVNvcEFrN05zeW5JcnhUa01CMDg4RlJTU3NXenVJSUpiNHhNOWpCWTRxWklxa0hpU2dfYnJjVkZyU3ZJZ0ZLU0k1UTlZQ2g0OXpRSUdsNkZlenllSWhVZw?oc=5",
+      "published": "2026-10-26T03:46:46+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "QUARTERLY ACTIVITIES & CASHFLOW REPORT QUARTER ENDED 30 SEPTEMBER 2026 - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUnpEaGhaVEtYbEZFbzZLbjRiR3F5T1NYaFJ4RTItSDg5VjR4c1cwUHhXd25EVXQzemNWSWRzMm1NNkp5aTNfby1QU0tSRklUcUNJUEFfN3lxbEJwd2FXRDlhSDhrNGJIVFEwXzhhZzhsU3RZbWsyZXYtcFdoYXhfbnVCZENndnU4TFhuMzl2Zw?oc=5",
+      "published": "2026-10-26T03:46:25+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Notice of Annual General Meeting - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlFmZEp5S2ptcTducFA5alZxRmxnMkxGMmp6VmJYaFBCdWNVWmJzdlh5djlkTEdEMGQzV3d1Q2l6RmF3OG1ZQ0duR1FBNGlWbUZqLVN2bmVmczNDUExpSW1jcm5sNTFtRnZSLXVleGpnWnJwb3BEVDhYdXZENVVMWWN2amFHUWc4ZkpUQWIyUQ?oc=5",
+      "published": "2026-10-26T03:42:18+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Drilling to start at Bird Reef Central Uranium-Gold Project - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNkRTYm55VVVnTERxaGhqNWpXcnVhSTg3VkVybzNRT1pOeHd2UEI5RXA2bjhRckRwbERrZWNERjJmeEZ5LW5lajRjM0xrMTBQLTk1RTlBYjMxd3JSZThveTZpMVVOMlItMFpoWmJJUDF2NUNGTkpFcHljZlBoLWVyY3F0bDJ3bUN4VTE1bEhSSQ?oc=5",
+      "published": "2026-10-26T03:42:02+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "Minerals 260 Shares Gain 7% as Bullabulling Gold Developer Bounces Back Ahead of 2027 Investment Decision - International Business Times Australia",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS09QRVN1MUxpRHB6b0pqRnMwcEdwbTRteU1EcWo0VGJtcXY0R29xRXhxT1VfaGRoakd4dlF0am5wMC1NdURKTTlYVV9zMzVaNUNIVGJZMDZ6dVZqN2xGUXYtTE5ycmdVMFFkNWMyNGlROS0tZ1V5ak94R2NXanBnRHYxMTRFX19HTGJ2b0NB?oc=5",
+      "published": "2026-10-26T03:41:20+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Butn Limited Requests Trading Halt Pending Material Contract Announcement - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEZXTnZ5UjYyWHUxQUVnaDZHZWdwLXFGZGNJd1g0cXB2S0tGOGRNYUF4SW82TjQtY21BY25hNmFORFRtT1dwRzZEWnk0bFBHa05iS0hCOFhvS0RwM0VOcWxWZDRfZjBLNDlmM1FIaUt1TmZ2NlRMa0dqZ3ZJVVhoajVoZERzdEJEUFdhbndYMVB2RUlpU0ZJSTFZNmpYVFhfXzRNVjhFZG5mOE91aWZ1VTBZV2h2dw?oc=5",
+      "published": "2026-10-26T03:40:14+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "ASX 200 Claws Back Early Losses as Energy Stocks Rally on US$115 Oil and Rate Hike Fears Weigh on Banks - International Business Times Australia",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN0tMTjEzWENZV2Y3cGJ0d1JENXRBNjFoYkxoUUd5dnh2Ni12cW5NMUo0enRhd0pjVUNqVGVCZG1EaEVweDI2Z0pORVZUNXJ4YlA1NG5qVnRoa29rcEJrMHVocXkzRjc3NFZQbGZkYXdqSzJ4MER4WWJldjBwYVlFNFk5dWVwcC03eTlEWjRabTJjZw?oc=5",
+      "published": "2026-10-26T03:24:52+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "QUARTERLY ACTIVITIES REPORT FOR THE PERIOD ENDED 30 SEPTEMBER 2026 HIGHLIGHTS - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb1NzWWpDLUo2SmlfUk1XcHd4bzNybEttV3BhMlB0cHc0SS13T0Z1Y0VVdEU1SDIxMm03T3NpZFRpZS1IbDhHbWNORTdOMGpKeDY4UWRBa3ZtSjZkazl6cXI4M0NDNExvdk4tcjlKeHpRN3pWek1fT0tfWGI4RlpFN3prRnE1Q0hZYWRrT2VQMA?oc=5",
+      "published": "2026-10-26T03:22:04+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Quarterly Activities Report for the Period Ending 30 September 2026 - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOVFESzduZ0ppRUhCMTNIdmlNWUdSX01mOUdtMDhJckN1T044UFRVRjJXZER5blYyRXA1U0R4R0FKOEJxZTl4bHRTcU9TNzFjTVdIN3ZDZW1xd1FnZ0Jva0lBWEw0M01HV0hULTFILUxGeFY2SDZRZ1RDRUF6bjZIQkpMZ1ByVkdfRVdUaFREVQ?oc=5",
+      "published": "2026-10-26T03:15:32+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Real estate investor Avid steps in with $3.2b offer for Ingenia - AFR",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQU1HNldGZG1CY1h0blloemlPaHRiU1BkalFUaGhxNElYeTlhUTRoZzVmQkNpbjRvZU9yRXZJWFZoQ09IbVdIV2NwUk5CZkdSV0tRNEJRRDFXYm92M0Y0aHh0NjN1SkZ1OW5ObHpDTF95RWg3V2IzVUhvdjlsT1JZbm1xcXRYdUh0Yy1adnBrZEJQenNkcTg0SDBhSVowb28wMUZVc3JpUlJlZVFXLXZnSEVtZHlELW90ZGc?oc=5",
+      "published": "2026-10-26T03:10:00+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Starbucks crackdown leaves China’s young jobless with nowhere to hide - AFR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWNURmd3NGFLRFB1Rk9nZUxTTkRPUXQwMDlUb0Y1TkRYY2hncEFBOG9TeDR2aTZSNXZ4Q3RwWk5yTzdaT3ZzcTF6Sks0Nm9BV3k1aXJ5NE8wUFREUS11Mklyd19rN2NSZzN0OEJaNUp3VFZjaGtlRGtnSk5DLXBsNWpPMmxIX1RXb2U0ZXB6VTBWUWY4cEliYzVrcVhSWnpNeUZ3QVByWVNEY2k2dHhxT01mMkdtZlk?oc=5",
+      "published": "2026-10-26T02:53:00+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "BlueScope Steel rides Trump tariff train to bumper US profits - AFR",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM2F4UUgwc0xXMWNTVk9HSkdkOHBWWHFhdXo4ekU1UkRjLU9yMlZuLWszOHB3RjNqUnBLWUxBMTIxWkFhMUNMV2lVZ2dEcVBYNC1KMkFMaUpyZEUtT2dOZlV5cE8ySC1odnBuSGlIOTJrdTlVM3JlWVpCZGVpeDBMU3VEUVNXT04zeklqRjZNb2lCanhNbXJ6WDdNUUNwU05Hc3NFNFhEOVNpTXlqSzZDY0hqNUtqc0RELWg2M1NR?oc=5",
+      "published": "2026-10-26T02:41:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Orion Equities to Put Voluntary ASX Delisting to Shareholder Vote at 27 November 2026 AGM, Citing Low Liquidity and $41,000 Annual Cost Savings - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNaU03LW1YaWRxa25ybzgxal91aDY1MExPTEhfS1o3Rl9qRF9LWEZoc2Y4NTgtZDRPcC1XQnZQX2VQZURHZmpab0poOG43XzJDLXE2UjViTlJkb3VINTlPYmZTam83RlppcTdiRkFhVVo4bDlMRjVkZXhuZVZYZ3ViYmdKd29UNE9icV90TG40QXFXbFZQSnRHOFc3bFFTX3lvRUcxSjZMbFIxbEdqNmhrSE1ocXlVTXVWYXVwRlAxRGNXY08tVjRNVUF3aWZZaGFoWjFNRnh2ZThEcTdpOFpLbkNiai12TGlVbVRabVdiME5VQlJDVzZQZVRSeXFsOUhrWExHeXh2ZFFQcmVCdm5Z?oc=5",
+      "published": "2026-10-26T02:28:42+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Pratt empire doubles payday to almost $120m for owners and executives - AFR",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOFZ1cy1TQ2pzVHZiMEFtX0hLdWxUeWxRZVh3WkcxLWc1dEMzQ1V6TUw2R3R2dUFMRDVDTGpKOS15UmxoWC1iUEsxMEV4dVVqWW9OLVR1UEoyc1pESEdhVHAzY01xZHloQ2dJZ2VOMzBNVGU5aVEyOG5NUXB2bHdZQ2JHYk9JR2hhUHJpZE1WV2RVcFlMd2tUeklfT3lzaldYaGFPRU9jcG9DQ0hKUW10TTIyY3VhRmZRTWVDMWJR?oc=5",
+      "published": "2026-10-26T02:25:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Dotz Nano (ASX:DTZ) Shares Extend Gains: What's Happening? - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDhnWkxfUEV2TFBrckFxeTQwa0JQUmNFd21pUW43dUt1aUlZRmdKQTJySEdfS2VxM2V6SC1YWWRSTFdkNy00d19IdWtMWDRUQnlacG9NS1ZkbEFXbC00TTlBVGNSWFk2MW56eDVMblN1elVyZUVfYXBEX3ZSZDBxcG5TRzFpRGZnaTM5dDZYdjRxcXpObGc?oc=5",
+      "published": "2026-10-26T02:24:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Janus Electric (ASX:JNS) Shares Surge: What's Going On? - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTEt1N0UwLVJJS3A2VjdPb2dUeWw0cGE1SDVLa2swcjEtTnJPSGdLWUhNRFZGUEs1OWdDajlBXzh1RUxseXpwVjE0TkxKamV4bWxYTG5iUkZIbFBWUkhTcVA0dzhUbERHMzZSSUw2dzB2MEl1V0hnZXRuM0pwOXNhWVBnRmQtMHdkZFRwMkZOZVFTY28?oc=5",
+      "published": "2026-10-26T02:24:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "AML3D (ASX:AL3) Share Price in Focus After Today's Rise - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNTZPOVBDLTZXeEctOUpuZjlWWWd6VFVwNUpfaGRsZjROUzR2TmRENUQ0U2F1My1od2FzRFhmX2N6RGQtOWdzbHIwR3ZHUXpyM3lDLTNTd1VKR2VhaFFVcWtZUXFSMC1sdlZCT0dtNGV6dmlfLThRdEtGTGRmRzJiUG9MdGdIcnhwbFNqa0R1VHlxaHAxSnc?oc=5",
+      "published": "2026-10-26T02:24:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Why Are Ingenia Communities Group (ASX:INA) Shares Up Today? - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM19YeHlGTkF2WU5VQ2txZndVUEZySEVSREY3bHpnbHFYMHZ4LWo4c2JqcmdTc0dIdHVnMjBzTTNiWFVVSUgtQjBCQml1Q2Q3aVhveU9YUGF2VVM2d1F1U0RUS1JQSG9FQVBQVlhlN3RZaVR4U01zNjhrWGtBc1BST3hxeG1XandrMnNqMjVGVTFNVnpqc3dyXzlVVGk?oc=5",
+      "published": "2026-10-26T02:24:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Healthcare and Technology Innovators: Why Are Nyrada (ASX:NYR), AnteoTech (ASX:ADO) and ClearVue (ASX:CPV) Shares Up Today? - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWHZUZHBueUFkTDdEZnc1WVZkZmpzdkV1bkgySjlhb0V4ZDVOQmtLLXF0UkV0MmRXbng3RnhaM3hKT1NIMVQ4YUl6YzVEMDNmM0xUNzJoblplbTltbkxwZTRoMGVOR0Mxa1FnT0psWGRGOXBFV3oxUlNVczFxNkFzdTZHWkpsaU5XWDljWmpXTHEwTXUtck55c1Vad2JjNmhYVzZpMTJfX1VEUXNfYk9nZl9oRUZWXzhyMHFjWkFGZFZSbm4tMXFYeTVRM2JXRnFtLVJIWU1iaWdjaVA4WXB1OURqemhpSFBjUTdScQ?oc=5",
+      "published": "2026-10-26T02:24:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Aland Equity Group (ASX:AEG) Shares Gain: Key Details Explained - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU0d3a0ZHVWZMR0FLWDFlWEk1cDRocHROaWx2ZEVnZ3lMbzhzUVp5MlJDV0s4SGJjZjc4R0NzLW1tdGRkY0IyZnZBYkxyLUVNOWRiUEN2RkltQUhOU0NZRTJKRllFamMyZjl1ZVFieUdoTTNFZ0JWN25yTzNYbUdfMWpIUERiVVVfeEJHVWJCR29Ia3Jzcmxqd2hUUHJSZkxw?oc=5",
+      "published": "2026-10-26T02:24:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Defence and Advanced Manufacturing: What's Moving AML3D (ASX:AL3), Titomic (ASX:TTT) and Innovaero (ASX:INN)? - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdkFQdGlNUlVDdEVjdnFKaWU2cjhYWFFjN0FpTThjUFZtb0hGeUtuY1ExVEdGcnlrMFEybEc0a3ZTcmUzOHNnaGVEaE5tMmlZQXhfVG1Ta0hnaEd5cDZ2X2VYS3lTMWNNejFwZkRtOENZU1UtbDdSZnkxWG1zOW1lN0J1VEF5dk9pczVHVXBYQnNreXF3ejdnLW1NY0NfcWFKWW9jMlc2NnBEUFhlTkFDQnpCWXJHNF9fZjQzMFpWOTRuODZDSXJya1BicmZlWjN4RVE?oc=5",
+      "published": "2026-10-26T02:24:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Argosy Minerals (ASX:AGY) Shares Lift: What's Going On? - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcmtFcFlOUnluaTBMZkFTZmZhT2NncmIwZzFoWnk5MVlXNVdndGUwU0NVc1lNRHJ5VnFVQzN0TDVFekpNX0NDbWFOcHdOTWRfWGdzeDZTSDJEWUVieG9TMFpHY2xycGVpYUtSVGNHVDlFdnBYdnhVbWxQU0RZbjdHZkRWaDEwa3hFMW9GdQ?oc=5",
+      "published": "2026-10-26T02:24:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "What's Driving Osmond Resources (ASX:OSM) Shares Higher Today? - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZWN4czl6OXFJTHBsckVvWXNEcFNiSzIxRU5nb0VwMGdfV01Pdm9lOGhBam55VHo5bjgzSTJobThXdWhHOG9TNnV6MUpUb1l5XzQ5UTAwcXM2MkY0d2o0WFhjYzcwQ2ZwZ2R6V3BXQUI0QmdhMEZUSmdYUnJDT2RkLTBnYngxU1dtWkdFTkl5WERRSkhPWWo4?oc=5",
+      "published": "2026-10-26T02:24:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "ClearVue Technologies (ASX:CPV) Stock Lifts: Here's What Investors Need to Know - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUk0waVRMRjZBdW1keVlRVGRISk05RnZ4VkFtVl9qQkYwbVVqbV94Z19ONUpDTFIySWlCa09FbEU3QW9BNGJjcGRoa3A0TUpubE5yTUVxTWNmcU45dm9BQ18wXzhacWNGT1F2b0V3b0FmUVN5V3VkZG9PdlNFT0NEck1HMXJTUTNYTEJOZjFWZlVuRXYxS3dRZ3k5WGNsUVpDMTlrTzRfUGxmWGZGRFV3amJtTQ?oc=5",
+      "published": "2026-10-26T02:24:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "What's Behind Today's Gain in Brazilian Rare Earths (ASX:BRE) Shares? - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHVGcnRnWENEY09GTzU5VUNnNkZLYzI4LTlETEpjcE52WTNfdllROS1tMTZhZ3hZRjVGbGxyNVV4ZWxId1ozTElLcFhuYldXZWt2OHJONHprSFlHS05LVnNPRGd4akpZbnhrYnpacWNMajVLdVFLTXBtWlUxN1ZzalV4TDAwNzlPSHpJS3FFTHlLX0VjeEZFZ2RxczVkcVE?oc=5",
+      "published": "2026-10-26T02:24:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "3 ASX Financial and Property Funds Stocks Gain: Zip Co (ASX:ZIP), ARC Funds (ASX:ARC) and Aland Equity Group (ASX:AEG) - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaEdveWo2SUhhdEVXQTdzbm1OXzktZG9CNW9pQzB3Q21jWEozVDdCeFZCcUJUUFNEWnVTQ2NVUUlZLTRNWW1vVjdOYnZJM2hqU1hGVUdnRS1EMG5zSGNiNGtTcnZCTTA3UWtZQTc0b3YyTGFHVUpaTE1UajlsZHYzLTZjWmtzUzZvT1RvY0ZnWlRnVE5oNFhuNnlYdnFOUzNpbjB1YS1EcG44TVRlM19Vd2JsQTlibGdKUktwV1hkWk1hbVA4RWU5blBoeHNLdExQNDQzNlFlMnVBSGVwR0E?oc=5",
+      "published": "2026-10-26T02:24:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Critical Minerals in Focus: Why Are Osmond Resources (ASX:OSM), Atlantic Lithium (ASX:A11) and Argosy Minerals (ASX:AGY) Gaining Today? - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVTJBM0RTQ0JTMVROUzh6QmVCR25iNTBYOS0ycVozTWpmcjVGeGxSZjB6RUY5N3IyaDZCb3FvSVUyYWdscEVnb0lpQ1k1UUFlY21JWnc5Z0FmU0hCWHFfZzNTTWlteE9GLUEydmVzODl0N3VSMTlZM0tmS1VSN2wwVUJHSS1vV0NCMERhdk0ycjhheFdwcjhtM01RZDBOM1ZMbHJFZG9qMlczWlNzeGppV0FBcmp6SjRaWWZoano3VmdZMG5KQ08wakxPUGN3eXhUWWZxTEI2NV84anRjSEhKR1lScUZBSTZSVzFDb0RzMA?oc=5",
+      "published": "2026-10-26T02:24:00+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "3 ASX Stocks That Rose 10% Today: Diablo Resources (ASX:DBO), Dotz Nano (ASX:DTZ) and Sheffield Resources (ASX:SFX) - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTzdaVTdaUmtJMEhmMUFmUDUzTUdpbmNkOXFjakNCSkd3bm1lXzZpdU9ZNDR0bHVJN25VSkdDMnJWTTNiOUZ4UEl1ZzJaY0JfeEZzNXIxXzF0bVJXMWFWc2M3WmsxMzIxVXM4Z0ppY1JXcTNxT1dzb05TajgtVmlVMFZVLS1DMXhuT3RPUzZwSlNzU2Rya2NDd3ZpRXcxSVpoQXY2U1MwUkx5NmFhTTRPSTluY1BDUmFXUjk5aDdpNzJkU2ZUUDZhWVdvdnRGRi0tRlVROWRadERHUHhW?oc=5",
+      "published": "2026-10-26T02:24:00+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "ASX Penny Stocks Spotlight Harvey Norman Holdings And Two Others - Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR0ItRGdlMlpIc2VDVHVyUlhvZHRPWGRRcmU0MWZVc2tOM0lVVkt6SWRvTlVWODlYUWppeDRJUzR2TkswYm1yWEQ1YUw0OTlrQ0lMWVpuSWdsT0hwN296bVlOaGMyNGdobmttdlFKLXpKLWdJYllpVFdJV0tnV0k1MUNHRFZnbXBNTmFvcmxITXl0NEF5UzFuZFdUcVRCVVFJRWlRZ3d6Y0ZCVDIwZlFhV2R6RVRCRFBVSlJ6Rks0VVpSazhqZ2NnR0pTZUNiSkNsTjhyNE84MndiNWNxX0hxaFZSVjHSAeoBQVVfeXFMTkxzOGZDVjNJRjlzYkJ4WDA2YmdsMm0waXRKLWtZNGJKTXltUWdHamZqbGNuU3BJMVVCM0kxbEZqMzlXQWpsWVR0QTVaZDQ1a0tIMDBCS2VFLVNzUG9UcGk2aTg1TmFmbGpBU2xYQ0JWNE9vY1p0dWYwN3dyWURmVnNJT0RBMHJxZXFDeFV6X21LTzBqd1haWmNPcFFJVDhHQ0lOWWlBa3REYTFGMUJxZXBHRFBtZG9NUG1sTmVhcnBuYkE0RUNBdU10YmpPamJOSUNpU0xMUVhDR3ZVeVBjdFdaRjJYRG45OTh3?oc=5",
+      "published": "2026-10-26T02:20:47+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "CZR Resources Takeover Bid for Zuleika Gold Jeopardised by Failed Shareholder Approval - Sharecafe",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObU5HVTcwUWR5cVA1RzVfSEdEYzJoOWhDMmc4N2ZOeXRoZDdLSFFKMW1UWEh4N2N0UG80UjBqQXFMLWRPLUU1dDI4cnpMVm5uaGJNdWFnRHJheFJoczFwN3MwRWZFZFJDSmJBTzE3YmNMcGFyNjNEZEMtbFRLcE8ydEJ1aXlPYmpVMkkyMnFQZV9iSE9TUEkzYlNXNDQ0X1AtT3JYWjBUNjFEd3hmZDRvVlIyLVRQcE93OHZ5bElXU3pHdEY0MVE?oc=5",
+      "published": "2026-10-26T02:15:01+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Firmus After the Float: US$2B Backers, 7.2% Nvidia [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFByUkc4bnZjMVVwa1NPaHRsTzJmVTk2SFJZdjBHVHBwMXZBTW9Qa0lsZ2J0cGZrZFlNR2w0ZHFkZGlHWFJrdEplWnZnRUViYmhKN3BpQmphQnprTHhNZzdkcVpIUmlLZmJBUl9uN0RaSWxqZk1kQ2U3V0h4N0RwS2NwMjg?oc=5",
+      "published": "2026-10-26T01:58:33+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "26 October 2026 Chair’s Address to Annual General Meeting The following is a transcript of the address by the Executive Chair - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVFNNzBjSmdFdUI1VWZpdURfcUZYd0NuX2psc25HWlZ5bE1McWFYd3UtX202TzR6RVJyUmxhanNGclZzS2U5MGVySjNLZEtIb3MxLUFQMGJ1SEp0eWFlRTdoLU1OYXcyTlptYWwwLTFsRU81bGtpYUZxdnhia0JubVdiQk9oZDZVQ0dTc3pmOA?oc=5",
+      "published": "2026-10-26T01:58:31+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Why Is FBR (ASX:FBR) Trading Higher Today? - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnZmejJTaUF5Zi05RDVQQTRjRGZub1p4OU1JbmhreWhRSHItS3hrLU5zV21VY3dHcGc0azlQLXI3YVM5d19VZTNGYURDSHg3aHJfMk56TlFRMGZyalNabHpNYzkzQXgtaWdRX3JSTjk5eXowUkpSNURsS0VNR3ItX095VQ?oc=5",
+      "published": "2026-10-26T01:56:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Xpon Technologies Group (ASX:XPN) Stock Jumps: What Investors Need to Know - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzZSVml2dEVRaGJlUVBzVEREU1hqX2NXSl8zbi1iVUY1ZUtWVWFwZFhYQVRMS0JSVjEwYkRaVkpzMENRNkIyeUllX1cxRjVYTE9ZeTNyN3N6bW5teGsyMHR1S3RTWE9JR2JIajNhUWw0NkxHcUc1MlZYVHA4WkI3MDZjd3VDa1hsU044YTd6ekV4LTY4d1UzWC1MVFZRVG9DSzJNTHE3UXZDY1lHVEE?oc=5",
+      "published": "2026-10-26T01:56:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "What's Behind Today's Rally in Lotus Resources (ASX:LOT) Shares? - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXV5OVVtZXFuQUl0OV9fbDJlQkE5OU12UXhjZzlNSDQ0dGpJM19fZlVpV19SU3RIOHJ3TXU4WVRuR25zWTg3UnZ3LUphclFkckRCVFhZcllSbEZZQzF0QmhGTDlTb2MyNnF5em14ZlV1ZlBHT0YzZnlHUHp0WUFGTkxoUjBUVTNVNm84LWVNdC1fU1c3ZFZqYw?oc=5",
+      "published": "2026-10-26T01:56:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Why Did Metallium (ASX:MTM) Stock Rally on the ASX Today? - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUjJyT3FvZHVlRzBPYzFXWmVWTGZoU21wWXZIODNzTS1KNW01NWpMUEhjanFkWWI0N2JjcGRGcFRFcVlYSGJ3TjY5bUpYRnR1WW5UOXlOVnYwaC1jYkszZFpiTFI5dS1ZRkdzQzNVU0VNd1ZaeGlCZjhzTVpXYnFuR0JYWEVydnJYeFBqbVcxTWFIdw?oc=5",
+      "published": "2026-10-26T01:56:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Tamboran Resources (ASX:TBN) Shares Rise on the ASX: What's Driving the Move? - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMndTWmFiM245UWZiNk9pREVhemlTc2F5b2FXVmdXSzQteW94emIwelVnWXN0dEdIV1g3M0gyWGZySEpjTE94Rmw2amQ0LUVSdnlTQ3I2QW1MVFg1WGVGWkV5a1lpSHpMc3E0NVlKSE9UQm5ObHZMV19hazJTVHRVenZmUE5uUGxvdTd3eXFTQ3pVbjJ6Vl9WSkxBWGt2OFZOVnEzT1RqRVNOZw?oc=5",
+      "published": "2026-10-26T01:56:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Horseshoe Metals (ASX:HOR) Shares Take a Turn Higher: What Happened? - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3Zwc0ZhMmxQNE0zYmNLaUVpbWVMbEhkM1NOUE02VkVHRFc4T1B1SjJveU1PSHdaTzdRUFlSRkFwMWpYN0lsR0tZZnVsSG41Z0tMNjlPVHI0VWE3TXJTaGpocnRYR0wzcnBIUmF2UTZMOUhJT2FTQWhna1F5Qkxqdm5CcllOcExpcDEtQVdZdDk5bmd6QkVsd0w5ekJnQ1U?oc=5",
+      "published": "2026-10-26T01:56:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Why Has Victory Metals (ASX:VTM) Stock Surged on the ASX Today? - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSlFiWHNyTk9rcXR2U2hfcUZ4NGxGdG82NEQwSkpnRlZSX0V1Y0tiRnc3LXZoSHM1RG4xREgyVjM2M0hYMERXRVJZY3IzaC1hNkZxaU1Nb0pEekJEQk8xZnBKTWpGd2llOXUzOE9MUXBxdmVVUWZwanhvVFBJOFkzUHczSENHS3NJbHViWDJVX3dOQ2NQRm0xcVl3?oc=5",
+      "published": "2026-10-26T01:56:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Stelar Metals Limited (ASX:SLB) Annual Report 2026: Advances Hill of Leaders Tungsten Exploration - ABN Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbC1XNHc2X1RrQzIxRTBQY1RoMmJxckpjWFFUN05VdC1oTzRSYzZRSEdkNFZRcmtIalFLV2RuX0RjZGthUTdYYk5qOXNvMFJ2Um1oVmE1cEFyUHQzMVAzanF6dFlFc1JjTmJMczNHZTJ2MXlkSTQ5RTFfUUlrd01Kc19NR2hnNWNDODJRQl9kS0R3TFVnYkVaTVdQSUtyU1dzNUVmR0J5c3dTSEhiX0N4c1NoR3NfMklGTjRWTlZ2X25sM0FsUXF1Z1V6WnowNDM5SkREd0dvSk1ZYW1Z?oc=5",
+      "published": "2026-10-26T01:45:38+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Gold rush pushes ABC Bullion revenue to $38b, delivering bumper profit - AFR",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU2FxaEptZ3VpRUgtY3B2NElyZ21XZ2E1VTFwRnpQSUdhNjBXcnVLU2c1WlJGSGRNdXRQQWthU2xaM1hCMDZ2cFlWamM5Zk1BNnFXSnBNTEZhQ0RTc216OGJPVTh2WHlZT0tkSDluVTB1NlEwbV95cTZ5cVhvOHo2UDl3YWRoeHhxcnl6R1E2WEhpSm9Cc0NZUUpZMFFVXzFJSUtlMlVJTXNiX3M3MkhybmEya2l1TmgwWm9YM1Z1MUNYU3c?oc=5",
+      "published": "2026-10-26T01:33:00+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "Are Vanguard's Australian Shares ETF (ASX:VAS) Payouts Steady? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcFA2VXcyWTMwblpma1J1eENjSFJHZXdKRlV2YkhBTG1HN1ozdDRtVGFQVXB3Mjh0WHBKOFkzem9tZ0l2N3l0MVI4RVZVZVdMZy1xOElFODRReU5DWG1FZndodkhuSWtwRERjdFoweG5BM3dJN3RBdmdCZUcxUHU5enV6REVWLWVsdktfYURFaUg2M3ZRcm5kNHR3Rmk?oc=5",
+      "published": "2026-10-26T01:20:00+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "Can Betashares' Low-Fee Australian ETF (ASX:A200) Keep Leading? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ3RCaWxYemhwajRueThqdHM0NElSTWlPTTFCblFuQXdNVmhEdGtEMXFXYVNrajhaWmZtSWlfQnZlZmZGWl9ZNnV1WHBSYTZRTG15cUZnYUIwQ2ZKSXcwRVl1dkljVFhLZXFtS2phRUxEWVdTMlE5aFZxb2dVaUhkNGU5MW5ReUFGUHNndFI0V3lFWVhSVnh4VXNSSENhQQ?oc=5",
+      "published": "2026-10-26T01:19:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Ion Video Ltd Initiates Trading Halt Ahead of Major Commercial Agreement Disclosure - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNczVocGh6bl9Xb3JEeTVIajBLQld3OEh6bnNtOVVGZHN6WUo2N3NxSEdBMlFHcU00ZE44MHZjU3JuM05HYTB4bzBBUk5XVUI4RGp5aDByYWdPVzd5MDRKUHlYMGFmWmFJckpFaHhEcW9pel9XQjdwT3BWUFU0Rnd1dU1PM18yS3RkRW10VU1uZXVTamkzTmtETlFMMWZTWVNaTTVxcjN3YU5ZZVdEeGhENUR3Mmo2anRjNmR4aWtoczMyTnFjTHZVNGV3?oc=5",
+      "published": "2026-10-26T01:18:45+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Why Did New Murchison Gold (ASX:NMG) Declare a Maiden Payout? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd1JtSmhTUEN2NHlQVmEwTkxLeFdvUURIdWRlQWJKdG5mc0xoZ01XaWNjdlNHbjYxaTd3eDRfdVhpSVp3WGFWSDdhZ3hHMWRHeGdoQjBfem1TbXFYSm5pNTFvblQ1RlBkazhGbUJTdnNMejRUOHBSMVBjVWFsdHNqOTZ2YjM5S2Fjb0h4QVVXVzRSOEV0QjUwZFd1OHVDcGdfTGtj?oc=5",
+      "published": "2026-10-26T01:17:00+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "NextDC’s wheelie bin revolt is a warning for Canberra - AFR",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEtrRWoyNlVxV0p3b01KVjh4ejdZN3hLT3Y5UWpndlF2U0psaGV5S0lQbUhOakRiLXJtXzFzeWppYUY0V29CNElUSnYtVGxZMzNQQ0MyWUVOazhGZ00zcjg5OXRrTE1pd0o5QnZ3bzh0NWNEcTRydV9pNW03R01KbWw2T1RWVHdTbEhRVnRaTXl3ZjVFN2poMmEzZGcwTjlkTGhxZUJ1VHkxZw?oc=5",
+      "published": "2026-10-26T01:15:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Australian Foundation Investment Company Executes On-Market Buy-Back of 245,000 Shares on October 23, 2026 - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNS1A4V00tTEkzdGlrdV9PLW85STVpaEQ2aGN2YjQ5SjlramtsamhQX0ZnZ0ZBSmRJOXU0U0QxcC12aFFlX3A4bkNYYzhPOVlZNlRtWTl6cEhBb2hSQTY2WGM3ZU8xQnY1cF9fcjVPa3hOVkVweXk0M1h0VjJlYUswLTNQQjlLb2VwM3pGMlRaeGRBbVQtMml4N1l0eHZpWnNHUmFTZHExbXhBRUFMb2xNZ1NiU0s2NG10NTB3VVppelMxOHVQTmdDQjZ5dWRybkxqMWR5VE52VmhMYkRSYmxDV1JIMjkyZw?oc=5",
+      "published": "2026-10-26T01:14:42+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Is Commonwealth Bank (ASX:CBA) Winning the Rotation Into Banks? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTRncGJKOU5ncExkN0NDMmVnOXZzNHRJN21jVjd0QThGaFZkUUtBUUtFbDc0Yzl5SFRhdU1uRllNa1F5R2dZeUVqcXV0NUNZMWFvVWY1MC1xNGlRcExDNVdNYkJVWEs4UTFoekExN0RUMUZZeUJqUl91Q3hLS21hcGRyajhfa0x3aXhONjhuTHFYZ1NEVlhOUHBSOXZJb1NETVczeFRR?oc=5",
+      "published": "2026-10-26T01:10:00+00:00"
     },
     {
       "source": "ASX",
@@ -138,58 +614,23 @@
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Topic | ATO | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PNVFoZzAzdTlyZzZVN1lQdFI5dk9DUmx5b2pzOGhOR1FQODVwQXlxLVdDSXNxTUl4OUZxYVFhY2JpLUUyVVhVVg?oc=5",
-      "published": "2026-10-26T01:02:01+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Topic | Barrenjoey Capital Partners | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUOWVkLUF2WGNVM2pmNEZ1WmhMc2doVGRNQWktWFYxZXd5NGMteUJveGJ3Yk1zRmNJMVFJcml2LWc0eHk1dHB5N2lmQWdoR2ZKVkI2WVZDUUJWeS1ITDMwb0l1cXlFVWhvUFE?oc=5",
-      "published": "2026-10-26T01:01:59+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Topic | Cryptocurrencies | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xS1hmYjQwblljSi1XcG5fTHhjbzYwY2tJZFZTWFEtREN2aUNrR0dQQU1hbk5EWGVLTXlkck9ta1I1M3JRR1ZuNVc2RTF1X2NtVmNVN3h4TmRJUQ?oc=5",
-      "published": "2026-10-26T01:01:59+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Corporate Travel’s battered investors rewarded with 60pc bounce - AFR",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNamZ5MUo1SXNlQTNGejQ5cXRvTFVPUkRtb1JQNjNoTWxMU2RUY0tNaV8tdFNZWmpLenZsanRQU2xfcWxFSTZ3d04tMmhQdEM1Tk9KTlNSbGJJbU9fdVdIb25lQWtOY2htS0JvRnNuN1ZNRl9scDJlWFZyN0FOOHZ3UjNoVlU2a3NOZmhsaGxCb3VjYU9KRkRaMHBfX1VIMmVoOUdaQTluU0lSakJaaEZudm43UEo1SUFRVmM1YXgzaw?oc=5",
-      "published": "2026-10-26T01:00:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Topic | Workplace disputes | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIaElSMHp3T2tMT0NSWU13QmZBMmljZkJzVVZRbDd4NmkzaFVsMFFlWDA4R0NwTkdUMGhiWFRlR0VKajliSXpVV0hKWG9rbDU1enY1cDZmZTBaVi1KeHc?oc=5",
-      "published": "2026-10-26T00:59:59+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Topic | Sharemarket | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jcmxHTnJDT2xISHBaTXhtS2UyU3FBYmE5UTVPVkVpRHgySUo1VVliSGFkdVROMlg5NlRqTjVyYkJNVXRwS3NMZUhiSWU5c05qT1FJ?oc=5",
-      "published": "2026-10-26T00:59:58+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
       "title": "NextDC extends losses; Hanson’s pivot from protest to policy; Bonds and Buffett’s Berkshire flash warnings - AFR",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSXpQamRlMTFqWmZPakRoVVgyeTZwLUROdEQ3Q0NNZnROamRQSGdOelFLLTBEellGZDN6aUM3bmh3OTNuV2FTMlFGT3hQcmlvcXhuLXJRZHFSTTZBMlUxcktvUGdfU0MxYWJINVdzWDRzUGYybEhYWmhxQ0VDR3o1M2tLQ18yT051aFdhaDZ3MnlEdXdqemREZnkxZXdkR3Q1eDB1UW5aRHJwbnNjcmxhcDJxR0hmSlZKUENLd3RDalVrTFJvbzdvODRsdkJnOUNjWnVqRDJiMXlLMlcybm1OMlJXUHVhS3NDTDFWM09STlhCNDJVZHc?oc=5",
       "published": "2026-10-26T00:58:00+00:00"
     },
     {
-      "source": "ASX",
+      "source": "AFR",
       "via": "Google News index",
-      "title": "2 brokers' price targets on Zip shares might surprise you - The Motley Fool Australia",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNFN6Z1VyZTE3YXBIcGVmSnB4Z1BmbFhURlRza1ZMdEJMWHZCbnpOWGE1RUFaZ3R0aF9CUVBEYmlRLTc5SkcwWHdnUlRBdVF3REthaHFrNzBFVDdOMmZFOWU4TDRDa2RJdlFXNUY3Q2VCVFRSLVQwOGotajRZM0loZ0xyLXVJRnhPbjBoYlhJMkhYc1pNNjBn?oc=5",
-      "published": "2026-10-26T00:57:53+00:00"
+      "title": "ASX Announcement Monash IVF Group Limited (ASX:MVF) Director resignation and withdrawal of AGM resolution 3c - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2gwdWRmYnB0QlhKbm14cjIzUW1ZZUJEV1ltZlc0VWxER3hjVUJCeFRfN1lOWXE1MExmZEpxY0ZzUlJfcmxPVXF5d2N5eG5OYmF4bTlkSTFTU0c5NG5rSUs4X3dobWJGS2p1MFpKM2xfajVsNURGUHA4ejk4Rm5DOS1DZFpOUmZaeGNac01pTQ?oc=5",
+      "published": "2026-10-26T00:49:32+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "NEW ISSUE ANNOUNCEMENTS - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnVBSDhkZGFjUGh6NFN1SEcxb0V1S252cXRLVzNqTmJmY1JCMFhQWV91WU9FT3FxV2hubVNyYk4zNGhuYWZtb0J1dVg5SUwxOGliOHhPUDhBUGhSWUFYVnVuYW9ENWQ3WEUxRllzNUJaSkNON3hydVRpUW9DMGw0OWkyMG9tcDcwcDdmMHBjUQ?oc=5",
+      "published": "2026-10-26T00:49:30+00:00"
     },
     {
       "source": "News",
@@ -202,22 +643,29 @@
       "source": "News",
       "via": "Google News index",
       "title": "3 Australian Insider Owned Growth Stocks To Own In October 2026 - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUHRxNVExdFpJNUVHa0IzOW03UE9KMEdsQTFHaTVsNEg4QXZaaHdmbHo4cERyc0tkMURsOUZtOV9aa3JhNWlBb2E0ZFZlNExpeERKYUQtQklTd3R1VE9kZGdCV0tDQVF4dlNvQ2lqUG9JUXdxM2hoc1kzeHlVQUhTcGs5MWtLSnhMX3R4a0lHQ3FXVGpadVhoRXZ1NVBraWdxZWpDcG1CdFVIN29Wd19uMFZCWXpOWlJTWnlpNUpfcEhQQkluakY2bDRtam5ybFMzSm1nNWhkWdIB3AFBVV95cUxPaXZUU3FMWU0zcFlsWElLTnY4UUQwWkpSVXBXMm1UT3dFWU9kSnBMZEcxR1RvTUZNbjNTNGRqc2t5VV9xMTZSUGEwS2F4VnR0M2NiRTk3MDZITWduNUxzbWRMWk9zNFpHdHlUMDlCdklJaTMwd3V3b3dYV0ZqeUt1ZzJmRlZGNWM3YkpTRlhWSzlrU2xMVU91VkNXQTJ1Q3lnOTdJMFBzeFVuSDEzNHlUVDBvUnNoTUg3Zk9JempBZzk3T19Ia1A2ck94SEFhazBtLTRJbjlLYzFQaW5F?oc=5",
-      "published": "2026-10-26T00:48:51+00:00"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaXZUU3FMWU0zcFlsWElLTnY4UUQwWkpSVXBXMm1UT3dFWU9kSnBMZEcxR1RvTUZNbjNTNGRqc2t5VV9xMTZSUGEwS2F4VnR0M2NiRTk3MDZITWduNUxzbWRMWk9zNFpHdHlUMDlCdklJaTMwd3V3b3dYV0ZqeUt1ZzJmRlZGNWM3YkpTRlhWSzlrU2xMVU91VkNXQTJ1Q3lnOTdJMFBzeFVuSDEzNHlUVDBvUnNoTUg3Zk9JempBZzk3T19Ia1A2ck94SEFhazBtLTRJbjlLYzFQaW5F0gHcAUFVX3lxTE9pdlRTcUxZTTNwWWxYSUtOdjhRRDBaSlJVcFcybVRPd0VZT2RKcExkRzFHVG9NRk1uM1M0ZGpza3lVX3ExNlJQYTBLYXhWdHQzY2JFOTcwNkhNZ241THNtZExaT3M0Wkd0eVQwOUJ2SUlpMzB3dXdvd1hXRmp5S3VnMmZGVkY1YzdiSlNGWFZLOWtTbExVT3VWQ1dBMnVDeWc5N0kwUHN4VW5IMTM0eVRUMG9Sc2hNSDdmT0l6akFnOTdPX0hrUDZyT3hIQWFrMG0tNEluOUtjMVBpbkU?oc=5",
+      "published": "2026-10-26T00:48:52+00:00"
     },
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "BlueScope Steel rides Trump tariff train to bumper US profits - AFR",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM2F4UUgwc0xXMWNTVk9HSkdkOHBWWHFhdXo4ekU1UkRjLU9yMlZuLWszOHB3RjNqUnBLWUxBMTIxWkFhMUNMV2lVZ2dEcVBYNC1KMkFMaUpyZEUtT2dOZlV5cE8ySC1odnBuSGlIOTJrdTlVM3JlWVpCZGVpeDBMU3VEUVNXT04zeklqRjZNb2lCanhNbXJ6WDdNUUNwU05Hc3NFNFhEOVNpTXlqSzZDY0hqNUtqc0RELWg2M1NR?oc=5",
-      "published": "2026-10-26T00:37:00+00:00"
+      "title": "ASX ANNOUNCEMENT - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWi1pR1lYV3NxcHhfTzM4UWZFQWV4eTdoOUM5UmQzbHo5dGMxUFo3UWhJaENRYkpVRE4yQlIzOXRSWlBQSzVCMENjR0UxWG9Fb2FLdWdNUUxhdVJYUzlob1M5eld2QjBZUWdyb2lveEtXR3NVTENmZW5ZQnc0dHJ2UUY5aWRwWnQ0X2Jsbl9SNA?oc=5",
+      "published": "2026-10-26T00:46:55+00:00"
     },
     {
-      "source": "ASX",
+      "source": "AFR",
       "via": "Google News index",
-      "title": "Alara Resources Sets 24 November 2026 Annual General Meeting in West Perth - Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFVsaU9tVUJaQUFOUXZjcXNuNDZCUHlmWGZJb19KR0tuMmsxWWdMenIyUTR2OFVzZnlXaGp0NGhLZ3kxekdKNFJ0QV9UQWxyNE0tcXpYbzVvSnlmcS0zT3hGR044RlZRYm5vbUpiXzRYZDNvMmtTS3RHRHNPdldnMzhwYjFadTRfMG4zeHR2c0ZZc09FdTBwMkdGUVgtRUtRY0tmQV9JZjBPMDMxdllDcGxYM2xod1U?oc=5",
-      "published": "2026-10-26T00:31:50+00:00"
+      "title": "ASX / MEDIA RELEASE - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLUVXR3UwdklscFI2eWcwdDlBRkRtbzdLNXJLcHl1S0cyTGNYREl3SGlqcWQ0X3NXVjBra01uNjRCSm5jcV9kWm9YR3NacEN2N1lWYVpNNTJIeURvN05UcXFQZU9wdnNaeFM4aF9GVTdsVnhvZ21MQWdtcl94ZjZVakdrYzlFUUZqMGFWYmZHcw?oc=5",
+      "published": "2026-10-26T00:46:18+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "ASX 100 Share Price: Top ASX 100 Companies & Stock List Overview - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ST2lhaEc2V09OOXpVMTdYVGJlVzhEZ0ZJd2MyZG1QZXgwcVNKNEl1MGQ3eU5CRTYtZ0hLZjZ2bTlJSzBfSGdjNVAzNWdEUQ?oc=5",
+      "published": "2026-10-26T00:26:19+00:00"
     },
     {
       "source": "News",
@@ -234,21 +682,7 @@
       "published": "2026-10-26T00:21:00+00:00"
     },
     {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "NAB News, Analysis, Announcements & Results | National Australia Bank Limited - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YZFBSaU40YVhORW9abmQwUGJ5TWk3elF6amY2b25oM3Y4VVZlclRxbjZlZ0R3QnVzV3dzYzRXRnExOUNQdUFZMVFERQ?oc=5",
-      "published": "2026-10-26T00:20:58+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Companies index - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jVVhGLVBTcEhkSUNRcHFhOVlJNzFuRTBCQTFTS01qb3FXc0UyTDU2dzRQV3psMDVtTU5KaFhod1c1cEZsLUlBWjliSQ?oc=5",
-      "published": "2026-10-26T00:20:52+00:00"
-    },
-    {
-      "source": "ASX",
+      "source": "News",
       "via": "Google News index",
       "title": "Why DroneShield (ASX:DRO) and Uranium Stocks Face Market Doubts - Kalkine Media",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY3ctZ01YQVhjLXp0VEMxbkx5ZmREbFp4aFY5eWJyUWlnSThKRVo4ZS0tenp2MkZvR1l1LVRHOE94MTFpcGE0ZXduUjZkek50bnU5UUswU0NvVVBDcmE0U2ZiQjRFdnF2dDB6ZUVUQ3FLdEc2NUFMTFFGcVdOUTYtVl9odmo4ZjIzSkgwb1JqckkxTzZhOGJnQVhlSjRJTTdHbDV6MW9tSWF5QQ?oc=5",
@@ -262,13 +696,6 @@
       "published": "2026-10-26T00:17:00+00:00"
     },
     {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Topic | Mergers & acquisitions | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NMVBhMHMxSUtGVFozN2FxU0NTeVJ1RjhyZ2FnZml2Z01lVW9ZdTBxS3c2R3FNLUhSN3lkaFQzaldSNWhLRW43WjlPVXM1cnJkOFBOMTQ0Wkl0dmZvNG5TbkRVaw?oc=5",
-      "published": "2026-10-26T00:15:47+00:00"
-    },
-    {
       "source": "News",
       "via": "Google News index",
       "title": "Oil Spike Spooks ASX as Bank of Queensland (ASX:BOQ) Shifts Gear - Kalkine Media",
@@ -276,60 +703,11 @@
       "published": "2026-10-26T00:13:00+00:00"
     },
     {
-      "source": "ASX",
+      "source": "News",
       "via": "Google News index",
       "title": "Tamboran Resources And 2 Other Australian Energy Stocks To Watch - Simply Wall Street",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUk1nSHNEbGItbngtZUw0eW9aMC00LXRISXRkWWxTTDFzejN6ajZNUDJJMzB1OFY3clVtemlWcXJ3UUxUWEk5aTBERENQNnNhVkFTbnZINUpYRC1kR1JBRWpWRDdNZV9ROHBvUEVBRU9ZZmlheUtld0Q5TXVGUXdfX3Q4aTFVeUphN1duTTFHWkZ5SkxDSExDMHlHUUVOZGFERmFTeFR1TkF5ZDRPQ25EMFRFbVdmc2hUZFFtNlVSMmJkNUloUXNCQ21JUkRMRXREeXI4WHdmVVp2d9IB2gFBVV95cUxQUk1nSHNEbGItbngtZUw0eW9aMC00LXRISXRkWWxTTDFzejN6ajZNUDJJMzB1OFY3clVtemlWcXJ3UUxUWEk5aTBERENQNnNhVkFTbnZINUpYRC1kR1JBRWpWRDdNZV9ROHBvUEVBRU9ZZmlheUtld0Q5TXVGUXdfX3Q4aTFVeUphN1duTTFHWkZ5SkxDSExDMHlHUUVOZGFERmFTeFR1TkF5ZDRPQ25EMFRFbVdmc2hUZFFtNlVSMmJkNUloUXNCQ21JUkRMRXREeXI4WHdmVVp2dw?oc=5",
       "published": "2026-10-26T00:10:38+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Topic | Greensill Capital | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04dXFJRk1GSExtQW9iakR3VU9CRnA0cllaLUZEMFA3Vnp0RXJYRGUzVVFwSGd0UHZ2UmFmVkJDZXNrNUtQNXJtUlpsam9BRFNMX1NUWS1BN1dpdzZaRVE?oc=5",
-      "published": "2026-10-26T00:07:43+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "REG News, Analysis, Announcements & Results | Regis Healthcare Limited - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtOFdIUW5KdTZsemYwUFpaR2daUlpfN0NUZ21vSUxWa1o3SC1TWGN5V3V2dWMtRjBlRGwwTU9fWnh2NExhMVU2MGprQQ?oc=5",
-      "published": "2026-10-26T00:05:43+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "Drilling Confirms 500m Extension Of Gold Zone At Golden Gate North - resolutionminerals.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV00wN09HZGdsVjdtZDM3aEd0TngtTlJ1ZDlBX2wtSFA1dExhZmFJbHRPby11aVVUN1FSM2R4YnJQSEtBdVdHUldHNTFFS0VWQ3V6bWxSbEF6aXRhUlVfVm93V1RFeXpxQ01NRllRMExTNXBXSkZMZV81ZUtWSlV4VFBUeXl6Z0lOa0pPR2VSQXBQWkJIZU5ZVE1xOXpSbXNQS01ndENLY05ic1NJbWI5SGZMT0Y?oc=5",
-      "published": "2026-10-26T00:04:33+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Company | GS | Goldman Sachs News, Analysis, Announcements and Results | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43emJjU2hxTkVNR0V1cGpJbThocGVGbzhYcDE5NTJGTmljby1RY3V2Zm1Kbjh3QmpZYkxWcUl1UkpJbTRSemFUX1NoMlVqUDZiNXBDZ3JzTERrclBLbEk4bkNrdldUMlU5V2tFUWVR?oc=5",
-      "published": "2026-10-26T00:02:20+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Topic | Hotels | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UMlg5WEE5dE9RRVBidUkzQTJZZUI2OFktdWNvM21QV1dkQnZ0MnJlQk5Pc3ZXS1hGRGQ5aWR5a3AwWTk3cHMySmQ4bWo?oc=5",
-      "published": "2026-10-26T00:02:13+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Topic | Investment banking | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NbUlzLVpfd1hxX1plUWxnc2x2QnpzSk1lcl9HZUR5ajRqQnYzTFN3a3VXOVFyQ1NQWm14VEZIaTJoLTRKN1lTYUV0aC02M0R6VXBhc2ZhcGM2UWNP?oc=5",
-      "published": "2026-10-26T00:01:44+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "EUR News, Analysis, Announcements & Results | European Lithium Limited - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmYWc2OGJweENCR2dFZlZvZnVibWZ5UWZYTHZJODRjNFdHU1NNSEl4LWM0Rm81Z3Jid2FRMEx5QnhGTEhBTjZfaFI0WQ?oc=5",
-      "published": "2026-10-26T00:01:43+00:00"
     },
     {
       "source": "ASX",
@@ -346,11 +724,11 @@
       "published": "2026-10-25T23:59:00+00:00"
     },
     {
-      "source": "ASX",
+      "source": "AFR",
       "via": "Google News index",
-      "title": "Tanami Gold Sets 30 November 2026 AGM Date at South Perth Venue - Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1lfVWd0REpiRVlnY1R4UmhmVmVQX0N2SmFOVUd4S3phVy1VaXM2RWFFWVJuZ0t4NlRQcG0zQ29fS2tHb3lRRnFpMzhFYXRBdmJlejVleEFVS2RsTlhqZUIwS3ZxQUZsU3VlXzF2aEdsdnF6Sks2VkdycjNFaFNsUGdLcFBvN19yRWtJdDVpdC1lbFhKNnlRQ0pxVnF1YjI2MG95TUU4bnI?oc=5",
-      "published": "2026-10-25T23:58:01+00:00"
+      "title": "ASX Cover letter - Annual Report - Annual General Meeting (00254866V1) - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0xKRkkxNnlQYXZrZHhRUVVhdU55dVBDVmYxUjRzWEdvVUI5Z1laY0U2MGZ1VW0wNkhrNjZVcmh4c1lEUk9DRFhJalh4NURqTDI1VEtTRjd4NG1jVEY4Y0JXM3lMVERVU2R1MndHYmJFdkN0Q2t5a0hYWWE2R2ZxYktfU1RuYzBQOEotVUZNMA?oc=5",
+      "published": "2026-10-25T23:53:17+00:00"
     },
     {
       "source": "AFR",
@@ -374,18 +752,11 @@
       "published": "2026-10-25T23:44:59+00:00"
     },
     {
-      "source": "ASX",
+      "source": "News",
       "via": "Google News index",
-      "title": "Challenger earnings: Board responds to indicative offer - The Motley Fool Australia",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdGhkcm5HaFZZLTdPajdfeDVyUmZ4RHZmbzRPSllmYzlNaW01TXYzS0paTXRRU3c5Q1JoQVdzTmdpWHFocW55eTB4eFprWlFEZVpKeU5zSnVXSy0tcDc0R0FVVmFzV194c1dJdGNoZlpqNW10TnJ0MzNraXY4MGRreVVYZF9ibUlMU2l2LUxQUkE2LUdT?oc=5",
-      "published": "2026-10-25T23:44:11+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "Morning Wrap: ASX 200 to Dip as Oil Soars; NextDC (ASX:NXT) Shakes Up Board - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOak41THpjSXlmLTR0dlhrS2xfZFYwM0xZbmNqODhFdXkyTEVCZENEOWQ5U0xhNkxQd0FNV09NTWVvSUJCNkFVaWt3SU0xa3QtT1lBSk1EeTVHbm5fcjVGQkRuTExNVEg2Q0hxRFlPbFphNXNtMDBlVVVZVGJSYUFZTlpFWDViWWExVVB5VmxjQThGU3pJMnk4QjMzYWMzc3JISm9MQmNoa1FOaWJWRVJwYU1xTXlqZzg?oc=5",
-      "published": "2026-10-25T23:43:00+00:00"
+      "title": "ASX 20: Top 20 ASX Listed Companies | ASX Top 20 Stocks to Watch Today - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHRzlZV1laR2JBT05NWUU2eEtpSVhsLWZvVzJ5aFZzcTliWnE5bVg1X2hfaExLaTJZbHNHWFFlZDlVNWpvaUhaT0xXY04?oc=5",
+      "published": "2026-10-25T23:40:30+00:00"
     },
     {
       "source": "Reddit",
@@ -395,31 +766,24 @@
       "published": "2026-10-25T23:30:43+00:00"
     },
     {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "ASX Announcement 2026 ANNUAL GENERAL MEETING ADDRESSES - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRlNGVzRWVndOQjk3V21xbjZMOHpldnJWZ3RBSHVDRmZfbnlIb1ZjUV9FTmdvRlBlOFFTMFdTd1dDNFNzUkpkaEFCRkhINHdpT3ZTdnJWRTZxZ1lRTTBXUHhMMENNeUx1NnVaLU85SHNDaWRaSV9OZV85Y0hRX1N0OFRGek9vYVJ5eHpNRWV3RQ?oc=5",
+      "published": "2026-10-25T23:25:37+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Net Tangible Asset (NTA, after fees and expenses) - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNV9lc2g5b00xWFdOXzV6SUtpQjhkSV9HeEtjb2NLMmlrWVBuOVlmYmpGNXdGcnpGTGlualpydE9ZaWRJenRNajJCRjVsNTkxNGEyN1FvVUNDcjUwem5LYkQtLU1EYzhwd3JYN0duUXRVMjFJalZtdVpRN3V2ZkUzT0p3eU9lNmoyQlNkRUtEQQ?oc=5",
+      "published": "2026-10-25T23:16:03+00:00"
+    },
+    {
       "source": "ASX",
       "via": "Google News index",
       "title": "Orion Equities Seeks Shareholder Approval for Voluntary ASX Delisting at 27 November 2026 AGM - Kalkine",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRk5vakN6enBJSHVQcmxaUE13aGUwMDh4SFlJdXB3elIyOGRFMkF4VXNYOWRtSC1xVjZkRFF4NUNOVURJSWV6eWJoSFNOanhZbFROb1p3OEw2eUM1NUkwbnpSQ2NLb1BKYUR1aTBveE5wRlVqYWVxcWZETFdpWmhUeEFQaTMybXlNbmxPc1pGTGJPOVdjNDBEYXZ2ZnpNSUdpWU1WWUVqZjQ5NHBCb1hhOVNERWt3R3Jqb1FHR2dFcHRsWEZNWDVaSzZLR2VOTmI4?oc=5",
-      "published": "2026-10-25T23:15:04+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "Australian Mines Limited Lodges Appendix 4G Corporate Governance Key for FY2026 - Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd0RmS2lDRTVDNUVOQjh2RlM3TGZhRXN1dnVQaWNLQ0lHdGJRZUYwS29STGdvWVpFNk5UXzJPVWw2SUlDbzRnX21LYlBxX2F2cmwxZnExMWJ1UW9WRUI0eVFCYngwa1RKTDBXb2FoajFGa01DUllxNlZYQUpNX1JGTWVKU1pCVzRIX0txamwyMHZ1bFlVN2R5emhfR0tEcEJjdkRkTjFKYnU4dS1oczV1N3M5UXF5YWh0N2VKZlhn?oc=5",
-      "published": "2026-10-25T23:15:04+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "Centaurus Metals Halts Trading Pending Jaguar Nickel Sulphide Project Offtake and Funding Announcement - Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcGFudHhEWlNiRmpqVTBLeEJLMGZLekE2MzJ6VktvelUxUHZDWWpOT2ZRR3hpSzA0WHRQSXlUc2RnYkhOeE1qclo5WmprWHhlSUVHU1RmaDJoTFQyOVppRkNMd1kzbVlQQV9Ia0oxTTJvXzZlNEFadjZrZlpFUXhKcXlIN2tGSzAwY1RyRXVWMUg1ZHNmV3BFcXYtM0g1TnNBS0FhOEgtSzNlZkdNak1mTzQ5ZzN4MmFUcTYtX2hINHcwUlNUazJvamNldUN0Y2pqT0FpS2pBR0tOaF9y?oc=5",
-      "published": "2026-10-25T23:15:04+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "Orion Equities Calls 27 November 2026 AGM to Vote on ASX Delisting and Director Re-election - Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOGRpb1d6S0tHd2xaOGRmV29VcHFWSWZneThCT2hMZk1EcUx1N0FfZmxueVc1ZHEycHpDdS1nRVY1am40dkVGVnVGeHpRSGhhVXpXTlp2bzRNbVJvNXBLb1k4Q1dEdVNOU2Y5OTNwT21Yb1N6ZDlVVktaS1RjNkhLZWhTeWNUa1E4b2JySHNydkpCbXFIdVl4akVfZFRrVUJ5ZWhBNVl5VkwzQVJ6bkNuZlJxUkJRYXdPenJmOFNXekZDTVhmSk1vSGRDY29Xdw?oc=5",
       "published": "2026-10-25T23:15:04+00:00"
     },
     {
@@ -432,43 +796,8 @@
     {
       "source": "ASX",
       "via": "Google News index",
-      "title": "Ion Video Ltd Enters Trading Halt Pending Material Commercial Agreement Announcement - Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb1FHS1BreFo2aGhIU1J2YW9XZ3oxOFowekp5enZCWkxtTHdKTUVHNUFOVlVhOUljWVFoMm12QjBwT0lHbWR3VUNySUFSV19XZFlXTnpMWWRmZ25ieF94eFE4WjBRZlZJdmZhTXBlS0E1MHdhTlZQSW1UOElsOFVSLWkwSDUxYkZoZDdzOWtSWWJZNnRPb3M5ZURpM2dFdFQ2WG5jRTZvOVQwRV9ZNTRtRHd1NnNyS1Y2c25iUnhzM2RKUk1T?oc=5",
-      "published": "2026-10-25T23:15:04+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "RBR Group Enters Trading Halt Pending Mozambique Rovuma LNG Contract Announcement - Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWnBHN2UwSndIQVQ3Y3RldEktNjhQWERtdlFsVHNIdFFVdVI4N1lRNElfblZXLUJLVzgxY1NXWUk4a3JSR2U0WW5zakwwWUhEdFdFM2txU2xEV2s5X2Zyd1F5M0o5RWhPR0xlcWxfN25MMzBnSFhjbWtzLThzZ21SX1pKSUtyMWtNcU5ncG5ZQ1hqWGt2OVV5d2VxVDU2ODVIYklmR2RRbm83MDRiV1ItcW1DQm5QM3RfU1E0ekpCRGs?oc=5",
-      "published": "2026-10-25T23:15:04+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "Desert Metals Enters Trading Halt Pending Exploration Asset Disposal Announcement - Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNW1aQzJ2Y3RmZG04TDkweDFWaUZhX0ZnVUs2VkhQaU5qcWlpQWpUUmEwakJSQXZFY0dUdFBBSk9HNUdEUjlvUWVTc0lwcjJYZjIwNnBVbHE5Mm04alpOM1dENGtwX1YwS0I2alVlaE9PVV9PME41d2J6b05PMnVOeU5rbURIQlR2Z2x2cVVQbFJ3LVN2STMwVkxYMU9oUnhqd2E0ZmdWTy1YTW85cVF0TFBhcUR1SnUxNmZGMk9vZzE?oc=5",
-      "published": "2026-10-25T23:15:04+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "West African Resources to Host Investor Webinar on 28 October 2026 for September Quarterly Report - Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa29XNkJiY2NlU0xJV3RIYVV6elZGY3dVcmtEYXl6SXRGR0ttQVFvc01POURvbGI1X1YxUFVOSWRlV2hpcTJDaGhaeFluMTM5TUVRMnpzYzRya3hrZ21jM0UwUjZqN3ktdzB6UUxwVzNYd0xoVVpxY3BraTVxdnl2MV84UENzck9kSjRjX2ZHUU5NYkdrMmZQWlBFb2pGUGt3aWhpcWhZOVJzM2pNSHA2OVhFamZ3ekNudmkxNnQwblhIcWw2c2JMSk9UUTJLdUZ4bW82SkJ3?oc=5",
-      "published": "2026-10-25T23:15:04+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "CitiFirst Self-Funding Instalments Declare AUD 0.20 Fully Franked BOQ Dividend with Loan Reductions - Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSDhyUGtYVkZNUDNNSzdhS1hiLTIwczdROVBUd2RRMExVLVpwWDhlTVpzUENtRGN1MloxRWVwU1lNMHpXNXNEbEdMRFJ4RV9hY3E0UTVPLUc0aC1NWEdKSkYwbER6SXotNTd2RmxPWlJqSk53QW1GTDJ3U05acm1idHNDRFR4M2l4dnZ3WW81TXNuOUVQbjQ1MUV6WUkweUlGOUwwS2ZWU0ZyS19lMXduU3d0VVk0T0c3ckxZbkoxcnZoR0dKV3NVeDY4UmVOcHRSSE13d19qRQ?oc=5",
-      "published": "2026-10-25T23:15:04+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "icetana Ltd Announces General Meeting on 26 November 2026 in Perth - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzQtQjdiRUtqcEp1blJ0U1J6T3ppdXlUVGpIVjE5ODRxbVVOQ1pLUHg3dkVOcnBCb1BFNkszUW9QaTZpRU1abU5iMldYU3lxaERmWnNBVGN3dHp0MTE0VmR1RmRqbTA0c0hZQkVUNmYzSTFfWHJXcXdSQjVHcjgxbUhLT0NqRjB5MGl1bmxnYTZVc0NMb19jVDMxNFluRGFOQk0tT1dYSEdpMWl2aUFzUk45dw?oc=5",
+      "title": "Centaurus Metals Halts Trading Pending Jaguar Nickel Sulphide Project Offtake and Funding Announcement - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcGFudHhEWlNiRmpqVTBLeEJLMGZLekE2MzJ6VktvelUxUHZDWWpOT2ZRR3hpSzA0WHRQSXlUc2RnYkhOeE1qclo5WmprWHhlSUVHU1RmaDJoTFQyOVppRkNMd1kzbVlQQV9Ia0oxTTJvXzZlNEFadjZrZlpFUXhKcXlIN2tGSzAwY1RyRXVWMUg1ZHNmV3BFcXYtM0g1TnNBS0FhOEgtSzNlZkdNak1mTzQ5ZzN4MmFUcTYtX2hINHcwUlNUazJvamNldUN0Y2pqT0FpS2pBR0tOaF9y?oc=5",
       "published": "2026-10-25T23:15:04+00:00"
     },
     {
@@ -486,17 +815,10 @@
       "published": "2026-10-25T23:10:31+00:00"
     },
     {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Fin! Magazine | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE55Z3oyZGN1Q0I5aklWZmROdkRpQUVYb2dkRzhpb1I3b0VZcm5wY05MNlAxTWhrcTZ5dl9Ibk02bUVRZDV1X0s0?oc=5",
-      "published": "2026-10-25T23:07:35+00:00"
-    },
-    {
       "source": "ASX",
       "via": "Google News index",
       "title": "Resolution Minerals Ltd (ASX:RML) Drilling Confirms Extension of Gold Zone at Golden Gate - ABN Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLXpkM0RMQVI1aHRrMmRuWHhzVzFFY0VPa2NjaGM5NXM4NV9vX2hMY2I5bm11MjdkOGNSQkp6TU5LQjYyb21kM1dlb2ZEQkxEWHAxRXNvUkktdXpiQXhkNnMtQ1BiVzdyc3NYaWxDMS1XeFFleXhMUnE5ZGNhRXJqS1I0WUotRlNUMEpjQnNDTjR0ajNiYi04M2UtNXo3TFU1VUVxZEZnSFNCT3RpQnZJRXV3eTQ2MFpXRDBpeGlsZUxmNW9iVFh1MXg4em94SkZteVJB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSzU1ZGJmb2dLU3ljenR1X1p5MVljNzFuTUI1am50UEdpdXNMUjlPbDhONkEzMzlsRFVvREpnNWtyMnhpbGxtRXk1N3hxT1JWVlFvV2NQQURCeGtoSm5vSkk1aE5IUGVWeHdPNkY3RW1uTV9ZekRxalB6QUZnTzhqbkthZTgyNXBmLXlFOEdQa3QzaVdZS2J3RmhJbEdhY0pQNzY5TnZqYTNGamJWWWxGRklJc21RdWlvLWRSVEx1VmtXQUJxaC1ldjVKZk53aHYzZWtxYQ?oc=5",
       "published": "2026-10-25T23:06:16+00:00"
     },
     {
@@ -516,23 +838,9 @@
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Topic | LUXURY | Australian Financial Review - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5mNWVULUp5UmdvVWZtN2NMZV9jeHM2RFQwdnFSSDRISE9BTDhEZHV3RWxzaVE1WmVlMl90cnlXSQ?oc=5",
-      "published": "2026-10-25T22:49:30+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
       "title": "Avid Property partners with Brookfield for mooted Ingenia take-private - AFR",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUFBcnoydWV1RVFmbFF0elUwVGZXemhhajR3LVB2ZnRvaFJhd2VSSGdWc0FfTmNlU2ZnX2tWRTR4cG82UDhXVDAxU19PWldBZll5MXcyTFFlTkxzYVg1aHZqWmVfQjZNTW9RU2JmSVdVdUhXRzBFbWhMQ1h2X3hlOGRpN1N5YmgtMkN5OElYTG5RYjl5RUNNZGJyQ1FtZnJ0dm00Z2dnbHFhd0MwVVdz?oc=5",
       "published": "2026-10-25T22:45:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Appendix 3G - Notification of issue, conversion or payment up of unquoted equity securities - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQmlTb09fcldEbDVHX05iSmg1THQyYUYtOWkxVHFJSXlRUjFGVV9tc3YyWFlSZHJXUmw4U19KUUttamdLVFJQMEhpSVV2M09zYmhVeWlSU1Yxdm14ci1QckdqUm0zcTRKR0hMTU45eU43c1NQS2daY3VQbEF2NF8yaVdIZ1ktbXdFeElCak1Hbw?oc=5",
-      "published": "2026-10-25T22:34:30+00:00"
     },
     {
       "source": "AFR",
@@ -551,7 +859,7 @@
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Brian McNamee to retire after decades at the very top of CSL - AFR",
+      "title": "McNamee bows out at CSL amid boardroom reset - AFR",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWV95LVIyXzItX2t3a3d4VFJ4SWhKVmpMY3U1STZxT3l3M0FORXp4UkZIZnYtbjBQeDdPTU00VWRFODdZZThYNXdZcmFNTnd1VmtMQWx3Q1NWU2tCTjBZck5TVWFIOF83Rk1MTnR6Yy1fd1E1UmxNRDFGbDhzSzVOekdFbHlGNnNpZFVDWThJYTV4aUpEZk5aRUlYeWdnRlAzYXc3M0o4UW41NG5zdGJUQ1M4ZGo0YXpSYUtRSFpGbWkta2VUVXFldQ?oc=5",
       "published": "2026-10-25T22:23:00+00:00"
     },
@@ -561,6 +869,13 @@
       "title": "Mayne Pharma Group Limited - AFR",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1JLVjFEbElnLVRFYjNxOHNzLXV5R2pLVHpJOWNTdmdyZHdCQlBnZElZRkZ4c2ZlclZoek1TYWg3V0hKWGYxU3VxQmJfVkExQmRzNFNyRjhFYnBmOWMta3RSc0VtZDZGMlp2eU5yOWV4M1VWZE9pQnlXdkp2S3ZQUS13UFBGRXhWTWQwNTZFOA?oc=5",
       "published": "2026-10-25T22:12:15+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "DRAFT ASX announcement - AFR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjE4Z3JLUXI2b3hoTkJmenNoUFNQNS1qWHVXSWVtT2JTWkswMWlkSnZCUnZTSTJoaG5wYnRobVk2dWpqeFBfYy1Tb1lPNjU0Z2RtUzZoS1pFTmxHclpId3ZxZUdqWXlmbGZvX1Z2M1M3OHdFbk5qTnNNS1JhUm5JSVpxWVVqVFl5TVJFa2tvdw?oc=5",
+      "published": "2026-10-25T22:12:14+00:00"
     },
     {
       "source": "News",
@@ -584,13 +899,6 @@
       "published": "2026-10-25T22:00:34+00:00"
     },
     {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Starbucks crackdown leaves China’s young jobless with nowhere to hide - AFR",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWNURmd3NGFLRFB1Rk9nZUxTTkRPUXQwMDlUb0Y1TkRYY2hncEFBOG9TeDR2aTZSNXZ4Q3RwWk5yTzdaT3ZzcTF6Sks0Nm9BV3k1aXJ5NE8wUFREUS11Mklyd19rN2NSZzN0OEJaNUp3VFZjaGtlRGtnSk5DLXBsNWpPMmxIX1RXb2U0ZXB6VTBWUWY4cEliYzVrcVhSWnpNeUZ3QVByWVNEY2k2dHhxT01mMkdtZlk?oc=5",
-      "published": "2026-10-25T22:00:00+00:00"
-    },
-    {
       "source": "ASX",
       "via": "Google News index",
       "title": "Australia Post CEO Paul Graham to retire - Mediaweek",
@@ -612,13 +920,6 @@
       "published": "2026-10-25T21:34:00+00:00"
     },
     {
-      "source": "News",
-      "via": "Google News index",
-      "title": "ASX set to fall 0.5% as oil prices surge - Sharecafe",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTktYVVFfVElvZW9wZGtTRmtMMUl1ZU5fMThWVkt5aXhZRXZWanFXSElmWmVkWUJmRk96VVRIX2E5SEFTQ3hidzIxSmVvOUM2UmRrVUc1TklkS1kzc1JwT2tTUGR0ZWRGbG1aUDNkRTNiRWd4M1VGZE9JaXYtWTFBSkc3Wi1Qb0k?oc=5",
-      "published": "2026-10-25T21:33:03+00:00"
-    },
-    {
       "source": "AFR",
       "via": "Google News index",
       "title": "Bonds and Warren Buffett’s Berkshire are flashing a warning to markets - AFR",
@@ -626,7 +927,7 @@
       "published": "2026-10-25T21:28:00+00:00"
     },
     {
-      "source": "ASX",
+      "source": "News",
       "via": "Google News index",
       "title": "These are the 10 most shorted ASX shares 26 October 2026 - The Motley Fool Australia",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ3hmUkJpbVlBQldvT2JSdWQ0aExjcGpQMUNGVFdfOUdicEFqQmtQSVBFdGVFeHQwV1FXSVZ5VVJMYjJ0V1VVYWljRkdqLTZWc01kcnNDdDIxUU1ibVpPYk5GQlRVTThsUDkwcWFDUDJNQXlDYXNqSTBuN1RERENmQ19EUHBWcmF1YmUwTWRZbWJzTm1JZC1F?oc=5",
@@ -649,43 +950,22 @@
     {
       "source": "ASX",
       "via": "Google News index",
-      "title": "3 Australian Quality Stocks With ROE Up To 22% - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMWFObTd6YlVoa002SGJFS2tDY3V6bW5yaHcwbEF6WEozQW1IRFNtbHlCNVFuMHhSOVVTdXl0bUNQOEJCeDdBOFNHN05kdGs5ZndEVlMzZGFYLWZEZ0hCMFBxcjV1cnktdV9KS1dMRVg1S2MxNjVyM2J4RHRvOGRSUEVDSU5pYjJ4TGJ5VDZtQ3VSdDBiWnVCR3RCS2EtMDF5M1ZGcWNIMlhaQkZjQUVITEIwU0hUVlA5MExKX2kxdWdPRXV1cXU40gHHAUFVX3lxTE8xYU5tN3piVWhrTTZIYkVLa0NjdXptbnJodzBsQXpYSjNBbUhEU21seUI1UW4weFI5VVN1eXRtQ1A4QkJ4N0E4U0c3TmR0azlmd0RWUzNkYVgtZkRnSEIwUHFyNXVyeS11X0pLV0xFWDVLYzE2NXIzYnhEdG84ZFJQRUNJTmliMnhMYnlUNm1DdVJ0MGJadUJHdEJLYS0wMXkzVkZxY0gyWFpCRmNBRUhMQjBTSFRWUDkwTEpfaTF1Z09FdXVxdTg?oc=5",
-      "published": "2026-10-25T20:38:13+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "Learn Why The Bull Case For Yancoal Australia Stock Could Change Following Higher Coal Output - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTXR4UGRMZHVRRVpwTER3bFpwamItWUNQTVRBYlBsdk9xeWE0Q2tJWUpsQ1lPZThpTnQycUtvVHpqbHcwM184Ry1ici1lNktFU2xqd2RxR0VtNEpQc2RBZXBCTC0xbmEyQzc2bDRLd203TzAydlNteXNPbm5mWk5Na2JHZUNPWmNlNzR2a0JEN1hHanQ4X0NMTVphT2c1dnpTWEY4WExNNF9NTmllYzh4UkJvaHJMZHV1OFJ1bDVFVDYwQTFjdUlOemhGdkNKb0hRRVZF0gHYAUFVX3lxTE5PbU9rYWc4ODRKZEFCNDAxc01kMjlHV2pjV0M1RFRLS2RaQ0RtM251TXhyekdldHB3OFlOQ2FKNnRuVEhqU3E4MGZUTDR6NXV3Vkk5WjFHWFR3Z0dBQmpwVUJlczdZZmZzczZZWGx0Vm1rbF9VTGdHeWtMcl9xdHdHVldGQTE1bEpQX3RPRWUySG1ST0pvVEdGNDZZb1R5d1B1WV8tWEl5OFlGb2lJbG9PaU1oNjdYaW9kX1c3RFJ5dHZYb0JxSHU3bjdmZndja2JVLU9QYUZ5UA?oc=5",
-      "published": "2026-10-25T20:38:12+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
       "title": "Does Job Cuts Change The Bull Case For Westpac Banking (ASX:WBC)? - Simply Wall Street",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa3czX3pIOUNNUFV5eU5jUGhuU21ibUN6c0w2MGVuZEFYT1gxVzk0bEtpU0dhSk1DTXVmZmtOYWJKb2tDOHVjYWxocC0zQnF6d19DYTRwRGxfTGxuZFlEWk5wSVNLQnlpMDhfMFZvQ0lTMGo1bTJCUTdUOFBwRTJJQ2N6NTYzTFdpS2RkNW1JTUZHVEU1VlJLMnJJODc3bnd3Q0FZdVhyMF83Tmw2bm9sN19kNjJuUWlyVjFzSkxhVFhYblFJaF9vdy1LRkdzWEJ5RGFjedIB1AFBVV95cUxNa3czX3pIOUNNUFV5eU5jUGhuU21ibUN6c0w2MGVuZEFYT1gxVzk0bEtpU0dhSk1DTXVmZmtOYWJKb2tDOHVjYWxocC0zQnF6d19DYTRwRGxfTGxuZFlEWk5wSVNLQnlpMDhfMFZvQ0lTMGo1bTJCUTdUOFBwRTJJQ2N6NTYzTFdpS2RkNW1JTUZHVEU1VlJLMnJJODc3bnd3Q0FZdVhyMF83Tmw2bm9sN19kNjJuUWlyVjFzSkxhVFhYblFJaF9vdy1LRkdzWEJ5RGFjeQ?oc=5",
       "published": "2026-10-25T20:14:08+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "Top 3 Australian Growth Stocks To Watch In October 2026 - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSlhrWEJZSVpEWkRwa0h5ejRwU1NfZG5Rd09NQlI3YWlteWxSNUNjRDZQeGd6eHlrZTBTVkdZUjFPQkUxMlpfM3VWbWF3cjY0cHNUVGlnMEtrNEpWakVqVnJKaWhiY05yZzlnVzRWanlHMHdWbHhUSTZ1Q1VzUWwtSzNTWkkxbGtIQVhRVW0tQjhMdnptbFJva0VTckV3cFBYNTdlUGt3MTdwYUdYQnF1Y0k0c0VaZVc4TzFacHFrcmJja09XTlp1bmYwaFFyblnSAc8BQVVfeXFMUEpYa1hCWUlaRFpEcGtIeXo0cFNTX2RuUXdPTUJSN2FpbXlsUjVDY0Q2UHhnenh5a2UwU1ZHWVIxT0JFMTJaXzN1Vm1hd3I2NHBzVFRpZzBLazRKVmpFalZySmloYmNOcmc5Z1c0Vmp5RzB3Vmx4VEk2dUNVc1FsLUszU1pJMWxrSEFYUVVtLUI4THZ6bWxSb2tFU3JFd3BQWDU3ZVBrdzE3cGFHWEJxdWNJNHNFWmVXOE8xWnBxa3JiY2tPV05adW5mMGhRcm5Z?oc=5",
-      "published": "2026-10-25T20:12:18+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "3 Australian Founder Led Stocks With Revenue Growth Up To 17% - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPY3RCYTRwRExfTG5GRC1ER2JzcFl0c1dpS1M2bkVGSWhfTlZxbVd5R0kxZWJ6NElSSlFMRGkzWEU4c01YLWt3d3hzalRjNUlyMXZ3SlhCNzAyZmFnZE1xMnNaQVFOOFVWMmdTczNHVGpBSzlHSThkaHpLRzNrdGduX0pkWmNHWTZKeW5iNHFraklFbkJBT0I5S1o0Z0F4YUIydnZaN2tFa3BpNUtTeElzUWZGM3NhU0pHa2lKQ2E5dzEwV3FHbEZ6TTFPaTE1WHlRbVF6RnNGZExrX1h6Wm1KSjZjTURlYk96QzVkNFhsTVPSAfYBQVVfeXFMTV9Kd2JTZTFDSEM5d1dLT0JINmt6b1lQbU92V25QaVM2Y01qUGlzTzhPSFRCMWpndXNPLU5HajhSWlhuZTJvOUxhZkd3ZmFrTEJmZWhkenZGUXdtTjVyNjhoNS1NSnpJRzJQZmFFQkFWRVoxRElnLTM4LXZfZDlHLTJyRnBGVVdIelFWLXpMaWp3QjJzSVg3aUVNZDAwQWJvUTkwTHVUTldVVURHc2I5TDloVkpaTmZON0NRWm15TlBvVV9abHNUWEZ3aGo5MVpheHAyRng5Q0NyV0h1c1BEZEdzb21oX01tLVZyd3d2el84QTN6UXV3?oc=5",
-      "published": "2026-10-25T20:12:18+00:00"
     },
     {
       "source": "News",
       "via": "Google News index",
       "title": "3 ASX Growth Stocks With High Insider Ownership Growing Earnings At 74% - Simply Wall Street",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc0EzMERaZWhBMlFNSDJ6TzRpQ0lYeXZLN0NlRWtMU1YwenpkSEU0LThmTDlPeGRjS3FMMkhWOFJSZ043SktCU0o5eHdZWlFZaXNhcjJNLXM1eUk2V3FzYVJ3VEJ2dTFSRVZGdVpkeVN1bDJEQnlPaGNDeWRYZmVWMVVJanRIcWtrOXJBLVctaldSSGxKZm1NZC1BemtEbjFTRjRuOG13RlRabm9IZlBRb2RxV21WUmt4c3JQclFCNTFUeEw4R0FwU3RmMkxlQUhvcTNz0gHTAUFVX3lxTE1zQTMwRFplaEEyUU1IMnpPNGlDSVh5dks3Q2VFa0xTVjB6emRIRTQtOGZMOU94ZGNLcUwySFY4UlJnTjdKS0JTSjl4d1laUVlpc2FyMk0tczV5STZXcXNhUndUQnZ1MVJFVkZ1WmR5U3VsMkRCeU9oY0N5ZFhmZVYxVUlqdEhxa2s5ckEtVy1qV1JIbEpmbU1kLUF6a0RuMVNGNG44bXdGVFpub0hmUFFvZHFXbVZSa3hzclByUUI1MVR4TDhHQXBTdGYyTGVBSG9xM3M?oc=5",
+      "published": "2026-10-25T20:12:18+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "3 Australian Founder Led Stocks With Revenue Growth Up To 17% - Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPY3RCYTRwRExfTG5GRC1ER2JzcFl0c1dpS1M2bkVGSWhfTlZxbVd5R0kxZWJ6NElSSlFMRGkzWEU4c01YLWt3d3hzalRjNUlyMXZ3SlhCNzAyZmFnZE1xMnNaQVFOOFVWMmdTczNHVGpBSzlHSThkaHpLRzNrdGduX0pkWmNHWTZKeW5iNHFraklFbkJBT0I5S1o0Z0F4YUIydnZaN2tFa3BpNUtTeElzUWZGM3NhU0pHa2lKQ2E5dzEwV3FHbEZ6TTFPaTE1WHlRbVF6RnNGZExrX1h6Wm1KSjZjTURlYk96QzVkNFhsTVPSAfYBQVVfeXFMTV9Kd2JTZTFDSEM5d1dLT0JINmt6b1lQbU92V25QaVM2Y01qUGlzTzhPSFRCMWpndXNPLU5HajhSWlhuZTJvOUxhZkd3ZmFrTEJmZWhkenZGUXdtTjVyNjhoNS1NSnpJRzJQZmFFQkFWRVoxRElnLTM4LXZfZDlHLTJyRnBGVVdIelFWLXpMaWp3QjJzSVg3aUVNZDAwQWJvUTkwTHVUTldVVURHc2I5TDloVkpaTmZON0NRWm15TlBvVV9abHNUWEZ3aGo5MVpheHAyRng5Q0NyV0h1c1BEZEdzb21oX01tLVZyd3d2el84QTN6UXV3?oc=5",
       "published": "2026-10-25T20:12:18+00:00"
     },
     {
@@ -703,7 +983,7 @@
       "published": "2026-10-25T20:12:16+00:00"
     },
     {
-      "source": "ASX",
+      "source": "News",
       "via": "Google News index",
       "title": "3 ASX Penny Stocks With Market Caps Above A$40M - Simply Wall Street",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORU9zX2hFZUNfbEF0bWpRU0s5aHJMR3ZTWHpUVF9hYU9NX1dxMzR3UTAtZmZZa0VjRmFRdTNYRnlmLWMzN041ZWhWb3N0UTFsN1hrSmJ0UDdrN0pRa2tRYnRGUVFvUnlFMzl3R3VuZlVMcHhSZUlMbXVueHUzRWdTZTZpTXZ1bnliQk02bkJqaW5VckdEdURvb0lROHBvVTUtMFc5eEVBUFZjUVBTYzFBQUxRNEJMT2Z3VHF4Rmd6MUoxNTBrT1c00gHMAUFVX3lxTE8yalZHdHI3bExNS2ZtcWVrcVJtMVFPb19vWlFIUzNhSWhpUlZqdGs2LVNkY090cl9kRU5SUHNJVmpvMmNJTUt3SHkzRnZ3cDFfYXBQVjJ1aWIzWFdOSUtIY1UxOXJYekg5ZnFqUEItNWtoTVhFVkFuR2VWamFuS2ZRUnlOS2JkUHVGQi11MHZOS2Uwc0I3ZEpzamxDUXMxQWE3NEVpSC1SQ0swVVM4b0pyMVRWU3dGZ1ZZd2k0US00QjQzZDgxNlNHeDVjZA?oc=5",
@@ -719,23 +999,9 @@
     {
       "source": "News",
       "via": "Google News index",
-      "title": "3 Australian Founder Led Stocks To Own In October 2026 - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUU5HNVlNU1hmdFQ3ckowWjhaemRPNW5jbHk5dDNZa2s5T1RuNlk1RTJ5SEh4RFYtbHJsLU5ZUzlobmw3enVoeHE0VHVUYVFyMURLd1hLUEo4azdYRjN3bVRVc2NkUzg3c1hRcFNERm9UcWpYZENiWDNTa2pGTFg5S1QwWDc2Qlc4QkVkc1B2MjRkYmRqWUJiTkdqcmZIMEgzaU9JOXM1TjlMcnl0eURDMzRXMURqeklaUU1LUXY3V0VCUjYxNTFUVGNyZjNXbVhjQS1xZ1BtTnU5SDk5dmfSAd4BQVVfeXFMTlFORzVZTVNYZnRUN3JKMFo4WnpkTzVuY2x5OXQzWWtrOU9UbjZZNUUyeUhIeERWLWxybC1OWVM5aG5sN3p1aHhxNFR1VGFRcjFES3dYS1BKOGs3WEYzd21UVXNjZFM4N3NYUXBTREZvVHFqWGRDYlgzU2tqRkxYOUtUMFg3NkJXOEJFZHNQdjI0ZGJkallCYk5HanJmSDBIM2lPSTlzNU45THJ5dHlEQzM0VzFEanpJWlFNS1F2N1dFQlI2MTUxVFRjcmYzV21YY0EtcWdQbU51OUg5OXZn?oc=5",
-      "published": "2026-10-25T18:41:54+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "New CEO Appointment Could Be A Big Moment For CSL (ASX:CSL) - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcVo2eUpMQ2NybVJ2bHNRQjE3LXVTUjcwRUUxVHBZSWRNdkhvUzl4RjhDUi1IbzJzTHBMbkZ5MTBEdEpQUXc5eUY0M0hjTXFmWGs1c19SWEExMDlZUF9mVWtZMkRZZFZKWjVKZDRRSTJfQnZ3SWFyckFvaVd0c0pHNHRYY3loaVp5Yi1JaXc4bFlxTEtfRFpwNG16UWZQNnV4UDI2MGFxdHpvei1ZRy1BdG9VTF9rRkxOWXJ6WVJTZEQ2U00xMG5jeGNlMUI1Zk5EQ0HSAdcBQVVfeXFMTXJNaUFURFFITHU5Mm5pVDh4VkRYUkktVVd0OXVBUWIxSDVLUkFmSjBtTzZwdGlGdFpGNUdPbVZVUDVTS1h6Rzl2Y3ZxbEZtVk5sMVlyYlVxcnp1bm10SkJVUXk5dENsOTJ2NEZFNWt0ekVvS3F6cEpKUGc3Rm5vQmh0QmowejhJMGJ2TGNscmtQTjJ6M0VUYUlIdWxrcEdsc093UWozYml0bEVBTHNpMVpxb3pfblUxTUVKRjU0cElRYTBjNmQ3eFE2REpmMjN0anpQdWZaYzg?oc=5",
-      "published": "2026-10-25T18:41:52+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "18 Share Tips – 26th October 2026 - TheBull.com.au",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnOFBfVkVrcEVEZUtrTU5DQjZ1Wk5iU1UyVmlVS2xvRHU4YWMzZFUtVjF6NEdTOUYzeW4xMGNwVXZ1bTZxZHBBTVcxdFZpMExLQ2pZZU1lWlR0Y1VwQ2RMLVBrWENpNUFqd3Q0eHJnQkZEb1FWNGdaNQ?oc=5",
-      "published": "2026-10-25T18:32:30+00:00"
+      "title": "4 ETFs and 6 stocks for tougher markets: Where Morgans sees opportunity - Livewire Markets",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd3g1N3dKNlFqN2wxcG5fNlhERkZUWEhtYVUxS0liTkduRUZFQ3M4a1ZWeTB3RXNkY3BtY25TRVYzclhZclpzTEFXb3pPX0tzMGVaNnY3RVR2VFZqUUxFSWlIaENtZnBVWndkd0hYYzB5RlNsVWlQa0REal9IVTZfSUQxUmdYTFBIc1FZbVVhRDQxWmxpd0cwUWluTWdUSG1RTXBvSjJGS2x0UFJ1?oc=5",
+      "published": "2026-10-25T19:00:42+00:00"
     },
     {
       "source": "ASX",
@@ -789,13 +1055,6 @@
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Why selling isn’t your only option when property values drop - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkJTYmVVS3M4ZXgtN1VNMWIzQ2YtNE9rQ2hsOVJPbzNEb2dJUG04U3c2RXU3Mmt0ekJKQXpxNU1DZVdFa0c5TUxYb0Q2eGUyRm5handEVFJCWnc5YklFVVpZczNSM2hmbnU3U1g5U3IwdnV6dnZ3Zk5lZ2NRcllreExMS0FfUDJyVklGdW5Sbi1RMEVGMFRCTkpEZUhpZ3l6dnA0S2lteG9CZXc?oc=5",
-      "published": "2026-10-25T18:00:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
       "title": "This super giant had Bathla loans. It still believes in private credit - AFR",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLU9RZlh5RDIxbXY3Ujd2ck1oTFJFTnAya2FUQnFRb0owMExoY3FRU3UwR1RZNk5IN3ZtUmN5bF9CY1ZQck9JRkluTC1sTFRJUVF4aEgwOFZFNThQejhMaHBPbWlGVjE5cHR4VDRaUUR6OXFuenRmcXZFSjRJQzU4VjRLenVLbEpzU1BqdXdNYWNjZXBMXzRjVDhzSGxKdDhOcGJTaWk0R1BscEp5N1hON1U4dVhiQTR4?oc=5",
       "published": "2026-10-25T18:00:00+00:00"
@@ -808,18 +1067,18 @@
       "published": "2026-10-25T18:00:00+00:00"
     },
     {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "ASIC won’t sue Super Retail board over scandal that led to CEO’s sacking, says company - SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVFk1bVRCWWp4TXRMUVQ0S0Q4emhmS2xfQUtfRk9yUzhCYXFnWDI1WU5KbkczZzY5TTYyanNTM3p1a3VJZWRra0hDOXFYbmdmajJuWTRhQk05NzJIVTg1QzByMU9jYndLWThFWkQ4Rm9oUHpJVENKUzBsRnZ1cFRPNTZCc3BMcDR0LVFBQzdFblFaUWc1Rk55aUM1b1liUHZmNksyN2NHTm0tWUJ4MDZMdHFFRWZHZFVrdk9JbTJPOU5XRWlpMHVFLTVrWC1Ca3BXQjQyM2xEUkhMclBWQjRaMy13?oc=5",
-      "published": "2026-10-25T18:00:00+00:00"
-    },
-    {
       "source": "AFR",
       "via": "Google News index",
       "title": "The sci-fi fantasy kid who built a $1.26b start-up - AFR",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWm5aeDhVR19Ob0c1aFI3RDhubHRqanBXNGRGWi00UXZSN0NycVVSbjBBeFdsVUpEdlBaSENjeVFyOHhvUUZoWVRydkN2NkRKRUIzZWZmcENJNkJib2VyV2xDdi1vcHNNQ01VdzZVcGg5cm1feW1sQ3BmV2NqTW42MXBLdjdCOGJDaUlOY0Rvb0lyUUZPMkNZRHlicXg?oc=5",
       "published": "2026-10-25T17:50:00+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "3 Australian Founder Led Stocks To Own In October 2026 - Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN05jbTJKV1pGM2d5RENpRkJQSW9oWjE5c2pYcHhQUjB0OTlVblFGUWczUUN2Y0JfVFFnWWN2blBLd0J2MmYwdUFObVF3Nkw0cHlKc0xYVWliX3R3cm96UG45Q2JGV0NEbWNHRnZsUFFHMmVyMy1jYlNwbUdpbFd4VVpKMU5YZU1GOG9iWG9RZ1NwM1Z4UVFUTl94X19zMndjWXJGMUViZjhmQmk5emZ2T1pWbU4ya20wZEhhNUZidDdUbk1RYVVKczljYmt5dV9LWHozRWZ3MFnSAd4BQVVfeXFMTlFORzVZTVNYZnRUN3JKMFo4WnpkTzVuY2x5OXQzWWtrOU9UbjZZNUUyeUhIeERWLWxybC1OWVM5aG5sN3p1aHhxNFR1VGFRcjFES3dYS1BKOGs3WEYzd21UVXNjZFM4N3NYUXBTREZvVHFqWGRDYlgzU2tqRkxYOUtUMFg3NkJXOEJFZHNQdjI0ZGJkallCYk5HanJmSDBIM2lPSTlzNU45THJ5dHlEQzM0VzFEanpJWlFNS1F2N1dFQlI2MTUxVFRjcmYzV21YY0EtcWdQbU51OUg5OXZn?oc=5",
+      "published": "2026-10-25T16:52:02+00:00"
     },
     {
       "source": "News",
@@ -850,32 +1109,11 @@
       "published": "2026-10-25T13:01:00+00:00"
     },
     {
-      "source": "News",
-      "via": "Google News index",
-      "title": "Flight Centre Travel Group Limited (FLT.AX) stock price, news, quote and history - Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RUmtobURFMTNHMFBOMjZLSG9ULWpPM2ppR18yWjZsNDZMV1k1amVDdmt5MjJtWWJFYjlzOFBSSjJ2SVplOUk3Q0NhU2EwaXRyQWlnSA?oc=5",
-      "published": "2026-10-25T10:45:47+00:00"
-    },
-    {
       "source": "AFR",
       "via": "Google News index",
       "title": "Keyview toils away at partner search despite Bathla, legal blues - AFR",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUWVCLWVKbkl0T0F1ZmwtZmlCQldLTUNudjhUdng0MWJPdjdrOWhqcjZpSTNpaF9TcXZ0aGhIX1JJQjB2cFJGLUZPc1NGa0FpWUZqMzhremdwUVFUazlhRXc0VDdjdVBQeUd0Wk15T01CRVZ5eW5aQzYtZkxKM0Q4Z1pTNi10QzJiSHd3NDVMeXFLeExJdlhiWi1BeXA0MVNCczlkaW5qanBnZy1HTXQtdA?oc=5",
       "published": "2026-10-25T10:01:00+00:00"
-    },
-    {
-      "source": "News",
-      "via": "Google News index",
-      "title": "Bega Cheese (ASX:BGA) Share Price, Forecast & Analysis - Stocks Down Under",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xX20zbkhfOTcwU3BwbTNZQ2pQWEI5Z3gzYVdkTWc0TkY1UGZfUWRMUjBDTTNVdGpGdnlOQ01GNTVYcjhlS2JGdUpNZ2g4MVlLT3dyTEkyYzVpWVBf?oc=5",
-      "published": "2026-10-25T09:28:57+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "NRL to add airport hotel to portfolio V’landys wants to top $1b - AFR",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQjlBbmV3ZEl0Qy10U01TMjNiTWF2b3FDY1AyaFdBV2lwazI0UU5lT0tKOUhCTUV4MUgzUDlWMFJLeUlFTHVGWmtObjNrUXNDX1RZc1libm5USy1ORDgzaV9nbHF5NHRUYWdZS0txRXlEWnd0THZqUGt4c1pkMDl2TzFCMjR2SXJDZG9sM3pnTzJuSWo5WExCZGlMaWVjeXVTZEY4TnA2N2NicFBUMnVqeG52ZGc?oc=5",
-      "published": "2026-10-25T09:00:00+00:00"
     },
     {
       "source": "AFR",
@@ -899,13 +1137,6 @@
       "published": "2026-10-25T09:00:00+00:00"
     },
     {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "Castle Minerals (ASX:TNM) - Análisis de acciones - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOG1wS0RWMHp4d1Zidnpva2wwV2ZybXdVOGV2SmFFVUZRUDVzekx0WDJrNEpNckU4N013Z2lZMGxxWi1QQTJ1dUdTTk5MbnJmc3JRNHltZkE4emNsXzJIaVV1QU5YbEpvejJTeUFxUjFrNjlOVldVcTR0U2ZHMUlqaA?oc=5",
-      "published": "2026-10-25T08:36:55+00:00"
-    },
-    {
       "source": "AFR",
       "via": "Google News index",
       "title": "Could Megaport try its hand at a capital raising amid AI storm? - AFR",
@@ -922,6 +1153,13 @@
     {
       "source": "AFR",
       "via": "Google News index",
+      "title": "The fund managers who tried to stop One Nation in Farrer - AFR",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXRSNHZvZUdTaWk4RnNpeW95NkN5QnBIU1lrenppNDZBRDRvSVZCVHRvX2JqbnppczJMOGV0cVRETEhBbFpTSElPSk9wekMyWVZ5c2JIZEtvU1FxSWZyaTlLY291dUtPcUFxQ25CRkEtSXZBZnFXZl9yQTBVeThNZTNKY1ppSzU3YUQ3RzJJemZ2MWRGMVFCMHV2Mk9KbWt6RHpJSVczQ002a2k3U0E?oc=5",
+      "published": "2026-10-25T07:00:00+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
       "title": "The extent of Australia’s tradie shortage revealed - AFR",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMjRCMkJsM0hlMFdGNmRmbDlMOHNOV3pCenhPbnJIbHJtejN5T3hVRWUzR0NzbkNtWHlXR2FaajJybmN6UFhSdTBISVVldlExTWxxLU1LSExBcGt1YkRVMlh4X2RHZ3lnZGc3MmZRcC1oc3pSczJhZUVCZExHNXlTSDVpUDc4VDd3VEhZZVRhUGgzdHlramNBeU8zMmI2ckxUVDBV?oc=5",
       "published": "2026-10-25T06:59:00+00:00"
@@ -929,93 +1167,9 @@
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Singaporeans’ $864m Salesforce Tower deal a boost for Sydney market - AFR",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNnV1aGhMUkZPeHdPRElER1EyRGlRQWxrSUxzV3AzVUpGc3hvMDVSWTlzT1YzdVZ2RVBZTjVyTVpFRV81S2NhYU5abklLbEM0Y2dBR2IzMnI0NThTaXNBQTdtMTRzSTZDenpnaGJtT19jeTNiQU9LMEUyTDZIMndIeV90NEhEUFlEMHpqeWZua2x1TC00OFF4QVVKdDZNVEhxU1lGb2hCOGtac01nbjRkR0RGSlBRSW1SMUdtTWJn?oc=5",
-      "published": "2026-10-25T06:34:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
       "title": "Bets against Australian stocks have ballooned. Should we be alarmed? - AFR",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR1Fna2V4NWY4dTZ1c2tLcEd6cjJnTlN0bGNfaTI0dWlmX1RGUzk0eGlBTmVzcjRTZU1KUWZDRFhaaTgtaXFGT0VKa01xblZkd0FrV0U5aWRPZElfYmNDcVpZNlRfc09JRUlCTTIzZkk3UFNldXc3MXM1VlJkTkVpUUFNMF9kZkdzaktRaklSTXBDWE1ZeUZPakdGMFlTVl9rSTNWMkt2a2xXMXA1QWcwUmliS2Vaa1FKRTNmd25meEI0eVNTb3pBR25XYw?oc=5",
       "published": "2026-10-25T06:16:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Vietjet loses control of order book, ticket revenue to receiver - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNmJ4UVVhcFZhaURJNF8zNlRseVhva1FuN2dpajExVHZzYTZZaDlUSlkta1NVdE1vczhjdHdzbDVwU19tOFhIRlRyWXFLcVJLTzZEWm9HcUZFazRNTUx0eTBiOENTXzNQVUhqaUppcURseXF3XzFZOF9NeGh5Sl8xd21UUzBxZUVEbWRJaG5IR2lvcEFkYnBTSFR3b25lZlBqNjkxT2N4VXFtbHNqZGxiVmlCaERqNUluMnc?oc=5",
-      "published": "2026-10-25T05:59:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Zuckerberg’s deal to stay in California cheered by wealth tax campaign - AFR",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObEJWOFkwNnBlQWY1ek84YUxkZU13SFFiNWVPa1B5dkJYZGkxT1h0Nm1FNURjLVZzU0tzQXhCdXVnamZJTkVLOTkyR2YwQ0x2YWJhcjhrMU0wcE5OZ3l1SDFKVE9OTWNDU0xyM01rYlJzVTlCcEFCcEVDRC1IdGdNNVQyZzJVdDh4NUlHMzBLZzlNeFlYV0lKYmtza0VrOW9Hd1kxekpWcU1sXzBPODRuY2RWSUs5UDhyMlJhYU84RXFWdVlr?oc=5",
-      "published": "2026-10-25T05:15:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "NextDC faces broader community backlash over Melbourne growth plans - AFR",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVFNudEo5alE0SjBsWFR4MXd2SEJxNUJZV3JPNmEtZ2xkUUJ0R1o1SkN4QVY3WFMwclcwQW8xUWw1SW9UTzBHd1JhNklGeDBMemlJYS1Fb2ZScV82WWR5cTBxRTgyMng1Q1pGU1pnTzFyWDdhS3pUdlpaZXVKNUYyTkxiTzdyXzdJd3JmNU9RYXdsdVFXM3VVQjNjdU5MakJtWlpObUtJZzVXd09tZ0FFS2JZUFJyVzhfUlkzMm0xNUY2dGdEcllF?oc=5",
-      "published": "2026-10-25T05:00:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Caledonia promises to back more stocks after year of horror returns - AFR",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYTNUZTl3ZEw1WDFNbUlxUGlqQkFfQzNKTXI3X0VZWXRhSFpSZ05LTlRRaF82WlFTQkNlTWF1cVNRMmtlNC1HMklkelg5Tl8xTUI4eHJjQjlVS0hBaFNab1J6eWx5SjBBRjY2QmJRM0tSYU5jS2FnN2RjeUg2dUhsUjg5eGhhcV9UYk53YkwtRGxhcUV1akhIWGhDY21aZ21ad255cG92S0VnS2o3ZEExVUhFR3ZQdTZ5OFVoZVh5Z2tPVmNS?oc=5",
-      "published": "2026-10-25T05:00:00+00:00"
-    },
-    {
-      "source": "ASX",
-      "via": "Google News index",
-      "title": "Can Another Australian Healthcare Company Follow CSL (ASX:CSL) Into Global Scale? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVUlmWmxxVWlMNGYyaTlNTjg2d201clRfOFFLVGpoMFYyeDhGRkFESXVZMDY2YjRvUjl3ZW1zc1laNUxIWmdLR1VSMlotRUtXX25pYmFFUmZBN3djR1dwd3dyR29mVUhqcnI1UzR1a3FSa0FlT2tNTkxHbnFwcmI0Q293Qzd0SFUzejE3SXd0aHNyeWx0cmJHZVJ2UnZUVHNLTmRzTFhjcFdxTFFCR1RVZ0lYWjBKdUJlNm1GdkxVamM?oc=5",
-      "published": "2026-10-25T04:08:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "NAB must come clean on the role of AI in its job losses - AFR",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlZISWhYMjRLLU5FUm13Y1pVamxFUUZTMzg5WGFGeUZkb0oyX196MXRvZWdwbUlpRWUzVVB0cjV4MzZBb0F6MjRqSmVUcWZVREtBcFRmRjBYSGVYOU02czJuWjFQaVBlMXlBTGtkYlhSWktCMzMwTTBWdjZvWjM0eno5LUlFZDVBOG40VVVYZ05XekRTTFZaNE8zaUtFTnZqamZuLUFlY2ZVRUV4OUhIRFF5cjA3QlBSOThqdQ?oc=5",
-      "published": "2026-10-25T04:04:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "ASX to fall after oil resurgence ahead of huge week for investors - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWZiVldJM1VnUHJCa2FmU0NTbkE3SjRheGZnaFg4VzJWTXlIUVJoZGNxMmRVWTRhUDRxQ1U5VkVlRDZzd0FHbkpDbV9iS3JCUjNaTjhlX0xkTTlSSWp3dnVyZWg4OTJOTVhUZWFLb2pNOGVMNVpjbGtFWWVYNUJqS1hJZlFtdXdFM0k0TDVWc2ZtdnJvTTRQb3F4VjJBSzI3a29tbG5WS2U4MWd2SDFtbVVrbG1CRDJrd3lHOHg3TWNBUQ?oc=5",
-      "published": "2026-10-25T03:10:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "‘Extraordinarily weak’: Fewer than half of homes sold at auction - AFR",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0c0dy04U3oxZFludGdQbFR4UGhodXVoRnpnOU13VlZhZFo5cUhEVVFzNkIxbG5EV2piRmg2d0pDZWg3MERZRWRIajJkU056Ty1Jd1RFVlQ3cGc5WW1nLXp0Y1dSRHJsUnpYXzFDVmdkX0tSaG1YZkNEdzVrSmJlNjJQWndqcU9OZEhOS1k2MVkxZWVISHlna05RS2NqVGpDWVEzOFl3OWNDYnBESDNsUVFELVhzQQ?oc=5",
-      "published": "2026-10-25T02:33:00+00:00"
-    },
-    {
-      "source": "News",
-      "via": "Google News index",
-      "title": "Tyro Payments (ASX:TYR) Share Price, Forecast & Analysis - Stocks Down Under",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KTk80bEVpcUdqOVpranByTDhyak1zVjhZQkpmOFI1R3ltRVMtbjlOZ1pSblQyYVZLVTlxbklqLUlWSlZ2Mm5JY0NfSmlrblRLQWxSYTJmb0lTVmJsNjZz?oc=5",
-      "published": "2026-10-25T01:48:07+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "‘Just get rid of her’: Ellison fails to knock out dismissal lawsuit - AFR",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR1hFU19MRmRaWER5RDJsbVFpeTlsQ3dPN1A1Q2p4SWVnWHFwOGtQczJ1Z3BQVF9TUGF2RW03VjFhV09mR0x0STJfS3JSYmZHQUxBYW9yaGxzaDBxekhxcy1ITFVkZ292M215REdDa1JuZ1R4OVo0aUhtSjg2aHZPS1cyZjNRTXdNX180Yi1fSW1hYk5QMTZXcnMwZGhoT0tjMElMek1leVhwLXM2S1U3VmpXZ1ZNb0gyYndldTRnaVFMVWh4MHc?oc=5",
-      "published": "2026-10-25T01:24:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Is this finally the end of the AI trade? - AFR",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM2hfbERyaWxqWjdlMG9QRkRDSjlVek84TGJOOS0xYzdYOGlvVzV1Sk5DQ1psMng1a3JITWw4bl9CeVVfVFZTM1hmNHJtNnE3QjNLWW9vWk9oMkstVzlmS0IzazNvU210WDdnUWxTb2pLZWRXZnZhNU5sOFlPWVYwOFFoaTItRWQ5N2hHT3JuSnBsYXZieU11cnlEX0d1bkU?oc=5",
-      "published": "2026-10-25T01:20:00+00:00"
     }
   ],
   "source_errors": [
@@ -1037,7 +1191,7 @@
     {
       "source": "ASX",
       "via": "Google News index",
-      "count": 48
+      "count": 54
     },
     {
       "source": "Reddit",
@@ -1047,7 +1201,7 @@
     {
       "source": "News",
       "via": "Google News index",
-      "count": 50
+      "count": 55
     }
   ],
   "note": "Public RSS/index links only; not an official licensed ASX/AFR feed. Titles are not verified facts."

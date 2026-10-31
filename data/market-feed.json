@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-10-31T13:01:20.506463+00:00",
+  "updated_at": "2026-10-31T17:38:29.360978+00:00",
   "window_hours": 24,
   "items": [
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "Can Betashares A200 (ASX:A200) Build a Portfolio From Zero? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmpKNlM0OGI4QWtZWXE1X2YyVUpFWWFQTF9vUHlweTlaYktvYVBmVXFwamxXUXRORFZ1cl84aEFHYmVqcjVrOTlaZUg1MVRJcWhnQmljMDI3NUFDTHBHWlJfUTNTTzhkSzhCUHVvU3RxcHlaUThCUXcyRGk1WEdtTDlpRjFVS0ZwektmNW5Qa0tJN1VzSWhZbnVIN1ZJbTJwTWtyNDdR?oc=5",
+      "published": "2026-10-31T16:00:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Browns Range on Hold: What's Delaying Northern Minerals (ASX:NTU)? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUdKaTkySF80VEtNRDlpd20tUGgtMFFqNkFtV0pNT21iLS1OeFpURE05ZWFiX2hNY1VuSG81U3JXQVQtOWd4RDlzRW1XbFpMM3pVV1ZlUTNMVFhFajJpbTRhSlZGc2xxV0RTdm5uODQ2MWtGeVAwVHJPUjR4NGhyUnQtbnpjYVR6SC1hNFlxV0hqT2h4clV3aXRsUTlsRE5jdHVkdlEzWDdXa1BCZnByUE9xRVg0Zw?oc=5",
+      "published": "2026-10-31T15:52:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Can DXN (ASX:DXN) Backlog Hold Up After Losing Its First AI Customer? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMWplUGtOM2t0aWliVXdTN2JUNVRWM2lrUmxVazdGODhpVmp5azZOSmFGQ3BxMXlNejlmWnNfczg1X1UwNjZMYmgxd2JnVUZpRXlGNk42U0NQaUVldC1uaFlnRTgyZlIxTEl0RnZrbnpLMF9Ic3hKMEY1NGt0eTBXN3psc29LTUlocmtDU1lpa1NEeFBKNUJDazJPN2Z3M1NKRGYxbFZyZnFrZw?oc=5",
+      "published": "2026-10-31T15:21:00+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "Is Airtasker (ASX:ART) Subscription Push Gathering Pace? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNnNfVS1QT2xONFpGSjZQaGs1Z3NONTBxODdNZHoxZ1dLVXZLeG85a1ZTRFBQNDJFZG9PWkJ4VlRwWTlHd3FCUXdOR0VibHZ3Q2pkM01QaVRLSGo0aWtCekI3ZzRrQkhrZnNObU9oRHFqVDRjNmpuODFDbEJVQ2Nkd3NoUlhRMHBnVEFVTG5XeVBiNUJfdzJQQw?oc=5",
+      "published": "2026-10-31T15:21:00+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "How Did These Two ASX Stocks, Greenwing Resources (ASX:GW1) and AVITA Medical (ASX:AVH), Gain Over 300% in a Year? - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONlZFa2FMOUFEaDVBclZxVGhLVlVGbFNZYnNZalVyaU1mdGpxMTJEa1l1ZG9GaDlkdjE4b1FSN1pxMV9XbzFfeFBvZWRYX1VZQkNVbVNlTG1Dc1dPOU1qTHNQNjBqdU9YcjhZeHdydHZEWTRGeUZNTGM1Y0JtM0hoNnIxRlpUNGdQOWdMSkQzUWprYjA1QkM4YVNZTW9RR21rQi16RDFnMzBpNTBxZGlXY1NnSl9qTDUxNHkwTTFQd1BMTk5wN2EyZDI3d1ZaVVpkU0NnQmVvdHB3UTVfWXBz?oc=5",
+      "published": "2026-10-31T14:51:00+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "Betashares Australian Top 20 Equity Yield Maximiser Complex ETF (ASX:YMAX): Australian Equity Income Fund Sets November Distribution Dates - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNSE5uVU5iTVlWeFNJblZ1ZUhQaHJzRkZGT2V0QzdRckRMWmlYVGgtZ2RKcWtMZDQwd1huQ2hOdjZHcndzSDFMS21vMTJBcGJQSmFsVTF6SksyNXNzX1AzR0szNEh1TURrNzVENWVBV2JTdWVvR0pJUUhvMzFhSzFBSG1peGU1N1gwRDBwR2VScTc3UjdWVzlBS0xmNjV1RFZOOUxXU1JlYXVtdmhSSnQ2RVVVNkpBY2t3MDdoUThtd3ZfRDF5SlkwTkxtT0EtbGRLUXczMVhYMjJSMEZCT1lES2pTT19DdEM0c1hxRHdZOXdvQkRTbzFULXRmR1hvaXBKaUhLUm00N0J1Tm1U?oc=5",
+      "published": "2026-10-31T14:51:00+00:00"
+    },
     {
       "source": "AFR",
       "via": "Google News index",
@@ -62,8 +104,8 @@
       "source": "ASX",
       "via": "Google News index",
       "title": "Vertex Minerals Limited (ASX:VTX) Quarterly Report - Secures Approvals for Extended Underground Operations at Reward - ABN Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVG9MdWFCMVN5QlZsczRXZ1BNVUFYNlVDZGFPSThPTXdmN21DV2hPR0pGRGhSZF9xZHFaZDBCX3pPVDcwN0oybElEeER1bUNlTzJxNjdTTWFON19DazZJbW45c2h3ZVRnejl1QmJSWkNWZlpmV01MMXFqRDJGdU5wWTZvdWxNRDA3RXlQOG5sNVp2bGMxYUs5RG96anBvLS1lZUxpeHI5cXgzQjVhYWNoYU1jakNBUnJETHp2ZEZ3Zk92WUlIc3JyR0FQQlYzZWtUVXNncHQ3N2dTMk1RQ29pSF9jTnVKRm1sbWlaVWN0TmpiZUxKalE?oc=5",
-      "published": "2026-10-31T00:29:09+00:00"
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNjJYcVRUeWctYkgtMlJrQUtVVjVrNjNrTUFaUzUxdDhDOGZadnVNaVJHQXpKZ3htei1oeEhsU19uXzFVMVpuN1J6cDAyalF5V0hWWEFDZ0Q4X1E2Mm90YzZUVVcyeTVTekc0aVd1UmVya0VGYko0MUEzcmx1WVdoWElHTzBPendOLWV4QUFUYWNERW9SMFdrQ25hZE1BTFk0MWM3V0hrYjB5UWNkTmhBRDBTZk9tVG5ZMl9uN04zVmF5LTYxa1NFU3V4dTZhdUMzOV91amxCQUtBWkZURXVESDBCQ2hCRDVLVFhWdE5ERW1VVWFm?oc=5",
+      "published": "2026-10-30T22:47:51+00:00"
     },
     {
       "source": "AFR",
@@ -115,6 +157,13 @@
       "published": "2026-10-30T19:23:31+00:00"
     },
     {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Will Strict Notice Deadlines Change QBE's (ASX:QBE) Narrative - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORW9BWEhDeThKX1lzbTRQZmVDcURyRmkxNmhkanZMQjNZMFVoM3Z3dUN0V0FVODBRT1Jvb1FUaDRFQ0VRampZZGszMWhPYTRSeU1mcHlUSGRfTjdPSlNoWUtFSkFrV2hIbkp3U1ctQjh0NGluMGxfQzNESHVCbDBrZXYwSkJva2lBWmVEVUx1TU9CSXBJQWE2YUFIckhqZjdVWDBGV1NvaktYUGVTVUdGUGNxT2pjdUtoSllwNEhEU2ROQXZQd1E3U1JsdlJ1LWxwY1pabU5B0gHbAUFVX3lxTE5aem5RT20xcU42amlvSmtpcU1IMFVxLVhjSEo2WGViSlExUkh4T0tqb1FkS0E4MHNEeTB3SnJGMHpGMmV5ZlVJQVp6WFVOYlczcHJWaHROSUwzUUpDZWg4Q0YtZzRKLW00a3k3TXpyT2NNQ1BzS2xxTXpzcGRfVGcwRFpDc2x0Z0ZDTFhUX1Z1aDZQTHhEY05VWkJSelprVjljOFRNUTZVUEJEM3UydXBXNlRwOE5uajRlR0wtNFNrMFk3WW1Nb3FPT01QdnVNSExsUWh1QVdtd200SQ?oc=5",
+      "published": "2026-10-30T18:36:48+00:00"
+    },
+    {
       "source": "AFR",
       "via": "Google News index",
       "title": "ASX RELEASE NOTICE OF UPCOMING EXPIRY OF UNLISTED OPTIONS - AFR",
@@ -141,55 +190,6 @@
       "title": "How two Young Rich Listers went from a $52m fortune to $23m debt - AFR",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2Fyb0pfMXJBT0ZtQlE1dVlXQ2dkNFhmc21JRVUyVGNSV2x1RlVLTVZxTzZfMzNCaC1TRzZ6akpGWlFlcXB3Uk44N3NqYmlwN0o1bC1hWEhkN2RpMG1PRlNEcXkxT0tpcS1WR3JMVUs4a2pTLVlEUE04WWl1RDNPa2FJcVRZM2pWZFJZTzNjY2QtWDU4UjRtMG9penhtcHlPalVwY29ESlhQcGZpRUVwM3dtbDJWRW83dzVpZDljSk5jTlpFNGk0ZUpuT3Y?oc=5",
       "published": "2026-10-30T18:00:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "30 October 2026 Company Announcements Office Australian Securities Exchange Limited Level 4 20 Bridge Street SYDNEY NSW 2000 D - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNanRJd0ZYMEFVQjNsbG1KS1dGWDEtdE1leFZlbE1NR3U0NnNMMTItczllMVpnTU1IeDMwbzBfSVBsSkY3MFVmdW1lNXBWNmZmSk5vanlmQmU4elBQbXNDbHZTekVQMlhRUzhvZ1Q4N1kzaVVTbnJ0RWdYVm4xSGRnanVfQldEWk5EdWFiQ01DNA?oc=5",
-      "published": "2026-10-30T16:39:41+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Option Exercise - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdXJ2bUlHbUlwdWFBX2NNeTREUWxGLThMc2tWcEdBOFlqTVpWUmpfX25hRGJmWHZuLVNLU0d5WGY4ZkpiR2ZhMm1MZE52RWFDMHA4aG5PNEUzdmRBTElwMkpock5ralpQRUlKSWFEdFdJRU1ZVW5RYjMtUDVPc015UjNWQ1l0dkRwLVNLWmpPTQ?oc=5",
-      "published": "2026-10-30T15:09:31+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Appendix 2A - Application for quotation of securities - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNkhhdTdzdkhYQlNSdXRxM0syOTBYMkF4bms4QzJ0LUphSDFOUlVHZWpnOFdmQlk0WmZKdGpvNmFyd3dPMFdMeGZHcjM2ZGxCRElEUUlWOUppelVtZVFjS0FBZDFmcFFYeHR6bkgyemNJZVhBaHZIcXNZeW44TzZyY2tabjRqWC1wRGY1U3RRdw?oc=5",
-      "published": "2026-10-30T15:09:31+00:00"
-    },
-    {
-      "source": "News",
-      "via": "Google News index",
-      "title": "Which Two ASX Stocks Rose Around 75% in a Year? Wagners (ASX:WGN) and FleetPartners (ASX:FPR) - Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR014VUdDNDNVU2FtWUNDdi1INWNnY2xGZmcxT0RlbmU4ZWhqWjlSTmVQV09kbHFmdGMydW5TUV8ySl96dG1fbnpMenpQOGJKRmNEaExnWkxTS0xCODVxa1VrRTJqOVk1dmJHTmVlNnNrTmtOYTI0Nko3VVRaZGpYUFdpNHczYXRRWk5yWmxjczRuY2Vzb0RIY25kaHVOUUpRRDQ4ZTllcnhnTXlaXzJXU1N6cURWTUNzQzhjUzFWSTdUbGVEb1E?oc=5",
-      "published": "2026-10-30T13:51:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "sign here Signature Notice of ceasing to be a substantial holder Form 605 - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmllZk1fUHRzNmtjY2Y3UC01OVdvODdSNEJENW9PSUVvX0phdHhzZEwxNTNtaUF6cGVBZ0dGamp3S0dwTUUzSHVoOEc2T0k0dDV5SXNwZHk5OUZvZVB1UjU1TlhRYWQ5VjBOWlZCVkhMWk1QWUZiM2lyd0NhYnhSV1Zqcm13NE9neWFzRnYxNA?oc=5",
-      "published": "2026-10-30T13:44:28+00:00"
-    },
-    {
-      "source": "News",
-      "via": "Google News index",
-      "title": "How Is ResMed (ASX:RMD) Balancing Growth and Capital Returns? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY01QdUNZNzYtRDRzMEJicm9YUXowTUNaMnZHZlc5ZVdtQVI3cUx3WTVpcmVmYmN0S2s5aFJjTUlaMGk2WEhmM21NQUlCbzhhLVN6N2tncXFVX2stMEVPc1VMNElseUNZUXVEVVVLV3EteGJlUnV5aDVrTDZnSWpwQm5DeWRLa2RyM0pfeVBrck56QmE3TktLOTkyT09GNGo0Mlc4?oc=5",
-      "published": "2026-10-30T13:08:00+00:00"
-    },
-    {
-      "source": "News",
-      "via": "Google News index",
-      "title": "Does Amotiv (ASX:AOV) Buyback Offset Its Lower Profit Outlook? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV3NhVmg0OWFTYXlzQ3h4b05qSHFSV3JVTjFPdzJLQVB5YmxFYmpVRDBpTi10V2lyQzJaNGlqSTl3MEZMZWpZempaOERJNFpFbWdIb2RWVjhaeEZPVWVwVzdBbHNVX0tGemtMRllqdnU4QUkzVlNXRmNGdmZPSHVUMWhFcUItUE1HTWMzOW81cE5zLV9IT255bnF1cTJWbXlqVGJFWg?oc=5",
-      "published": "2026-10-30T13:08:00+00:00"
     }
   ],
   "source_errors": [
@@ -211,7 +211,7 @@
     {
       "source": "ASX",
       "via": "Google News index",
-      "count": 64
+      "count": 29
     },
     {
       "source": "Reddit",
@@ -221,7 +221,7 @@
     {
       "source": "News",
       "via": "Google News index",
-      "count": 61
+      "count": 62
     }
   ],
   "note": "Public RSS/index links only; not an official licensed ASX/AFR feed. Titles are not verified facts."

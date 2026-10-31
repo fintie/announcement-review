@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-10-31T20:38:59.593250+00:00",
+  "updated_at": "2026-10-31T23:41:40.828711+00:00",
   "window_hours": 24,
   "items": [
+    {
+      "source": "News",
+      "via": "Google News index",
+      "title": "Australian Foundation Investment stock: buyback reaches 43.1 million shares - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ0MtZWdBbDdoaHBJbF9KYW9zcEY2dVJZbXEzNFhYa2lwSXluZlN0ZUUzTE9odFlTcjhVZG1jTkxnRE12Z1U5NHZ5WXJxcmtfZHdVaGlYQ3BQZzA1TGd1eGtGOWRfSUxNVVQxRGlYMTFhYm5vQmM5U0ZJZk95NkpwdzBuUXVzMmU1N2s1dzRnRnZWZDFEeUpZU3dJLUZDUGU1VHZMYlNyVjFLb1BCeXQ1S1NKRTgxVWdBdXIzNDhUTjVkTzMzVkJMNENvZldPZw?oc=5",
+      "published": "2026-10-31T23:32:12+00:00"
+    },
     {
       "source": "News",
       "via": "Google News index",
@@ -12,9 +19,30 @@
     {
       "source": "News",
       "via": "Google News index",
+      "title": "Can Betashares A200 (ASX:A200) Build a Portfolio From Zero? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmpKNlM0OGI4QWtZWXE1X2YyVUpFWWFQTF9vUHlweTlaYktvYVBmVXFwamxXUXRORFZ1cl84aEFHYmVqcjVrOTlaZUg1MVRJcWhnQmljMDI3NUFDTHBHWlJfUTNTTzhkSzhCUHVvU3RxcHlaUThCUXcyRGk1WEdtTDlpRjFVS0ZwektmNW5Qa0tJN1VzSWhZbnVIN1ZJbTJwTWtyNDdR?oc=5",
+      "published": "2026-10-31T16:00:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Browns Range on Hold: What's Delaying Northern Minerals (ASX:NTU)? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUdKaTkySF80VEtNRDlpd20tUGgtMFFqNkFtV0pNT21iLS1OeFpURE05ZWFiX2hNY1VuSG81U3JXQVQtOWd4RDlzRW1XbFpMM3pVV1ZlUTNMVFhFajJpbTRhSlZGc2xxV0RTdm5uODQ2MWtGeVAwVHJPUjR4NGhyUnQtbnpjYVR6SC1hNFlxV0hqT2h4clV3aXRsUTlsRE5jdHVkdlEzWDdXa1BCZnByUE9xRVg0Zw?oc=5",
+      "published": "2026-10-31T15:52:00+00:00"
+    },
+    {
+      "source": "News",
+      "via": "Google News index",
       "title": "What Does Alphabet's Slide Mean for the Nasdaq ETF (ASX:NDQ)? - Kalkine Media",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeWZ0TzhUYU5KNVQtSWFXeEprUXBsY0FHRFVFQXpGRzVPTDNEY1lwTlZjb3RkeHNQX1dVa01ldXE4Q0huSkJXU3NTeGY5VHV0ZmYwVmhzVWJnSTlnNEctQlhKdTBaa3VEMnlUblgtQlFFX0lzLTk1UW5ZNUwwQTRtNGlNU1k5WmpMaFUtZ1p6QWdjbGdJdWNvLUl2WQ?oc=5",
       "published": "2026-10-31T15:24:00+00:00"
+    },
+    {
+      "source": "ASX",
+      "via": "Google News index",
+      "title": "Can DXN (ASX:DXN) Backlog Hold Up After Losing Its First AI Customer? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMWplUGtOM2t0aWliVXdTN2JUNVRWM2lrUmxVazdGODhpVmp5azZOSmFGQ3BxMXlNejlmWnNfczg1X1UwNjZMYmgxd2JnVUZpRXlGNk42U0NQaUVldC1uaFlnRTgyZlIxTEl0RnZrbnpLMF9Ic3hKMEY1NGt0eTBXN3psc29LTUlocmtDU1lpa1NEeFBKNUJDazJPN2Z3M1NKRGYxbFZyZnFrZw?oc=5",
+      "published": "2026-10-31T15:21:00+00:00"
     },
     {
       "source": "News",
@@ -26,9 +54,9 @@
     {
       "source": "News",
       "via": "Google News index",
-      "title": "Can DXN (ASX:DXN) Backlog Hold Up After Losing Its First AI Customer? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMWplUGtOM2t0aWliVXdTN2JUNVRWM2lrUmxVazdGODhpVmp5azZOSmFGQ3BxMXlNejlmWnNfczg1X1UwNjZMYmgxd2JnVUZpRXlGNk42U0NQaUVldC1uaFlnRTgyZlIxTEl0RnZrbnpLMF9Ic3hKMEY1NGt0eTBXN3psc29LTUlocmtDU1lpa1NEeFBKNUJDazJPN2Z3M1NKRGYxbFZyZnFrZw?oc=5",
-      "published": "2026-10-31T15:21:00+00:00"
+      "title": "Will Spring Racing Lift BETR Entertainment (ASX:BBT) Margins? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXBXY2E5QWVlZTdvVGlYVWUyTE16WENJOGFhOEROMF9maGQ1WXg0UE85U05ueDZYaHhlamVydEY5YWJfVmZvTnRhNnFXRVIwNzVqc2ZaZzNfSzhYa2JWcmNrTHFvWVA5VE96V3hkbFpEMU1HN1lGcmNETVFtSmFTNDBLdVZDSzJNWnI0QmJFVWNjMUNZT0FWemhiT0lBN2c?oc=5",
+      "published": "2026-10-31T15:20:00+00:00"
     },
     {
       "source": "News",
@@ -113,27 +141,6 @@
       "title": "3 Australian Undervalued Tech Stocks To Watch In October 2026 - Simply Wall St",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEhtWHQ2Mno3SlYwZFBPdnQ1aWlIT1NzOXlWZU9hemt6alJTRVFGUkI5WFJycEtOWTB5dVIzZWhVaV8tZ3BvN3M5N1paak91UmVZcExyOW1hUHdidWxLcGstVU1nY2hQTFZsMkQ1a1RzMUtidjRESjVxNXd1OVdsY2N2RHJQMEhfSVROMWxOVVVqdU1fOXVVT0tLMUpKLWpCNHh6Sl9ybWJmdFBfTTNJWXFSb251bEljbjd6ZHBKRktkZXpILXfSAcsBQVVfeXFMT1pMRHRZM3RJRnpQbnFVb0Z0LUF2bmp6MEVtZXFUcFRHMTNVYlk5cHg3bVFGUlUwNEhDZkRIaTZhWk90Y2hhVER3MGtYZ0NBeUYzeHNDX01uSGI2LWd4QnhVckVDemtTM0I0bjVaTnhUV0JJODVtMFRnQmNIbHltQS1zMEV1YUR6UnhjMmgyaUtRYkJ1dk5Sc19EalBhTU9IeGRLZE5UckxIU3dubzZqdjNRMkdvQ1FaRU16VFQtMndYdHRxYmxhdWM0Sms?oc=5",
       "published": "2026-10-30T23:59:03+00:00"
-    },
-    {
-      "source": "News",
-      "via": "Google News index",
-      "title": "How to build a $250,000 ASX share portfolio from zero - The Motley Fool Australia",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQanJyUVJPUUFHWWRFWWZ0cDFfUUFJeGg0cmtKZGtSRU5nTkh2VVk1RDBHVWFIRk8zT2NtZ2dmSE14MHlObC1QWUNIcUU3SzNPR3hmUlpXSW40OTNfVzJqaFdEWTBBbGdLUmYtS2ZUNzhodjJQSUljUXZsWDlNVWZBWkg3VWprYzRxWDJYdGRGODk?oc=5",
-      "published": "2026-10-30T22:04:53+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Orion Announces Board Succession and Appointment of New Chair - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEhBZFBBMUwtWHo3VWZoN3hSaWlrbXB5NHM0TUZEXy1qWnhTbWF4NmxRSVFBRXdtdmdoX016Qm5kdk1pMVQ3YndCQ0tDM2pFeE5kaVgxUmlfR1RGOU1HMUdaVUpLOWp2UzM1cW1Hc2dHbkc3TVNzQzl5alYwSXFKc3dDYmI5OUl1ai10S3B3Yw?oc=5",
-      "published": "2026-10-30T21:53:47+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Change of Company Secretary - AFR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYjAtdHhXajNKOXdsTTNwazljVnBjTkpkWlBBV1RWWDItaUFxQXVJekY3dTVKbkV3VzB6a2VIWjR4NnBaNW1hNkhscjR3WURhT2NpczFBazZMZFJ1SVZFOXl3Q1BWWTRfanFnOEhDbTlvQ2JVOHZpNzFuRkh6TDUzWlprMlpPeWI1ZE1QSUNXQQ?oc=5",
-      "published": "2026-10-30T21:29:48+00:00"
     }
   ],
   "source_errors": [
@@ -155,7 +162,7 @@
     {
       "source": "ASX",
       "via": "Google News index",
-      "count": 62
+      "count": 64
     },
     {
       "source": "Reddit",
@@ -165,7 +172,7 @@
     {
       "source": "News",
       "via": "Google News index",
-      "count": 29
+      "count": 62
     }
   ],
   "note": "Public RSS/index links only; not an official licensed ASX/AFR feed. Titles are not verified facts."

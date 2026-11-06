@@ -1,0 +1,17 @@
+{
+  "name": "studio-imd-client",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "esbuild client.js --bundle --format=esm --target=es2022 --outfile=../assets/imd-client.js",
+    "build:pages": "python3 build_pages.py"
+  },
+  "dependencies": {
+    "@x402/core": "2.28.0",
+    "@x402/evm": "2.28.0",
+    "viem": "2.54.1"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.12"
+  }
+}

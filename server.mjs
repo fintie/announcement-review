@@ -1,4 +1,6 @@
 import http from 'node:http';
+import {createBridge} from './imd-bridge.mjs';
+const imdBridge=createBridge();
 import {readFile,writeFile,mkdir,rename} from 'node:fs/promises';
 import {dirname} from 'node:path';
 import {createHash,randomUUID} from 'node:crypto';
@@ -65,6 +67,8 @@ const botPrompts=[
 async function injectBot(){const t=Date.now();await mutate(db=>{for(const thread of Object.values(db.threads)){const human=thread.comments.filter(c=>c.role==='community');if(!human.length||thread.comments.length>=150)continue;const last=Date.parse(thread.last_bot_at||thread.created_at);if(t-last<4*3600000)continue;const i=thread.comments.filter(c=>c.role==='bot').length;thread.comments.push({id:randomUUID(),author:'Research Bot',role:'bot',body:botPrompts[i%botPrompts.length],created_at:now(),reply_to:null});thread.last_bot_at=now()}return true})}
 setInterval(()=>injectBot().catch(e=>console.error('bot',e.message)),3600000).unref();
 http.createServer(async(req,res)=>{
+ if(req.url?.startsWith('/imd/')||req.url?.startsWith('/explorer/'))return imdBridge.emit('request',req,res);
+ if(req.url==='/imd-bridge/health'){req.url='/health';return imdBridge.emit('request',req,res);}
  const origin=req.headers.origin;
  if(origin&&!origins.has(origin))return send(res,403,{error:'Origin not allowed'});
  res.setHeader('Access-Control-Allow-Origin',origin||'https://announcement.nextgenius.com.au');

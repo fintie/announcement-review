@@ -1,13 +1,27 @@
 {
-  "updated_at": "2026-11-21T15:22:14.891619+00:00",
+  "updated_at": "2026-11-21T20:56:48.168629+00:00",
   "window_hours": 24,
   "items": [
     {
       "source": "AFR",
       "via": "Google News index",
-      "title": "Georgie Preston - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOUElIR1lNaUltNzRfTWRQV2pLdmJaVVlpalVjZks0MGkzTjhWSEtZWWxqSkhkdDlpWW11RVRkRG1LOG9HRUI3bUdvMzJWRzlEaHRxYkFaZHo?oc=5",
-      "published": "2026-11-21T11:35:47+00:00"
+      "title": "Private Markets | Private Equity, Venture Capital and Private Credit News | Australian Financial Review - AFR",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hdFdXSzZoZTVwU09XNnBIU3MwTDl5dmIwZlZPNDRHODFnMzRxR1JyUEVCQnI5TGQ4bEN5Mlo0UFdGdXBmaDYyeExjWlFnbk04clJtNGNn?oc=5",
+      "published": "2026-11-21T20:30:44+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Is Mercedes-Benz blazing a trail for self-driving cars in Australia? - AFR",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVFdjUy1YVDVvZml0UVRnWldRenAzY2dvQk9sVzFDSGZjanVad21SbktsTWtfaWUyRGNReHloSjRkRmxJbTBJTmw0VU9OTkwxNExrdk0ySmxFZnRXMmRnMG4yRktRdUdLSEkyQTBPeXljZDAzNDR5Q3RsSW11T3lfc29Gc0lVdjN0LUduaERsWFJydC1teHlFNXc5b0RCdUxwcmN4eG0tNW8wN3ZjUVFoSi1haGI2RHRPWXpqX3YtNVA4SmFkSlpXUEo2X2NBTGJyTWRpandDQQ?oc=5",
+      "published": "2026-11-21T18:00:00+00:00"
+    },
+    {
+      "source": "AFR",
+      "via": "Google News index",
+      "title": "Topic | AFR Interviews | Australian Financial Review - AFR",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNSTJ2QXNPdUhkWnRMVklmeDYzUHFvNnBjb2RlSllyY1FwVHpFeE1LQ3BQQlZmY1JVczRmY3NDZkxndW1KRWh2Uk1LX214UkI5UV9pWllWVFA?oc=5",
+      "published": "2026-11-21T16:15:46+00:00"
     },
     {
       "source": "ASX",
@@ -78,48 +92,6 @@
       "title": "Nvidia employees complained about Jensen Huang’s behaviour years ago - AFR",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVmVpSGlUdnE0NV9PWDNnZ3VKWEgxdElOQ1ZlLWgyeVZ3T002YWJOVFhwS293TEJXLWpteERGa0s1YUtINUlCYmhMcml2V0JROUJ1ZVVKbG9rTklKZkJ2a295YkNKblhZb194cmJ2bXRINnBMVFNpX2tXNDIyZmFhWVFXVXUxcVdGc29ORUlzcXlIN0g5ekJuSU1pTXFQeHBmYW1fY1VkTHV2TUNVVU9LRmRVVXgxb0Vk?oc=5",
       "published": "2026-11-20T20:59:00+00:00"
-    },
-    {
-      "source": "News",
-      "via": "Google News index",
-      "title": "Up 70% over the past year, why I think this ASX copper company is just getting started - The Motley Fool Australia",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSF9LMjRUaEtSaHhmQV9ubVdYamNrdEc1clJMSTJBX3dsOWdMVjhrSkJ2SlJZMUp4RFZ4TlItcmstSlVmOFNFcm56aW1sRnN3TDRwbFMzQ1EzWU54NENaaEs3NW5kWXA3YzRIQVVyck9BSE5zOENscDFmUE5RajM3cVhYUjV3OEZ3TVMza3A0U05obFl1Z2Z6NF9BQWJqNGRleHRlbEVKYzVNRENESmJ0N1RRaTgyN0dHWDBjRQ?oc=5",
-      "published": "2026-11-20T18:30:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "A fashionable North Face collab and a $710 face serum to splurge on - AFR",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLVpVamZRWTRqcDFYdDRnZjFleWlBZUhFVkw3VF9fM1FRY3BLMUNUcUxPU0JkVzhjLTMzTGNKaFVQaF9SWlAwdUJ1VW5TN3p2YmQ2ZEJTMUVaM0dHTUVOd3BOYlRMaU5ZT3hQNjFDczh3YWJENlkwSG82TnExeXVrZ1VzYUJrdF9JNEEzemhlOUpNNWRpMVdTVjg2N2t3WnZER1dob09GaDZxV05wYm5qaWZRQlRyRWRzVUlMY2lZNG1lN2N3Q0FJWk1EWTJTc01tWnc?oc=5",
-      "published": "2026-11-20T18:00:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Regal’s Phil King sees year-end AI rally after $2.7trn Anthropic IPO - AFR",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMWN3UTJhVU1LR2IzTDdzU0hQY0JGRUZobEJWNXpFam1naUJ2UWpFbFFNU1VJd2NpbVVveDVFNlNhUGIzTDJrcF9QRVA1amlmazNBUHJaaWhBZ1VpRFBnenNrYkdMbFpKcWR4dEZOejdCQU9HREsxUHVRLWYycnFLZlFya0htTmNZTlA5VUFhaEhQbzlBblZqRHlLUERyYTFYMU1YSGRzcHBQTWVfd0ZvUUt1V0pRVElBRVJFSmduSnlpdlVT?oc=5",
-      "published": "2026-11-20T18:00:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "AI shopping agents have arrived and major brands are quietly panicking - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVTdMRlVaV0kwY1pQQkpKY1h4Q1c2emtZUUFjT1pfOGtOWTFDamktVUdvU01FS1YxSS1Gc0lCM000MFdKNWtwWHV1WVNtMHZKWWQ4TVRTUHBOY1N6emVkUzdsUnpEb1JsZzFKVGFVZ3pMcGNoeUt2MXVCZ2xrNWdha1pFSVpLeW9IZXBFaGVQWWV1ZjBLSXJCSUl1NldyVFd1RXdhODNkd1BHeE5tLUhib0txZnEtMEYt?oc=5",
-      "published": "2026-11-20T18:00:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Can Olivia Wirth make Myer matter to Gen Z shoppers? - AFR",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFNpQkhaZHQ0M3E5Q0Nxbm1EU1JMUkpaUi1KbERGMjdEemMwZW9VUXhPVk1uOG9XcXgxc0dwT3VtdWJZcVF0UzRnd0ZleW9aUzhWVXFDREdBTU10RWdKazVfZTlPQWJyZE5Uam1XcEN3bFcwTUc1SmIyZ01WNFM2d0c2RDdzVy0ycU1GWVk1bWt2ZWxIcG5NS3RuSVNValY2MDBsRkRhTQ?oc=5",
-      "published": "2026-11-20T18:00:00+00:00"
-    },
-    {
-      "source": "AFR",
-      "via": "Google News index",
-      "title": "Perfect storm hits incomes: inflation, high rates and job loss - AFR",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPejNVTVp6eEpTenRtZ1BoeUNRZ0JwNUJhSHRtT1RmakZNSG1pTmE4bkxNMEw2ZVFZampYSHhCWFpJOE1JbGhVZVhxdHRfYTROZUtjNUx6QUQtQlB2OVJpT0lfU1N1cW91YkpSYVRQNXdZQ1Z1TmlmX24tYVNqMWxlTENka0RGR09la09BX1laN2w5RDdQQWVpTHM5cVl6OXlYcGdZREx5RE4zdnZpUWVn?oc=5",
-      "published": "2026-11-20T18:00:00+00:00"
     }
   ],
   "source_errors": [
@@ -137,7 +109,7 @@
     {
       "source": "AFR",
       "via": "Google News index",
-      "count": 68
+      "count": 67
     },
     {
       "source": "ASX",
